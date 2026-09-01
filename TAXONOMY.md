@@ -50,11 +50,11 @@ A note on compound operations: most strong instances of expressive typography in
 
 ### Mutation
 
-**Definition:** A letterform retains its typographic identity but one or more of its structural properties sucha as its stroke weight, curve, terminal, axis, or proportion, is deliberately deformed to encode meaning.
+**Definition:** A letterform retains its typographic identity but one or more of its structural properties such as its stroke weight, curve, terminal, axis, or proportion, is deliberately deformed to encode meaning.
 
 **Axis:** Structure. The letterform remains recognizably itself. It has not been replaced, removed, or extended, but its internal geometry has been bent, compressed, stretched, or otherwise altered to carry conceptual meaning through the nature of the deformation itself.
 
-**Corpus example:** In *imposter* (ET-008), a single letterform within the word is rendered in a mismatched typographic style and subtly alien among its neighbours. The letter has been structurally destabilized, enacting the semantic condition of the word through the nature of its deformation.
+**Corpus example:** In *EXPERIENCE* (ET-004), the E's geometry is being incrementally revealed until it is fully restored. Each E instance before the last E has one or more missing strokes. The E letterform is incomplete in stages, which denotes the alteration of its geometric structure.
 
 **Boundary condition:** Mutation is distinguished from Inflection by the locus of change. Mutation alters the letterform's geometric structure, which include its strokes, curves, or proportions. Inflection alters only the letterform's non-geometric attributes. That is, its position, orientation, fill state, or color.
 
@@ -65,9 +65,9 @@ A note on compound operations: most strong instances of expressive typography in
 **Axis:** Presence. The letterform does not exist in the composition. It has been deliberately withheld. The meaning is encoded in what is not there, and the reader's mind supplies the missing form automatically, 
 experiencing the gap as both a typographic event and a conceptual statement.
 
-**Corpus example:** In *GHOST* (ET-002), the O is entirely absent. There is no outline, no negative space device, no implied geometry. The surrounding letters and the semantic weight of the word allow instant reconstruction of the missing letter, while the gap enacts the very condition the word names. The O was chosen specifically because it is the most visually substantial letterform in the alphabet. This makes its disappearance maximally felt.
+**Corpus example:** In *GHOST* (ET-002), the O is absent. The surrounding letters and the semantic weight of the word allow instant reconstruction of the missing letter, while the gap enacts the very condition the word names. The O was chosen specifically because it is the most visually substantial letterform in the alphabet. This makes its disappearance maximally felt.
 
-**Boundary condition:** Suppression is distinguished from Integration by the nature of the absence. In Suppression, the letterform is simply gone. Its position in the word is empty. In Integration, letterforms are fused so that shared geometry performs double duty, but all letterforms remain present in some form. Strong Suppression requires the removed letterform to satisfy two simultaneous conditions: it must be maximally present in its normal typographic state, and its absence must be maximally meaningful in the specific semantic context of the word.
+**Boundary condition:** Suppression is distinguished from Integration by the nature of the absence. In Suppression, the letterform is simply gone. Its position in the word is empty. In Integration, letterforms are fused so that shared geometry performs double duty, but all letterforms remain present in some form. Strong Suppression requires the removed letterform to satisfy two simultaneous conditions. It must be maximally present in its normal typographic state, and its absence must be maximally meaningful in the specific semantic context of the word.
 
 ### Extension
 
@@ -98,10 +98,9 @@ between letterforms, where shared strokes or counters do double duty as both typ
 
 **A note on attached environmental effects:** Inflection extends beyond the intrinsic properties of a letterform to include non-typographic effects that exist in the letterform's environment rather than within its geometry.Motion trails, shadows, glows, halos, and similar conditions are examples of effects attached to the letterform without altering its shape. These effects are Inflection operations because they modify the state in which the letterform exists, not the structure of the letterform itself.
 
-**Corpus example:** In *DROP* (ET-007), the O letterform is geometrically intact. Its circular form is entirely unmodified in structure. Its meaning is encoded through two simultaneous non-geometric attributes: its position, displaced far below the typographic baseline to where a falling drop would land and a motion trail. The motion trail is a non-typographic gradient streak attached to the O that visualizes the kinetic act of falling. Neither attribute touches the O's geometry. Together they encode both the position of a drop and the act of dropping.
+**Corpus example:** In *DROP* (ET-003), the O letterform is geometrically intact. Its circular form is entirely unmodified in structure. Its meaning is encoded through two simultaneous non-geometric attributes: its position, displaced far below the typographic baseline to where a falling drop would land and a motion trail. The motion trail is a non-typographic gradient streak attached to the O that visualizes the kinetic act of falling. Neither attribute touches the O's geometry. Together they encode both the position of a drop and the act of dropping.
 
-**Boundary condition:** Inflection is distinguished from Mutation by the locus of change. Mutation operates on the 
-letterform's geometric structure. It alters strokes, curves, and proportions. Inflection operates on the letterform's variable states. Its position, orientation, fill, opacity, color, and attached environmental effects, while leaving geometry entirely untouched. If the letterform's shape has changed, the operation is Mutation. If only its conditions or environment have changed, the operation is Inflection.
+**Boundary condition:** Inflection is distinguished from Mutation by the locus of change. Mutation operates on the letterform's geometric structure. It alters strokes, curves, and proportions. Inflection operates on the letterform's variable states. Its position, orientation, fill, opacity, color, and attached environmental effects, while leaving geometry entirely untouched. If the letterform's shape has changed, the operation is Mutation. If only its conditions or environment have changed, the operation is Inflection.
 
 ## Stress-Testing the Taxonomy
 
@@ -119,8 +118,7 @@ Upon examination, every proposed example of Elevation proved reducible to one or
 
 With five primitives established, a second round of stress-testing was conducted through a deliberate edge case hunt Six examples that felt expressive but resisted easy classification were sought to expose gaps in the taxonomy.
 
-Four (*Experience*, *Free*, *Now*, and *Throw*) of the six classified cleanly under existing primitives or their 
-combinations. Mutation accounted for *Experience* and *Now*. A combination of Extension and Substitution accounted for *Free*. Mutation and Extension in combination accounted for *Throw*.
+Four (*Experience*, *Free*, and *Throw*) of the six classified cleanly under existing primitives or their combinations. Mutation accounted for *Experience*. A combination of Extension and Substitution accounted for *Free*. Mutation and Extension in combination accounted for *Throw*.
 
 Two examples resisted classification: *DROP* and *FILL*. *DROP* presented a letterform, *O*,  that had not been substituted, mutated, suppressed, extended, or integrated. Its circular geometry was entirely intact. Yet it was clearly performing expressive meaning through its displacement below the typographic baseline and through a motion trail of a gradient streak visualizing the kinetic act of falling. The operation was happening at the level of the letterform's state rather than its structure.
 

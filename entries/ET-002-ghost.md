@@ -5,30 +5,21 @@ designer: Unknown
 year: Unknown
 source: Pinterest
 primary_primitive: Suppression
-secondary_primitives: []
-primitive_relationship: {}
+secondary_primitives:
+  - primitive: Inflection
+    relationship: enables
+    primitve_relationship_explained: The O is rendered in background color (fill state and color manipulation), making it a physically present foreground shape that occludes portions of the H and S. This Inflection operation is what produces the perceptual experience of Suppression. Without the O's invisible presence, the occlusion of H and S would not exist, and the O's absence would read as a kerning gap rather than a conceptual event.
 target_glyphs:
   - O
-legibility_integrity: Full
+operation_description: >
+  The O is rendered in background color and placed in the foreground of the composition, where its circular geometry physically interrupts the strokes of the adjacent H and S, truncating the right pillar of the H and the left part of the S. The O is not gone. It is the most present element in the word. But its fill state makes it perceptually suppressed, so it reads as an absence while functioning as a presence. The word reconstructs instantly as GHOST because the remaining letterforms and the word's semantic weight supply the missing form. The gap is experienced simultaneously as a typographic void and as a shape exerting force.
+concept_encoded: Ghostly presence-as-absence; a thing that is there by virtue of what it displaces.
+semantic_mechanism: >
+  The O was selected because it is the most visually enclosed and substantial letterform in the word. Its invisibility is therefore maximally felt. But this design goes further than simple removal. The O is hidden, and its hiding has consequences. It occludes the letters around it, leaving evidence of itself in the interrupted geometry of H and S. The ghost is present, displacing the visible world around it. The Inflection operation encodes this with precision.
+legibility_integrity: Full. The word reads as GHOST without hesitation or contextual support
 surprise_legibility_ratio: 5
+curatorial_note: >
+  What initially reads as a clean Suppression entry reveals itself, under close observation, to be structurally more complex. The O is the most foreground element in the composition, but has been rendered invisible by a fill state operation while exerting geometric force on the letterforms around it. The truncated parts of the H and the S are evidence of the O being the most foreground element. The ghost is present precisely where it appears to be gone, and it announces itself by what it displaces. This is the defining paradox of the ghost as a concept.
+generative_principle: >
+   When the suppression of a letterform is rendered through fill state manipulation rather than mere removal, it can exert geometric force on surrounding forms, which may include occlusion, interruption, or displacement. This transforms a single primitive operation into a compound one.
 ---
-
-## Operation Description
-
-The O is entirely removed from its position between H and S. No outline, no negative space device, no implied geometry. The letterform is simply absent. The word remains fully legible because the surrounding letters and the semantic weight of the word itself allow the reader's mind to supply the missing letter automatically and instantaneously.
-
-## Concept Encoded
-
-A ghost; the state of being absent, invisible, or present only as a trace.
-
-## Semantic Mechanism
-
-The O is the most visually present letterform in the alphabet. It is a closed, full, symmetrical form with no open counters or ambiguous terminals. Its selection for removal is therefore maximally felt. The gap it leaves is a semantic act and enacts the very condition the word names. The choice of the O specifically rather than any other letter is what elevates this from a typographic trick to a conceptual argument.
-
-## Curatorial Note
-
-Ghost is the purest instance of Suppression in the corpus precisely because it requires no supporting primitive. The operation is singular and total. One letter removed, one concept performed, nothing else needed. It also demonstrates a principle that will recur across strong Suppression examples: the removed letterform must be both maximally present in its normal state and maximally meaningful in its specific semantic context. The O in GHOST satisfies both conditions perfectly. It is the roundest, most solid letter, and it is the letter whose absence enacts invisibility.
-
-## Generative Principle
-
-Strong Suppression requires the removed letterform to satisfy two simultaneous conditions: it must be maximally present in its normal typographic state, and its absence must be maximally meaningful in the specific semantic context of the word. The more substantial the letter in its normal state, the more powerful its disappearance.
