@@ -1,9 +1,9 @@
 ---
-entry_id: ET-009
+entry_id: ET-007
 word: Television
 designer: Unknown
 year: Unknown
-source: Uploaded image
+source: Pinterest
 primary_primitive: Substitution
 secondary_primitives:
   - primitive: Extension
