@@ -75,7 +75,7 @@ experiencing the gap as both a typographic event and a conceptual statement.
 
 **Axis:** Boundary. The letterform's edges are pushed beyond their expected limits, either upward, downward, or outward, so the geometry that crosses the typographic boundary becomes the primary carrier of meaning. The letterform remains legible within the word while also operating outside it.
 
-**Corpus example:** In *Copernicus*, the C letterform is scaled and extended so dramatically that it escapes the typographic baseline entirely, becoming a large orbital ring that diagrams the heliocentric system the word references. The extension is so extreme that the letterform physically detaches from the word and operates as both a letter and a cosmological diagram.
+**Corpus example:** In *Copernicus* (ET-005), the C letterform is scaled and extended so dramatically that it escapes the typographic baseline entirely, becoming a large orbital ring that diagrams the heliocentric system the word references. The extension is so extreme that the letterform physically detaches from the word and operates as both a letter and a cosmological diagram.
 
 **Boundary condition:** Extension is distinguished from Substitution by the completeness of the iconic reading. Extension elongates existing strokes to suggest or connect to a concept. The object or idea is implied by the extended geometry rather than fully contained within the letterform. When the letterform's geometry fully becomes or contains the external object, the operation crosses into Substitution.
 
@@ -86,7 +86,7 @@ experiencing the gap as both a typographic event and a conceptual statement.
 **Axis:** Relationship. No single letterform is individually altered. The meaning emerges from the zone of contact 
 between letterforms, where shared strokes or counters do double duty as both type and image simultaneously. The fusion is the operation. The individual letterforms are its raw material.
 
-**Corpus example:** In *Trust* (ET-010), the "r" and "u" letterforms are structurally fused at their point of contact. The descending arm of the "r" and the left stem of the "u" share geometry in a single continuous stroke. The counter that would normally separate them has been eliminated. The meaning emerges entirely from their zone of contact,producing a seamless fusion that makes the word feel structurally indivisible and enacting the very quality the word names. The typography performs trust by making its own letterforms inseparable.
+**Corpus example:** In *Trust* (ET-006), the "r" and "u" letterforms are structurally fused at their point of contact. The descending arm of the "r" and the left stem of the "u" share geometry in a single continuous stroke. The counter that would normally separate them has been eliminated. The meaning emerges entirely from their zone of contact,producing a seamless fusion that makes the word feel structurally indivisible and enacting the very quality the word names. The typography performs trust by making its own letterforms inseparable.
 
 **Boundary condition:** Integration is distinguished from Substitution by the locus of the iconic reading. In Substitution, a single letterform contains or becomes the external concept. In Integration, the concept emerges from the relationship between two or more letterforms. It exists in the space between them rather than within any one of them.
 
@@ -116,9 +116,9 @@ Upon examination, every proposed example of Elevation proved reducible to one or
 
 ### The Edge Case Hunt
 
-With five primitives established, a second round of stress-testing was conducted through a deliberate edge case hunt Six examples that felt expressive but resisted easy classification were sought to expose gaps in the taxonomy.
+With five primitives established, a second round of stress-testing was conducted through a deliberate edge case hunt. Four examples that felt expressive but resisted easy classification were sought to expose gaps in the taxonomy.
 
-Four (*Experience*, *Free*, and *Throw*) of the six classified cleanly under existing primitives or their combinations. Mutation accounted for *Experience*. A combination of Extension and Substitution accounted for *Free*. Mutation and Extension in combination accounted for *Throw*.
+Two (*Free*, and *Throw*) of the four classified cleanly under existing primitives or their combinations. Substitution accounted for *Free*. Mutation and Extension in combination accounted for *Throw*.
 
 Two examples resisted classification: *DROP* and *FILL*. *DROP* presented a letterform, *O*,  that had not been substituted, mutated, suppressed, extended, or integrated. Its circular geometry was entirely intact. Yet it was clearly performing expressive meaning through its displacement below the typographic baseline and through a motion trail of a gradient streak visualizing the kinetic act of falling. The operation was happening at the level of the letterform's state rather than its structure.
 
