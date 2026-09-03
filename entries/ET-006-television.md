@@ -1,5 +1,5 @@
 ---
-entry_id: ET-007
+entry_id: ET-006
 word: Television
 designer: Unknown
 year: Unknown
