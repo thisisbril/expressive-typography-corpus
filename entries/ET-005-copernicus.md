@@ -1,5 +1,5 @@
 ---
-entry_id: ET-006
+entry_id: ET-005
 word: Copernicus
 designer: Kapil Bhagat
 year: Unknown
