@@ -22,21 +22,21 @@ The goal of this project is to give AI the conceptual vocabulary to reason about
 
 ## The Theoretical Framework: Jump to Universality
 
-In his 2011 book *The Beginning of Infinity*, physicist and philosopher David Deutsch describes a phenomenon he calls the "Jump to Universality." His observation is that certain systems, once they cross a threshold of sophistication, suddenly become capable of representing or computing anything in their domain. The transition is usually not gradual, but a sudden, binary shift from a finite set of capabilities to an infinite set. It is triggered by what often appears to be a small and seemingly minor change in the system's design.
+In his 2011 book *The Beginning of Infinity*, physicist and philosopher David Deutsch describes a phenomenon he calls the "Jump to Universality." His observation is that certain systems, once they cross a threshold of sophistication, sbecome capable of representing or computing anything in their domain. The transition is usually a sudden, binary shift from a finite set of capabilities to an infinite set. It is triggered by what often appears to be a small and seemingly minor change in the system's design.
 
-I find some of Deutsch's examples of this phenomenon illuminating. The evolution from pictographic writing to alphabetic writing is a jump to reality. It creates a finite set of letters capable of spelling any possible word, which makes the infinite space of human language expressible in written form. In biology, DNA exhibits the same phenomenon with its four-letter chemical alphabet. That is, adenine, thymine, cytosine, and guanine. They combine according to the rules of base pairing and encode the instructions for every organism that has ever lived or could ever live. The system is universal because its finite primitives are irreducible and combinable.
+I find some of Deutsch's examples of this phenomenon illuminating. The evolution from pictographic writing to alphabetic writing is a jump to reality. It creates a finite set of letters capable of spelling any possible word, which makes the infinite space of human language expressible in written form. In biology, DNA exhibits the same phenomenon with its four-letter chemical alphabet. Adenine, thymine, cytosine, and guanine combine according to the rules of base pairing and can encode the instructions for every organism that has ever lived or could ever live. The system is universal because its finite primitives are irreducible and combinable.
 
 This projet applies Deutsch's framework to Expressive Typography. 
 
 My central conjecture is this: just as a universal alphabet uses a finite set of letters to express infinite words, a universal taxonomy of Expressive Typography can use a finite set of core primitive operations to classify any past, present, or future expressive typographic act. This is a stronger conjecture than it might initially appear. I'm not merely saying that expressive typography can be categorized. Categorization is a librarian's task. It is useful but not always universal. My claim here is that expressive typography has an underlying generative grammar. A small, irreducible set of operations from which every instance of the form can be derived or described including instances that have not yet been created.
 
-If my conjecture is correct then the six primitives defined here are the alphabet of Expressive Typography. And like any true alphabet, their power lies not in what they collectively make possible.
+If my conjecture is correct then the five primitives defined here are the alphabet of Expressive Typography. And like any true alphabet, their power lies in what they collectively make possible.
   
-## The Six Primitives
+## The Five Primitives
 
-The following six primitives constitute the complete set of irreducible operations through which expressive typographic meaning is encoded. Each operates on a distinct and fundamental property of the letterform. Together they form a system capable of describing any expressive typographic act.
+The following five primitives constitute the complete set of irreducible operations through which expressive typographic meaning is encoded. Each operates on a distinct and fundamental property of the letterform. Together they form a system capable of describing any expressive typographic act.
 
-A note on compound operations: most strong instances of expressive typography involve more than one primitive operating simultaneously. The taxonomy accounts for this through a hierarchical classification system that consists of one primary primitive and up to two secondary primitives per entry. The existence of compound instances demonstrates the combinatorial power of the primitives, which is precisely what universality requires.
+A note on compound operations: most strong instances of expressive typography involve more than one primitive operating simultaneously. The taxonomy accounts for this through a hierarchical classification system that consists of one primary primitive and up to two secondary primitives per entry. The existence of compound instances demonstrates the combinatorial power of the primitives, which is precisely what universality enables.
 
 ### Substitution
 
@@ -54,7 +54,7 @@ A note on compound operations: most strong instances of expressive typography in
 
 **Axis:** Structure. The letterform remains recognizably itself. It has not been replaced, removed, or extended, but its internal geometry has been bent, compressed, stretched, or otherwise altered to carry conceptual meaning through the nature of the deformation itself.
 
-**Corpus example:** In *EXPERIENCE* (ET-004), the E's geometry is being incrementally revealed until it is fully restored. Each E instance before the last E has one or more missing strokes. The E letterform is incomplete in stages, which denotes the alteration of its geometric structure.
+**Corpus example:** In *EXPERIENCE* (ET-004), the E's geometry is being incrementally revealed until it is fully restored. Each E instance before the last E has one or more missing strokes. Each E letterform is incomplete in stages, which denotes the alteration of its geometric structure within their respective typographic boundary.
 
 **Boundary condition:** Mutation is distinguished from Inflection by the locus of change. Mutation alters the letterform's geometric structure, which include its strokes, curves, or proportions. Inflection alters only the letterform's non-geometric attributes. That is, its position, orientation, fill state, or color.
 
@@ -77,18 +77,7 @@ experiencing the gap as both a typographic event and a conceptual statement.
 
 **Corpus example:** In *Copernicus* (ET-005), the C letterform is scaled and extended so dramatically that it escapes the typographic baseline entirely, becoming a large orbital ring that diagrams the heliocentric system the word references. The extension is so extreme that the letterform physically detaches from the word and operates as both a letter and a cosmological diagram.
 
-**Boundary condition:** Extension is distinguished from Substitution by the completeness of the iconic reading. Extension elongates existing strokes to suggest or connect to a concept. The object or idea is implied by the extended geometry rather than fully contained within the letterform. When the letterform's geometry fully becomes or contains the external object, the operation crosses into Substitution.
-
-### Integration
-
-**Definition:** Two or more letterforms are structurally fused so that shared geometry simultaneously performs the typographic function of each letterform and the visual function of an external concept or image.
-
-**Axis:** Relationship. No single letterform is individually altered. The meaning emerges from the zone of contact 
-between letterforms, where shared strokes or counters do double duty as both type and image simultaneously. The fusion is the operation. The individual letterforms are its raw material.
-
-**Corpus example:** In *Trust* (ET-006), the "r" and "u" letterforms are structurally fused at their point of contact. The descending arm of the "r" and the left stem of the "u" share geometry in a single continuous stroke. The counter that would normally separate them has been eliminated. The meaning emerges entirely from their zone of contact,producing a seamless fusion that makes the word feel structurally indivisible and enacting the very quality the word names. The typography performs trust by making its own letterforms inseparable.
-
-**Boundary condition:** Integration is distinguished from Substitution by the locus of the iconic reading. In Substitution, a single letterform contains or becomes the external concept. In Integration, the concept emerges from the relationship between two or more letterforms. It exists in the space between them rather than within any one of them.
+**Boundary condition:** The critical distinction between Extension and Mutation is where the geometric change of the letterform happens. In Extension, the letterform geometry is changed beyond its expected boundary into territory the letterform was never meant to occupy. While for Mutation, the letterform geometry is changed within its expected boundary. The letterform remains within its typographic territory but its internal structure is altered.
 
 ### Inflection
 
@@ -104,65 +93,64 @@ between letterforms, where shared strokes or counters do double duty as both typ
 
 ## Stress-Testing the Taxonomy
 
-A taxonomy that claims universality must be tested against its own claim. The six primitives defined here were developed through an iterative process of proposal, challenge, and revision, driven by a deliberate attempt to find expressive typographic instances that resisted classification. This section documents that process honestly, including the cases that forced revisions to the taxonomy and the cases that ultimately confirmed its stability.
+A taxonomy that claims universality must be tested against its own claim. The five primitives defined here were developed through an iterative process of proposal, challenge, and revision, driven by a deliberate attempt to find expressive typographic instances that resisted classification. This section documents that process honestly, including the cases that forced revisions to the taxonomy and the cases that ultimately confirmed its stability.
 
-The stress-testing followed a single governing principle: if a genuine instance of expressive typography could not be described by any of the six primitives individually or in combination, the taxonomy was incomplete. Every proposed example was examined not to confirm the taxonomy but to break it.
+The stress-testing followed a single governing principle: if a genuine instance of expressive typography could not be described by any of the five primitives individually or in combination, the taxonomy was incomplete. Every proposed example was examined not to confirm the taxonomy but to break it.
 
 ### The Initial Proposal and First Revision
 
-The taxonomy was initially proposed with six primitives, one of which was Elevation. Elevation was defined as encoding meaning through the spatial relationship, scale, or positioning between letterforms or words relative to each other or the baseline. It did not survive the first round of pressure-testing.
+The taxonomy was initially proposed with five primitives, one of which was Elevation. Elevation was defined as encoding meaning through the spatial relationship, scale, or positioning between letterforms or words relative to each other or the baseline. It did not survive the first round of pressure-testing.
 
 Upon examination, every proposed example of Elevation proved reducible to one or more of the other primitives. For instance, a word where each successive letter is set progressively smaller to enact hierarchy is suitable to be called Extension. Elevation was therefore eliminated as a primitive. A universal set must contain only genuinely irreducible operations, and Elevation was not irreducible. Its elimination strengthened the system by demonstrating that the remaining primitives were doing more work than initially apparent.
 
 ### The Edge Case Hunt
 
-With five primitives established, a second round of stress-testing was conducted through a deliberate edge case hunt. Four examples that felt expressive but resisted easy classification were sought to expose gaps in the taxonomy.
+With four primitives established, a second round of stress-testing was conducted through a deliberate edge case hunt. Four examples that felt expressive but resisted easy classification were sought to expose gaps in the taxonomy.
 
 Two (*Free*, and *Throw*) of the four classified cleanly under existing primitives or their combinations. Substitution accounted for *Free*. Mutation and Extension in combination accounted for *Throw*.
 
-Two examples resisted classification: *DROP* and *FILL*. *DROP* presented a letterform, *O*,  that had not been substituted, mutated, suppressed, extended, or integrated. Its circular geometry was entirely intact. Yet it was clearly performing expressive meaning through its displacement below the typographic baseline and through a motion trail of a gradient streak visualizing the kinetic act of falling. The operation was happening at the level of the letterform's state rather than its structure.
+Two examples resisted classification: *DROP* and *FILL*. *DROP* presented a letterform, *O*,  that had not been substituted, mutated, suppressed, or extended. Its circular geometry was entirely intact. Yet it was clearly performing expressive meaning through its displacement below the typographic baseline and through a motion trail of a gradient streak visualizing the kinetic act of falling. The operation was happening at the level of the letterform's state rather than its structure.
 
 *FILL* presented a different but related resistance. Each letterform in the word existed on a spectrum between two 
 states of empty outline and fully filled. The degree of ink presence within each form progresses across the word to enact the word's meaning. No individual letterform had been substituted, mutated, suppressed, extended, or integrated. The meaning lived in the fill state of each letterform. This is a property of state rather than structure.
 
-Both examples pointed to the same gap. The taxonomy had no primitive for meaning encoded through a letterform's non-geometric attributes. The letterform's shape was irrelevant to the expressive operation in both cases. What mattered was the condition in which the letterform existed. That is, its position, its fill state, its environmental effects. This gap produced the sixth primitive: **Inflection**.
+Both examples pointed to the same gap. The taxonomy had no primitive for meaning encoded through a letterform's non-geometric attributes. The letterform's shape was irrelevant to the expressive operation in both cases. What mattered was the condition in which the letterform existed. That is, its position, its fill state, its environmental effects. This gap produced the fifth primitive: **Inflection**.
 
 ### Stability of the Final Set
 
-Following the elimination of Elevation and the addition of Inflection, the taxonomy reached a stable state. No further examples examined during the stress-testing process resisted classification under the six remaining primitives individually or in combination. This stability is not claimed as proof of universality. No finite stress-test can constitute such proof. It is claimed as evidence that the taxonomy has been held to a genuinely demanding standard, that it has been revised honestly in response to counterexamples, and that it currently accounts for every instance of expressive typography examined during its development.
+Following the elimination of Elevation and the addition of Inflection, the taxonomy reached a stable state. No further examples examined during the stress-testing process resisted classification under the five remaining primitives individually or in combination. This stability is not claimed as proof of universality. No finite stress-test can constitute such proof. It is claimed as evidence that the taxonomy has been held to a genuinely demanding standard, that it has been revised honestly in response to counterexamples, and that it currently accounts for every instance of expressive typography examined during its development.
 
-The taxonomy remains open to revision. If a future example genuinely resists classification under all six primitives and their combinations, that example will be documented in this section and the taxonomy will be revised accordingly.
+The taxonomy remains open to revision. If a future example genuinely resists classification under all five primitives and their combinations, that example will be documented in this section and the taxonomy will be revised accordingly.
 
 ## The Argument for Universality
 
-The claim this taxonomy makes is that the six primitives constitute a universal set of irreducible operations for Expressive Typography. This means that any expressive typographic act, past, present, or future, can be described using one or more of these six primitives.
+The claim this taxonomy makes is that the five primitives constitute a universal set of irreducible operations for Expressive Typography. This means that any expressive typographic act, past, present, or future, can be described using one or more of these five primitives.
 
 This is a strong claim. It deserves a rigorous argument.
 
 ### The Orthogonality Argument
 
-The first argument for universality is structural. Each of the six primitives operates on a distinct and fundamental property of the letterform. This orthogonality is what makes the set.
+The first argument for universality is structural. Each of the five primitives operates on a distinct and fundamental property of the letterform. This orthogonality is what makes the set.
 
 - **Substitution** operates on the letterform's **identity**. What the letterform is or contains.
 - **Mutation** operates on the letterform's **structure**. How its geometry is shaped.
 - **Suppression** operates on the letterform's **presence**. That is, whether it exists in the composition at all.
 - **Extension** operates on the letterform's **boundary**. Where its geometry ends.
-- **Integration** operates on the letterform's **relationship**. That how a letterforms geometry connects to adjacent letterforms.
 - **Inflection** operates on the letterform's **state**. The non-geometric conditions under which it exists.
 
-These six properties of identity, structure, presence, boundary, relationship, and state are the complete set of properties a letterform can possess. A letterform must have an identity. It must have a structure. It must either be present or absent. It must have a boundary. It exists in relationship to adjacent forms. And it exists in a particular state. There is no seventh property a letterform can possess that is not reducible to one of these six.
+These five properties of identity, structure, presence, boundary, and state are the complete set of properties a letterform can possess. A letterform must have an identity. It must have a structure. It must either be present or absent. It must have a boundary. And it exists in a particular state. There is no sixth property a letterform can possess that is not reducible to one of these five.
 
 ### The Combinatorial Argument
 
-The second argument for universality is combinatorial. Even if the six primitives were each individually limited in scope, their combinations would extend the taxonomy's reach dramatically. Just as a finite alphabet extends its reach through combination rather than through the addition of new letters. 
+The second argument for universality is combinatorial. Even if the five primitives were each individually limited in scope, their combinations would extend the taxonomy's reach dramatically. Just as a finite alphabet extends its reach through combination rather than through the addition of new letters. 
 
 The taxonomy's compound rules allow up to two secondary primitives per entry, producing a combinatorial space of possible configurations that far exceeds the number of distinct expressive typographic techniques observed in practice. This is the hallmark of a truly universal system. An alphabet describes the words that have been written, and also makes possible every word that could ever be written. Similarly, a universal taxonomy of Expressive Typography describes the designs that have been made and makes possible every expressive typographic act that could ever be conceived.
 
 ### The Stress-Test Argument
 
-The third argument for universality is empirical. As documented in the previous section, the taxonomy was subjected to a deliberate attempt to find expressive typographic instances that resisted classification. The attempt produced one genuine gap, which was the absence of a primitive for non-geometric state operations. By adding Inflection, the gap was closed. This is not proof of universality. No finite stress-test can constitute such proof. There may exist expressive typographic instances not yet encountered that resist classification under the current six primitives. The taxonomy acknowledges this possibility and remains open to revision. 
+The third argument for universality is empirical. As documented in the previous section, the taxonomy was subjected to a deliberate attempt to find expressive typographic instances that resisted classification. The attempt produced one genuine gap, which was the absence of a primitive for non-geometric state operations. By adding Inflection, the gap was closed. This is not proof of universality. No finite stress-test can constitute such proof. There may exist expressive typographic instances not yet encountered that resist classification under the current five primitives. The taxonomy acknowledges this possibility and remains open to revision. 
 
-What the stress-test does constitute is evidence. The taxonomy has been held to a demanding empirical standard, revised honestly in response to genuine counterexamples, and stabilized at six primitives after that revision. This process of finding and responding to counterexamples produced a set whose orthogonality can be argued on structural grounds. The structural argument and the empirical argument converge on the same conclusion. That convergence is the most compelling evidence the taxonomy can offer for its own universality.
+What the stress-test does constitute is evidence. The taxonomy has been held to a demanding empirical standard, revised honestly in response to genuine counterexamples, and stabilized at five primitives after that revision. This process of finding and responding to counterexamples produced a set whose orthogonality can be argued on structural grounds. The structural argument and the empirical argument converge on the same conclusion. That convergence is the most compelling evidence the taxonomy can offer for its own universality.
 
 ### What Universality Does and Does Not Mean
 
@@ -190,11 +178,11 @@ As documented in the section on the problem this corpus addresses, generating ex
 
 The first step is **Semantic Interpretation**. The model must identify which of a word's possible meanings,associations, or symbolic resonances is most generative for typographic expression. This is a language reasoning task that requires the model to reason about the semantic richness of a word, and it must precede any visual operation.
 
-The second step is **Geometric Opportunity Recognition**. It involves the model identifying which specific letterform in the word contains geometry most compatible with the chosen semantic interpretation. This requires simultaneous reasoning across language and form. It model must hold the word's meaning and the alphabet's geometry in mind at the same time and find the intersection between them. It is the step that requires the deepest integration of linguistic and visual intelligence.
+The second step is **Geometric Opportunity Recognition**. It involves the model identifying which specific letterform in the word contains geometry most compatible with the chosen semantic interpretation. This requires simultaneous reasoning across language and form. The model must hold the word's meaning and the alphabet's geometry in mind at the same time and find the intersection between them. It is the step that requires the deepest integration of linguistic and visual intelligence.
 
-The third step is **Constrained Tansformation**. In this step, the model must execute a primitive operation that encodes the chosen concept through the identified letterform while preserving the word's legibility. The constraint is what makes expressive typography difficult and what makes it beautiful when executed well. The transformation must be bold enough to surprise and restrained enough to remain readable. This constitutes the Surprise-Legibility tension that defines the form's aesthetic core.
+The third step is **Constrained Tansformation**. In this step, the model must execute a primitive operation(s) that encodes the chosen concept through the identified letterform while preserving the word's legibility. The constraint is what makes expressive typography difficult and what makes it beautiful when executed well. The transformation must be bold enough to surprise and restrained enough to remain readable. This constitutes the Surprise-Legibility tension that defines the form's aesthetic core.
 
-The six primitives in this taxonomy correspond directly to the third step. They are the complete set of constrained transformations available to a designer working in this form. A model that has internalized the six primitives has a complete vocabulary of available operations and can therefore reason about which operation is most appropriate for any given semantic interpretation and geometric opportunity.
+The five primitives in this taxonomy correspond directly to the third step. They are the complete set of constrained transformations available to a designer working in this form. A model that has internalized the five primitives has a complete vocabulary of available operations and can therefore reason about which operation(s) is most appropriate for any given semantic interpretation and geometric opportunity.
 
 ### What This Corpus Trains
 
@@ -210,7 +198,7 @@ Concretely, this corpus provides training signal for four distinct AI capabiliti
 
 ### The Larger Stakes
 
-Expressive typography is a narrow domain. But the capabilities it requires are not narrow. They are precisely the capabilities that separate genuine aesthetic intelligence from sophisticated pattern matching across every creative domain. A model that can reason about expressive typography has developed cognitive infrastructure that 
+Expressive typography is a narrow domain. But the capabilities it requires are not narrow. They are the capabilities that separate genuine aesthetic intelligence from sophisticated pattern matching across every creative domain. A model that can reason about expressive typography has developed cognitive infrastructure that 
 transfers. It can reason about negative space in architecture. It can reason about the tension between disruption and coherence in music. These are instances of the same deeper capacity. The ability to hold meaning and form, then find the point where they fuse without either collapsing.
 
 That capacity is what beauty requires of its maker. And it is what this corpus is, in its modest and specific way, trying to help AI develop. The question that originally motivated this project was one that has occupied my mind for a long time: can computers sense beauty? This corpus does not answer that question. But it builds one small,rigorous, honest piece of the infrastructure that any serious attempt to answer it will need.
