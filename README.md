@@ -24,7 +24,7 @@ This corpus is a research that intersects typography, design theory, and AI aest
 
 | Total Entries | Target |
 |---------------|--------|
-| 15             | 50     |
+| 20             | 50     |
 
 ## Curator
 
