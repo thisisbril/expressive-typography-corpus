@@ -8,9 +8,9 @@ Target: 50 entries
 |--------------|--------|------|----------|----------------|
 | Substitution | 8-10   | 3+   | 5+       | 9              |
 | Mutation     | 8-10   | 3+   | 5+       | 9              |
-| Suppression  | 8-10   | 3+   | 5+       | 8              |
+| Suppression  | 8-10   | 3+   | 5+       | 9              |
 | Extension    | 8-10   | 3+   | 5+       | 9              |
-| Inflection   | 8-10   | 3+   | 5+       | 8              |
+| Inflection   | 8-10   | 3+   | 5+       | 9              |
 
 ## Compound Entries
 
@@ -26,10 +26,10 @@ Target: 50 entries
 | 4     | 15+    | 13      |
 | 3     | 10+    | 7       |
 | 2     | 8+     | 5       |
-| 1     | 5+     | 1       |
+| 1     | 5+     | 3       |
 
 ## Total Progress
 
 | Entries | Target |
 |---------|--------|
-| 43      | 50     |
+| 45      | 50     |
