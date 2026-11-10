@@ -6,30 +6,30 @@ Target: 50 entries
 
 | Primitive    | Target | Pure | Compound | Current        |
 |--------------|--------|------|----------|----------------|
-| Substitution | 8-10   | 3+   | 5+       | 9              |
-| Mutation     | 8-10   | 3+   | 5+       | 9              |
-| Suppression  | 8-10   | 3+   | 5+       | 9              |
-| Extension    | 8-10   | 3+   | 5+       | 9              |
-| Inflection   | 8-10   | 3+   | 5+       | 9              |
+| Substitution | 8-10   | 3+   | 5+       | 10             |
+| Mutation     | 8-10   | 3+   | 5+       | 10             |
+| Suppression  | 8-10   | 3+   | 5+       | 10             |
+| Extension    | 8-10   | 3+   | 5+       | 10             |
+| Inflection   | 8-10   | 3+   | 5+       | 10             |
 
 ## Compound Entries
 
 | Target | Current |
 |--------|---------|
-| 15+    | 19      |
+| 15+    | 21      |
 
 ## Surprise-Legibility Distribution
 
 | Score | Target | Current |
 |-------|--------|---------|
-| 5     | 10+    | 17      |
-| 4     | 15+    | 13      |
-| 3     | 10+    | 7       |
-| 2     | 8+     | 5       |
-| 1     | 5+     | 3       |
+| 5     | 10+    | 18      |
+| 4     | 12+    | 13      |
+| 3     | 8+     | 8       |
+| 2     | 6+     | 7       |
+| 1     | 4+     | 4       |
 
 ## Total Progress
 
 | Entries | Target |
 |---------|--------|
-| 45      | 50     |
+| 50      | 50     |
