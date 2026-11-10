@@ -50,9 +50,9 @@ A note on compound operations: most strong instances of expressive typography in
 
 ### Mutation
 
-**Definition:** A letterform retains its typographic identity but one or more of its structural properties such as its stroke weight, curve, terminal, axis, or proportion, is deliberately deformed to encode meaning.
+**Definition:** A letterform retains its typographic identity but one or more of its structural properties such as its stroke weight, curve, terminal, or axis, is deliberately deformed to encode meaning.
 
-**Axis:** Structure. The letterform remains recognizably itself. It has not been replaced, removed, or extended, but its internal geometry has been bent, compressed, stretched, or otherwise altered to carry conceptual meaning through the nature of the deformation itself.
+**Axis:** Structure. The letterform remains recognizably itself. It has not been replaced, removed, or extended, but its internal geometry has been bent, compressed, or otherwise altered to carry conceptual meaning through the nature of the deformation itself.
 
 **Corpus example:** In *EXPERIENCE* (ET-004), the E's geometry is being incrementally revealed until it is fully restored. Each E instance before the last E has one or more missing strokes. Each E letterform is incomplete in stages, which denotes the alteration of its geometric structure within their respective typographic boundary.
 
