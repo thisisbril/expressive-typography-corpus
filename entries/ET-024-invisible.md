@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Suppression
 secondary_primitives:
-  - primitive: Inflection
+  - Inflection
+primitive_relationship: 
+  Inflection:
     relationship: enables
-    primitve_relationship_explained: Inflection enables Suppression. The progressive opacity reduction across each successive letterform (Inflection) establishes the gradient logic that makes the E's complete absence (Suppression) read as the inevitable conclusion of the sequence and not an arbitrary omission.
+    explanation: > 
+      Inflection enables Suppression. The progressive opacity reduction across each successive letterform (Inflection) establishes the gradient logic that makes the E's complete absence (Suppression) read as the inevitable conclusion of the sequence and not an arbitrary omission.
 target_glyphs:
   - E (Suppression)
   - I, N, V, I, S, I, B, L (Inflection)
