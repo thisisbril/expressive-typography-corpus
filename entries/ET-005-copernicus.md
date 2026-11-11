@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Extension
 secondary_primitives:
-  - primitive: Inflection
+  - Inflection
+primitive_relationship: 
+  Inflection:
     relationship: amplifies
-    primitive_relationship_explained: Inflection amplifies Extension. The C's extension into an orbital ring is the primary expressive act and is legible as a heliocentric diagram independently. The Inflection operations, which are o rendered in gold and the dot of i rendered in blue, amplify the diagram by assigning specific astronomical identities to two letterforms within the orbit. That is, the sun and a planet. With these secondary primitives of Inflection, the word becomes a complete cosmological model, with a star, a planetary body, and the orbital ring that governs their relationship all encoded simultaneously in a single typographic word. 
+    explanation: > 
+      Inflection amplifies Extension. The C's extension into an orbital ring is the primary expressive act and is legible as a heliocentric diagram independently. The Inflection operations, which are o rendered in gold and the dot of i rendered in blue, amplify the diagram by assigning specific astronomical identities to two letterforms within the orbit. That is, the sun and a planet. With these secondary primitives of Inflection, the word becomes a complete cosmological model, with a star, a planetary body, and the orbital ring that governs their relationship all encoded simultaneously in a single typographic word. 
 target_glyphs:
   - C
   - o
