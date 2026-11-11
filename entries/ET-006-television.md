@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Substitution
 secondary_primitives:
-  - primitive: Extension
+  - Extension
+primitive_relationship: 
+  Extension:
     relationship: enables
-    primitive_relationship_explained: Extension enables Substitution. The V's upper terminals are extended beyond the cap height with thinner diverging lines terminating in small circular dots. The Extension completes the Substitution by supplying the antenna elements that the V's existing geometry alone could not contain.
+    explanation: > 
+      Extension enables Substitution. The V's upper terminals are extended beyond the cap height with thinner diverging lines terminating in small circular dots. The Extension completes the Substitution by supplying the antenna elements that the V's existing geometry alone could not contain.
 target_glyphs:
   - V 
 operation_description: >
