@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Extension
 secondary_primitives:
-  - primitive: Inflection
+  - Inflection
+primitive_relationship: 
+  Inflection:
     relationship: amplifies
-    primitive_relationship_explained: Inflection amplifies Extension. The V's strokes extended beyond all typographic boundaries physically cleave the word into two halves. The rotational displacement of the di and ide clusters outward from the point of division (Inflection) enacts the physical consequence of that cleaving. The two halves fall away from the blade. The Inflection makes the Extension's force felt as a dynamic event.
+    explanation: > 
+      Inflection amplifies Extension. The V's strokes extended beyond all typographic boundaries physically cleave the word into two halves. The rotational displacement of the di and ide clusters outward from the point of division (Inflection) enacts the physical consequence of that cleaving. The two halves fall away from the blade. The Inflection makes the Extension's force felt as a dynamic event.
 target_glyphs:
   - V (primary)
   - d, i (left cluster)
