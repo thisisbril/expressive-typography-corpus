@@ -6,14 +6,20 @@ year: Unknown
 source: Pinterest
 primary_primitive: Inflection
 secondary_primitives:
-  - primitive: Mutation
+  - Mutation
+primitive_relationship: 
+  Mutation:
     relationship: amplifies
-    primitve_relationship_explained: Mutation amplifies Inflection. The fill-state inversion of the o (Inflection)makes it read as a solid dot, which is the thing the word names. The o's scale and forward position cause its boundary to overlap and interrupt the stems of the d and the t (Mutation), embedding the dot physically into the word's structure and making its eventually noticed.
+    explanation: > 
+      Mutation amplifies Inflection. The fill-state inversion of the o (Inflection)makes it read as a solid dot, which is the thing the word names. The o's scale and forward position cause its boundary to overlap and interrupt the stems of the d and the t (Mutation), embedding the dot physically into the word's structure and making its eventually noticed.
 target_glyphs:
   - o (primary)
   - d and t (sites of consequent Mutation)
 operation_description: >
   The counter of the o is rendered black, while its bowl is white. This color inversion produces a pure dot. The letterform is scaled and positioned so that its circular boundary overlaps the stem of the d on its left and the stem of the t on its right, interrupting the geometry of both letterforms at the points of contact. The o's shape is geometrically intact but its color and its relationship to neighboring letterforms have both been transformed.
+concept_encoded: A dot. The typographic and visual object the word names.
+semantic_mechanism: >
+  The word *dots* names a class of visual objects: filled circles, points, marks of pure presence. The o is the only letterform in the word whose natural geometry is circular, making it the sole candidate for this operation.Collapsing its counter to produce a solid fill transforms it from a letterform into the object it names, without altering its shape. The overlap with d and t anchors the dot into the word's body, the way a real dot placed on a surface would.
 legibility_integrity: Contextual
 surprise_legibility_ratio: 3
 curatorial_note: >
