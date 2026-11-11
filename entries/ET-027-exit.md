@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Mutation
 secondary_primitives:
-  - primitive: Inflection
+  - Inflection
+primitive_relationship: 
+  Inflection:
     relationship: amplifies
-    primitve_relationship_explained: Inflection amplifies Mutation. The running figure in the X (Mutation)establishes the act of a human in motion. The perspective-rendered I (Inflection) establishes the destination of a door ajar, which is the opening through which one passes. Neither completes the scene alone. Together they produce a unified narrative of a figure running toward and through an exit.
+    explanation: > 
+      Inflection amplifies Mutation. The running figure in the X (Mutation)establishes the act of a human in motion. The perspective-rendered I (Inflection) establishes the destination of a door ajar, which is the opening through which one passes. Neither completes the scene alone. Together they produce a unified narrative of a figure running toward and through an exit.
 target_glyphs:
   - X (Mutation)
   - I (Inflection)
