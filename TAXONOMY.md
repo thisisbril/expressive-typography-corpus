@@ -65,7 +65,7 @@ A note on compound operations: most strong instances of expressive typography in
 **Axis:** Presence. The letterform does not exist in the composition. It has been deliberately withheld. The meaning is encoded in what is not there, and the reader's mind supplies the missing form automatically, 
 experiencing the gap as both a typographic event and a conceptual statement.
 
-**Corpus example:** In *GHOST* (ET-002), the O is absent. The surrounding letters and the semantic weight of the word allow instant reconstruction of the missing letter, while the gap enacts the very condition the word names. The O was chosen specifically because it is the most visually substantial letterform in the alphabet. This makes its disappearance maximally felt.
+**Corpus example:** In *missing* (ET-002), the two *i*'s are absent. The surrounding letters and the semantic weight of the word allow instant reconstruction of the missing letters, while the gap enacts the very condition the word names. The *i*'s were chosen specifically because they are the most visually substantial letterform in the alphabet. This makes their disappearance maximally felt.
 
 **Boundary condition:** Suppression is distinguished from Integration by the nature of the absence. In Suppression, the letterform is simply gone. Its position in the word is empty. In Integration, letterforms are fused so that shared geometry performs double duty, but all letterforms remain present in some form. Strong Suppression requires the removed letterform to satisfy two simultaneous conditions. It must be maximally present in its normal typographic state, and its absence must be maximally meaningful in the specific semantic context of the word.
 
@@ -109,7 +109,7 @@ With four primitives established, a second round of stress-testing was conducted
 
 Two (*Free*, and *Throw*) of the four classified cleanly under existing primitives or their combinations. Substitution accounted for *Free*. Mutation and Extension in combination accounted for *Throw*.
 
-Two examples resisted classification: *DROP* and *FILL*. *DROP* presented a letterform, *O*,  that had not been substituted, mutated, suppressed, or extended. Its circular geometry was entirely intact. Yet it was clearly performing expressive meaning through its displacement below the typographic baseline and through a motion trail of a gradient streak visualizing the kinetic act of falling. The operation was happening at the level of the letterform's state rather than its structure.
+Two examples resisted classification: *DROP* and *FILL*. *DROP* presented a letterform, *O*,  that had not been substituted, mutated, or extended. Its circular geometry was entirely intact. Yet it was clearly performing expressive meaning through its displacement below the typographic baseline and through a motion trail of a gradient streak visualizing the kinetic act of falling. The operation was happening at the level of the letterform's state rather than its structure.
 
 *FILL* presented a different but related resistance. Each letterform in the word existed on a spectrum between two 
 states of empty outline and fully filled. The degree of ink presence within each form progresses across the word to enact the word's meaning. No individual letterform had been substituted, mutated, suppressed, extended, or integrated. The meaning lived in the fill state of each letterform. This is a property of state rather than structure.
