@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Mutation
 secondary_primitives:
-  - primitive: Inflection
+  - Inflection
+primitive_relationship: 
+  Inflection: 
     relationship: amplifies
-    primitive_relationship_explained: The 2x2 grid arrangement (Inflection) positions the four letterforms to fill four cells. One per cell. This reinforces the concept of FOUR as a countable quantity. The chamfered, stencil-broken geometry (Mutation) is applied across all four letterforms simultaneously, producing a unified visual treatment. However the Mutation delivers no conceptual return while extracting a significant legibility cost that leaves the Inflection as the sole operation earning its semantic payoff.
+    explanation: > 
+      The 2x2 grid arrangement (Inflection) positions the four letterforms to fill four cells. One per cell. This reinforces the concept of FOUR as a countable quantity. The chamfered, stencil-broken geometry (Mutation) is applied across all four letterforms simultaneously, producing a unified visual treatment. However the Mutation delivers no conceptual return while extracting a significant legibility cost that leaves the Inflection as the sole operation earning its semantic payoff.
 target_glyphs:
   - F, O, U, R (Mutation)
   - F, O, U, R as a compound unit (Inflection)
