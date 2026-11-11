@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Inflection
 secondary_primitives:
-  - primitive: Extension
+  - Extension
+primitive_relationship: 
+  Extension:
     relationship: amplifies
-    primitve_relationship_explained: Extension amplifies Inflection. The vertical inversion of the i (Inflection)transforms it into an exclamation mark through orientation alone. The inverted dot descending below the baseline (Extension) amplifies the warning reading by breaching the word's lower typographic boundary. This makes the exclamation mark assert its presence beyond the word's body the way a genuine alarm demands attention beyond its immediate context.
+    explanation: >
+      Extension amplifies Inflection. The vertical inversion of the i (Inflection)transforms it into an exclamation mark through orientation alone. The inverted dot descending below the baseline (Extension) amplifies the warning reading by breaching the word's lower typographic boundary. This makes the exclamation mark assert its presence beyond the word's body the way a genuine alarm demands attention beyond its immediate context.
 target_glyphs:
   - i
 operation_description: >
