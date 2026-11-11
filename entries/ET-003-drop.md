@@ -5,10 +5,13 @@ designer: Unknown
 year: Unknown
 source: Pinterest
 primary_primitive: Inflection
-secondary_primitives:
-  - primitive: Suppression
+secondary_primitives: 
+  - Suppression
+primitive_relationship: 
+  Suppression: 
     relationship: enables
-    primitve_relationship_explained: Suppression enables Inflection. The O is absent from its expected horizontal position in the word, which creates a vacancy between R and P that the reader's eye registers as an origin point. The Inflection operation of displacement below the typographic baseline plus attached motion trail, is only legible as a fall because Suppression establishes where the fall began. Without the empty typographic slot, the displaced O reads as misplacement.
+    explanation: > 
+      Suppression enables Inflection. The O is absent from its expected horizontal position in the word, which creates a vacancy between R and P that the reader's eye registers as an origin point. The Inflection operation of displacement below the typographic baseline plus attached motion trail, is only legible as a fall because Suppression establishes where the fall began. Without the empty typographic slot, the displaced O reads as misplacement.
 target_glyphs:
   - O
 operation_description: >
