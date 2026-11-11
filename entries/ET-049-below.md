@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Extension
 secondary_primitives:
-  - primitive: Inflection
+  - Inflection
+primitive_relationship: 
+  Inflection: 
     relationship: enables
-    primitive_relationship_explained: Inflection enables Extension. The two-line stacking of "be" above and "low" below (Inflection) creates the spatial condition that the extended bar (Extension) divides and makes meaningful.
+    explanation: >
+      Inflection enables Extension. The two-line stacking of "be" above and "low" below (Inflection) creates the spatial condition that the extended bar (Extension) divides and makes meaningful.
 target_glyphs:
   - l (Extension)
   - b, e, l, o, w as a compound unit (Inflection)
