@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Substitution
 secondary_primitives:
-  - primitive: Mutation
+  - Mutation
+primitive_relationship: 
+  Mutation:
     relationship: enables
-    primitive_relationship_explained: Mutation enables Substitution. The bowl of the e is reshaped into a closed oval approximating an egg's silhouette (Mutation), creating the geometric condition that allows the crack motif replacing the crossbar (Substitution) to complete an unambiguous iconic reading of a cracked egg. Without the Mutation establishing the egg-shell profile, the substituted crack would read as an arbitrary stroke replacement.
+    explanation: > 
+      Mutation enables Substitution. The bowl of the e is reshaped into a closed oval approximating an egg's silhouette (Mutation), creating the geometric condition that allows the crack motif replacing the crossbar (Substitution) to complete an unambiguous iconic reading of a cracked egg. Without the Mutation establishing the egg-shell profile, the substituted crack would read as an arbitrary stroke replacement.
 target_glyphs:
   - e
 operation_description: >
