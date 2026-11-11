@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Substitution
 secondary_primitives:
-  - primitive: Inflection
+  - Inflection
+primitive_relationship: 
+  Inflection: 
     relationship: amplifies
-    primitve_relationship_explained: The knot terminals and descending strings added to each o (Substitution)complete the iconic balloon reading. The elevated position of both o's above the baseline (Inflection) creates the physical behavior of the object they have become. The balloons float upward, pulling their strings taut below them. The Inflection transforms the Substitution from a visual resemblance into a physical event.
+    explanation: >
+      The knot terminals and descending strings added to each o (Substitution)complete the iconic balloon reading. The elevated position of both o's above the baseline (Inflection) creates the physical behavior of the object they have become. The balloons float upward, pulling their strings taut below them. The Inflection transforms the Substitution from a visual resemblance into a physical event.
 target_glyphs:
   - o, o
 operation_description: >
