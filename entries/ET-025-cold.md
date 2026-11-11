@@ -1,5 +1,5 @@
 ---
-entry_id: ET-028
+entry_id: ET-025
 word: COLD
 designer: Unknown
 year: Unknown
