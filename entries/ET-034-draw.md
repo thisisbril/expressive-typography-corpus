@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Extension
 secondary_primitives:
-  - primitive: Substitution
+  - Substitution
+primitive_relationship: 
+  Substitution: 
     relationship: enables
-    primitve_relationship_explained: Substitution enables Extension. The central stroke added between the A's extended left and right diagonal stems (Substitution) establishes what the extended geometry is part of: a pencil. Without the central stroke completing the pencil's body and groove, the descending stems are legs without an instrument. The Substitution creates the condition that allows the Extension to perform its full semantic role.
+    explanation: > 
+      Substitution enables Extension. The central stroke added between the A's extended left and right diagonal stems (Substitution) establishes what the extended geometry is part of: a pencil. Without the central stroke completing the pencil's body and groove, the descending stems are legs without an instrument. The Substitution creates the condition that allows the Extension to perform its full semantic role.
 target_glyphs:
   - A
 operation_description: >
