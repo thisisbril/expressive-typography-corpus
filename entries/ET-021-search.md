@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Extension
 secondary_primitives:
-  - primitive: Substitution
+  - Substitution
+primitive_relationship: 
+  Substitution:
     relationship: amplifies
-    primitve_relationship_explained: Substitution amplifies Extension. The rectangular stroke extended rightward from the a (Extension) produces the search bar field. The magnifying glass icon placed at the a's left (Substitution) specifies the bar as a search interface, which completes the iconic reading. Without the Substitution, the Extension reads as an unspecified container.
+    explanation: >
+      Substitution amplifies Extension. The rectangular stroke extended rightward from the a (Extension) produces the search bar field. The magnifying glass icon placed at the a's left (Substitution) specifies the bar as a search interface, which completes the iconic reading. Without the Substitution, the Extension reads as an unspecified container.
 target_glyphs:
   - a
 operation_description: >
