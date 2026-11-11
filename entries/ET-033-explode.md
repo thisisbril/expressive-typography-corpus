@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Suppression
 secondary_primitives:
-  - primitive: Substitution
+  - Substitution
+primitive_relationship: 
+  Substitution:
     relationship: amplifies
-    primitve_relationship_explained: Substitution amplifies Suppression. The absent o (Suppression) enacts the destruction because the letterform proximate to the word's center has been obliterated. The blast fragments radiating outward from the o's position (Substitution) specify the nature of that destruction is a violent dispersal. The fragments are the o, scattered. Together they convert an absence into an event.
+    explanation: > 
+      Substitution amplifies Suppression. The absent o (Suppression) enacts the destruction because the letterform proximate to the word's center has been obliterated. The blast fragments radiating outward from the o's position (Substitution) specify the nature of that destruction is a violent dispersal. The fragments are the o, scattered. Together they convert an absence into an event.
 target_glyphs:
   - o
 operation_description: >
