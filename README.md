@@ -4,7 +4,7 @@ A taxonomy and annotated corpus of Expressive Typography, organized around five 
 
 ## What This Is
 
-This corpus is a research that intersects typography, design theory, and AI aesthetics. It posits that expressive typographic acts can be described using six primitive operations. This is an attempt to identify the generative grammar of Expressive Typography.
+This corpus is a research that intersects typography, design theory, and AI aesthetics. It posits that expressive typographic acts can be described using five primitive operations. This is an attempt to identify the generative grammar of Expressive Typography.
 
 ## The Five Primitives
 
