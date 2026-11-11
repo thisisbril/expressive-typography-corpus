@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Suppression
 secondary_primitives:
-  - primitive: Mutation
+  - Mutation
+primitive_relationship: 
+  Mutation:
     relationship: enables
-    primitve_relationship_explained: Mutation amplifies Suppression. The o's absence (Suppression) enacts the theft. The letterform has been taken from its position. The horizontal stroke through the e's counter(Mutation) identifies the thief and shows what was taken. The o's circular geometry absorbed into the e's bowl, the bar marking the evidence of the absorption. Together they construct a narrative of something removed from one position and its presence is detectable in another.
+    explanation: >
+      Mutation amplifies Suppression. The o's absence (Suppression) enacts the theft. The letterform has been taken from its position. The horizontal stroke through the e's counter(Mutation) identifies the thief and shows what was taken. The o's circular geometry absorbed into the e's bowl, the bar marking the evidence of the absorption. Together they construct a narrative of something removed from one position and its presence is detectable in another.
 target_glyphs:
   - o (Suppression)
   - e (Mutation)
