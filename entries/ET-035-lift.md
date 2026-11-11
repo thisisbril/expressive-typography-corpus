@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Inflection
 secondary_primitives:
-  - primitive: Substitution
+  - Substitution
+primitive_relationship: 
+  Substitution: 
     relationship: enables
-    primitve_relationship_explained:  Substitution enables Inflection. The hairline wire descending from above and connecting to the I's upper terminal (Substitution) establishes the causal reading that makes the I's elevated position (Inflection) meaningful.
+    explanation: >
+      Substitution enables Inflection. The hairline wire descending from above and connecting to the I's upper terminal (Substitution) establishes the causal reading that makes the I's elevated position (Inflection) meaningful.
 target_glyphs:
   - I
 operation_description: >
