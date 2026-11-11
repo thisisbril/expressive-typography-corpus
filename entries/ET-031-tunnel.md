@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Substitution
 secondary_primitives:
-  - primitive: Inflection
+  - Inflection
+primitive_relationship: 
+  Inflection:
     relationship: amplifies
-    primitve_relationship_explained: Inflection amplifies Substitution. The nn pair replaced by a tunnel structure(Substitution) produces the object. The diagonal orientation of the entire word (Inflection) transforms that object from a static icon into a spatial experience, which enacts the act of passing through.
+    explanation: > 
+      Inflection amplifies Substitution. The nn pair replaced by a tunnel structure(Substitution) produces the object. The diagonal orientation of the entire word (Inflection) transforms that object from a static icon into a spatial experience, which enacts the act of passing through.
 target_glyphs:
   - n, n (Substitution)
   - t, u, n, n, e, l (Inflection)
