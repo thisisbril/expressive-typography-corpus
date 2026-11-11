@@ -1,6 +1,6 @@
 # Expressive Typography Corpus
 
-A taxonomy and annotated corpus of Expressive Typography, organized around six primitive operations.
+A taxonomy and annotated corpus of Expressive Typography, organized around five primitive operations.
 
 ## What This Is
 
