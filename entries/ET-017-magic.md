@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Suppression
 secondary_primitives:
-  - primitive: Substitution
+  - Substitution
+primitive_relationship: 
+  Substitution: 
     relationship: amplifies
-    primitve_relationship_explained: Substitution amplifies Suppression. The absent stem (Suppression) enacts the disappearance. The sparkle stars replacing the dot (Substitution) specify that the disappearance was magical. The stars are the residue the trick leaves behind. The i has vanished, and only its enchanted trace remains above the gap where it stood.
+    explanation: > 
+      Substitution amplifies Suppression. The absent stem (Suppression) enacts the disappearance. The sparkle stars replacing the dot (Substitution) specify that the disappearance was magical. The stars are the residue the trick leaves behind. The i has vanished, and only its enchanted trace remains above the gap where it stood.
 target_glyphs:
   - i
 operation_description: >
