@@ -6,9 +6,12 @@ year: Unknown
 source: Pinterest
 primary_primitive: Extension
 secondary_primitives:
-  - primitive: Mutation
+  - Mutation
+primitive_relationship: 
+  Mutation:
     relationship: amplification
-    primitive_relationship_explained: The T's crossbar, extended across the word, meets and joints with the S on its left and the A on its right. Those junctions alter the geometry of both letterforms at the point of contact, producing structural modifications in S and A that are a direct consequence of the Extension reaching them. The Mutation is the mark that Extension leaves on the letterforms it touches. So Extension amplifies Mutation.
+    explanation: > 
+      The T's crossbar, extended across the word, meets and joints with the S on its left and the A on its right. Those junctions alter the geometry of both letterforms at the point of contact, producing structural modifications in S and A that are a direct consequence of the Extension reaching them. The Mutation is the mark that Extension leaves on the letterforms it touches. So Extension amplifies Mutation.
 target_glyphs:
   - T (primary)
   - S and A (sites of consequent Mutation)
