@@ -17,7 +17,8 @@ target_glyphs:
   - F, O, U, R as a compound unit (Inflection)
 operation_description: >
   All four letterforms have been structurally modified through chamfered corners and stencil-style stroke breaks. Curved and sharp terminals replaced by angled cuts, strokes interrupted at intervals. The four letterforms are arranged in a 2x2 grid, with F and O occupying the top row and U and R occupying the bottom row. The whole word is rendered in pale grey. The O's chamfering produces a tail-like artifact that causes it to read as a Q. The F's fragmentation pushes it toward illegibility.
-concept_encoded: Intended: FOUR as a quantity, four units filling four cells. Achieved: a partially legible arrangement whose Mutation contributes visual complexity without semantic payoff.
+concept_encoded: >
+  Intended: FOUR as a quantity, four units filling four cells. Achieved: a partially legible arrangement whose Mutation contributes visual complexity without semantic payoff.
 semantic_mechanism: >
   The 2x2 grid is the design's one geometrically precise operation. This is a legitimate and discovered semantic connection. The word's own letter count matches the grid's cell count, and the arrangement makes that equivalence visible. The Mutation does not support this reading. Chamfered, stencil-broken letterforms carry no semantic relationship to the concept of four. Instead they introduce visual complexity that extracts legibility without encoding meaning. The pale grey also compounds the friction.
 legibility_integrity: Partial
