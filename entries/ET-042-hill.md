@@ -3,7 +3,7 @@ entry_id: ET-042
 word: hill
 designer: Unknown
 year: Unknown
-source: Pinterest
+source: AI-generated
 primary_primitive: Mutation
 secondary_primitives: []
 primitive_relationship: {}
