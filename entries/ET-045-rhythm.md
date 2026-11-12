@@ -3,7 +3,7 @@ entry_id: ET-045
 word: RHYTHM
 designer: Unknown
 year: Unknown
-source: Pinterest
+source: AI-generated
 primary_primitive: Suppression
 secondary_primitives: []
 primitive_relationship: {}
