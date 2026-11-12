@@ -12,7 +12,8 @@ target_glyphs:
   - a
 operation_description: >
   The first a has been scaled significantly larger than the surrounding letterforms while the second a remains at standard size. No letterform's geometry has been structurally altered. Only the scale state of the first a has been changed. The size differential between the two a's produces a visible asymmetry across the word's body. All other letterforms (b, l, n, c, e) are intact and standard.
-concept_encoded: Intended: balance, equilibrium. Achieved: lopsidedness, visible asymmetry between two instances of the same letterform.
+concept_encoded: >
+  Intended: balance, equilibrium. Achieved: lopsidedness, visible asymmetry between two instances of the same letterform.
 semantic_mechanism: >
   Balance names bilateral equilibrium. The word contains two a's, which is the precise geometric gift the operation required. Two identical letterforms that can be operated with to enact balance. The design identifies the a's as the operative letterforms, which is correct, but applies a scale differential between them. This inverts the concept entirely. Enlarging one a and leaving the other standard produces exactly the asymmetry that balance forbids. 
 legibility_integrity: Full
