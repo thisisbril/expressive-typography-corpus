@@ -3,7 +3,7 @@ entry_id: ET-043
 word: tangle
 designer: Unknown
 year: Unknown
-source: Pinterest
+source: AI-generated
 primary_primitive: Extension
 secondary_primitives: []
 primitive_relationship: {}
