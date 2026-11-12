@@ -3,7 +3,7 @@ entry_id: ET-047
 word: balance
 designer: Unknown
 year: Unknown
-source: Pinterest
+source: AI-generated
 primary_primitive: Inflection
 secondary_primitives: []
 primitive_relationship: {}
