@@ -14,7 +14,8 @@ target_glyphs:
   - b
 operation_description: >
   All four letterforms have been individually displaced — each rotated and repositioned at varying angles and heights, producing an uneven, lurching baseline across the full word. No letterform's geometry has been altered in any structural respect. Only their positional and orientational states have changed. The displacement is applied uniformly across all four glyphs, with each letterform responding equally to the operation. No single letterform remains still while others move.
-concept_encoded: Intended: numbness, the absence of sensation. Achieved: agitation, uniform sensory activation across all elements.
+concept_encoded: > 
+  Intended: numbness, the absence of sensation. Achieved: agitation, uniform sensory activation across all elements.
 semantic_mechanism: >
   Numbness is the absence of response. It is the condition of not feeling, not reacting, not moving when stimulus is applied. The correct typographic enactment of numbness requires some element of the word to remain unresponsive. A letterform that does not move while others do, or a word that sits with deadened stillness while the surrounding space implies something should be happening. This design applies uniform displacement across all four letterforms simultaneously. Every element has moved. Every element is agitated. Every element is responding The Inflection operation of positional and orientational state changes is correctly identified, but its application inverts the concept. A word where everything shifts uniformly communicates agitation and disorientation, not the absence of feeling. The typography argues against the word it spells.
 legibility_integrity: Full
