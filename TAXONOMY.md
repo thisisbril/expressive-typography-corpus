@@ -67,7 +67,7 @@ experiencing the gap as both a typographic event and a conceptual statement.
 
 **Corpus example:** In *missing* (ET-002), the two *i*'s are absent. The surrounding letters and the semantic weight of the word allow instant reconstruction of the missing letters, while the gap enacts the very condition the word names. The *i*'s were chosen specifically because they are the most visually substantial letterform in the alphabet. This makes their disappearance maximally felt.
 
-**Boundary condition:** Suppression is distinguished from Integration by the nature of the absence. In Suppression, the letterform is simply gone. Its position in the word is empty. In Integration, letterforms are fused so that shared geometry performs double duty, but all letterforms remain present in some form. Strong Suppression requires the removed letterform to satisfy two simultaneous conditions. It must be maximally present in its normal typographic state, and its absence must be maximally meaningful in the specific semantic context of the word.
+**Boundary condition:** Suppression is distinguished by the nature of its absence. In Suppression, the letterform is simply gone. Its position in the word is empty. Strong Suppression requires the removed letterform to satisfy three conditions. It must be maximally present in its normal typographic state, its absence must be maximally meaningful in the specific semantic context of the word and the remaining letters must not spell another word.
 
 ### Extension
 
@@ -101,7 +101,7 @@ The stress-testing followed a single governing principle: if a genuine instance 
 
 The taxonomy was initially proposed with five primitives, one of which was Elevation. Elevation was defined as encoding meaning through the spatial relationship, scale, or positioning between letterforms or words relative to each other or the baseline. It did not survive the first round of pressure-testing.
 
-Upon examination, every proposed example of Elevation proved reducible to one or more of the other primitives. For instance, a word where each successive letter is set progressively smaller to enact hierarchy is suitable to be called Extension. Elevation was therefore eliminated as a primitive. A universal set must contain only genuinely irreducible operations, and Elevation was not irreducible. Its elimination strengthened the system by demonstrating that the remaining primitives were doing more work than initially apparent.
+Upon examination, every proposed example of Elevation proved reducible to one or more of the other primitives. For instance, a word where each successive letter is set progressively smaller to enact hierarchy is suitable to be called Inflection. Elevation was therefore eliminated as a primitive. A universal set must contain only genuinely irreducible operations, and Elevation was not irreducible. Its elimination strengthened the system by demonstrating that the remaining primitives were doing more work than initially apparent.
 
 ### The Edge Case Hunt
 
