@@ -10,7 +10,7 @@
 
 ## Classification Fields
 
-- **Primary Primitive** — the dominant operation from the six primitives
+- **Primary Primitive** — the dominant operation from the five primitives
 - **Secondary Primitive(s)** — up to two additional primitives present, if any
 - **Primitive Relationship** — whether each secondary primitive enables, amplifies, or contrasts the primary
 - **Target Glyph(s)** — which specific letterforms are being operated on
@@ -34,7 +34,7 @@
   - **4** — Strong tension with minor resolution cost
   - **5** — Maximum sustained tension; surprise and legibility amplify each other
 - **Curatorial Note** — qualitative annotation in the curator's voice
-- **Generative Principle** — optional; only when annotation 
+- **Generative Principle** — optional; only when annotation reveals a transferable design rule. 
 
 ## Compound Rules
 
