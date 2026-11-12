@@ -3,7 +3,7 @@ entry_id: ET-041
 word: read
 designer: Unknown
 year: Unknown
-source: Pinterest
+source: AI-generated
 primary_primitive: Substitution
 secondary_primitives: []
 primitive_relationship: {}
