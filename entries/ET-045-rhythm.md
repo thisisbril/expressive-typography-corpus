@@ -11,7 +11,8 @@ target_glyphs:
   - Y
 operation_description: >
   The Y has been removed from its position between RH and THM, leaving a wide gap that splits the word into two fragments. The remaining letterforms R, H, T, H, M are intact and standard. The gap occupies the position and approximate width the Y would fill. No other letterform has been altered.
-concept_encoded: Intended: unclear. Achieved: an unpronounceable consonant cluster split into two illegible fragments.
+concept_encoded: >
+  Intended: unclear. Achieved: an unpronounceable consonant cluster split into two illegible fragments.
 semantic_mechanism: >
   Rhythm names a pattern of recurring beats. Rhythm has no semantic relationship with absence or invisibility. The concept the word names is not enacted or suggested by a missing letterform. The gap does not beat. It does not recur. It simply stops. Simultaneously, *rhythm* without its Y is unreadable. RH and THM are unpronounceable consonant clusters whose combined illegibility destroys the word's identity entirely. Legibility collapses on one side. Conceptual payoff collapses on the other.
 legibility_integrity: Contextual
