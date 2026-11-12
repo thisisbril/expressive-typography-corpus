@@ -1,1 +1,1227 @@
-[]
+[
+  {
+    "entry_id": "ET-001",
+    "word": "grill",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Substitution",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "i",
+      "l",
+      "l"
+    ],
+    "operation_description": "The three contiguous vertical strokes of \"i\", \"l\", and \"l\" are collectively unified into the silhouette of a grilling spatula. The stems of the letterforms become the blade's slots of the spatula.",
+    "concept_encoded": "A grilling spatula; the primary tool of the act of grilling.",
+    "semantic_mechanism": "The word \"grill\" contains three consecutive vertical strokes in \"ill\" whose parallel geometry inherently resembles the slots of a spatula blade. The designer perceived this latent iconicity. The choice of these specific glyphs is not arbitrary. No other combination of letters in \"grill\" could have yielded this object. The solution feels discovered rather than invented.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "What distinguishes this entry from other examples of Substitution is that the designer did not impose an external object onto the letterforms. They excavated an object that was already latent within the word's specific geometry. The \"ill\" sequence in \"grill\" is the only reason this works. That sense that the word (\"grill\") and the object (spatula) were made for each other is the hallmark of the best expressive typography.",
+    "generative_principle": "Strong Substitution introduces an object already latent within the word's specific geometry and leverage it to form an expressive typographic relationship.",
+    "image": "images/ET-001-grill.jpg"
+  },
+  {
+    "entry_id": "ET-002",
+    "word": "missing",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Suppression",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "i",
+      "i"
+    ],
+    "operation_description": "The stems of both i's have been removed entirely. Only the dots remain, floating at their correct horizontal positions above the baseline where the stems would stand. Every other letterform is intact and standard. The two floating dots are the sole evidence that two i's once occupied those positions.",
+    "concept_encoded": "Absence. The condition of being missing enacted on the letterforms that spell it.",
+    "semantic_mechanism": "The i is the most structurally fragile letterform in the Latin alphabet. Its entire body is a single stem, and without that stem only a dot remains. *Missing* contains two i's in close succession, and suppressing both stems simultaneously doubles the felt absence. Two gaps where two bodies should stand, marked only by the dots that float above them like evidence of what was there. The choice to suppress both i's rather than one is precise. A single missing stem reads as a typographic anomaly, but two floating dots establish a pattern that makes the operation undeniable and the concept unavoidable.",
+    "legibility_integrity": "Full.",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A self-referential Suppression of rare completeness. The i's are missing from *missing*, and the doubling is what makes this exceptional. One suppressed stem is a detail. Two suppressed stems are a statement. The floating dots are the operation's most precise element. They confirm that something was there before it went missing marking the absence the way a chalk outline marks a vacancy. The word reconstructs instantly despite the double suppression. *missing* is common enough that two absent stems cost nothing in legibility, which the concept lands with full force. Surprise and legibility amplify each other without remainder.",
+    "generative_principle": "When a word names a condition of absence, examine whether it contains repeated instances of the alphabet's most structurally fragile letterform. The i is the strongest candidate. Its stem is its entire body, making its suppression maximally felt, while its dot remains as evidence of prior presence.",
+    "image": "images/ET-002-missing.jpg"
+  },
+  {
+    "entry_id": "ET-003",
+    "word": "DROP",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Inflection",
+    "secondary_primitives": [
+      "Suppression"
+    ],
+    "primitive_relationship": {
+      "Suppression": {
+        "relationship": "enables",
+        "explanation": "Suppression enables Inflection. The O is absent from its expected horizontal position in the word, which creates a vacancy between R and P that the reader's eye registers as an origin point. The Inflection operation of displacement below the typographic baseline plus attached motion trail, is only legible as a fall because Suppression establishes where the fall began. Without the empty typographic slot, the displaced O reads as misplacement.\n"
+      }
+    },
+    "target_glyphs": [
+      "O"
+    ],
+    "operation_description": "The O letterform is geometrically intact and unmodified in shape. It is displaced far below the typographic baseline shared by D, R, and P, to the position where a falling drop would land. A vertical gradient streak that is white at the top and fades to near-black, descends from the O's vacated typographic position to the letterform itself. The vertical gradient functions as a motion trail that visualizes the kinetic act of falling. The O's position in the word's horizontal plane is simultaneously empty, which marks the origin of the fall through Suppression.",
+    "concept_encoded": "The act of falling; a liquid drop in motion and at landing",
+    "semantic_mechanism": "The O is the only letterform in DROP whose geometry already contains the shape of a drop. That is, a circle, which is the idealized form of a falling liquid at the moment of impact. No other letter in the word offers this geometric coincidence. The designer recognizes this and uses it as the hinge of the entire operation. The O does not need to be modified to become a drop. It already is one. The Inflection operation then encodes the motion of falling through displacement and environmental effect. The O earns its role twice. Once as the conceptual shape of a drop, and another as the typographic victim of gravity.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "This is a near-pure demonstration of Inflection at maximum compression. The O's geometry does zero expressive work. Its circular form is entirely unmodified and yet it is doing everything. The meaning is entirely in its state. Where it is, and what is attached to it. The motion trail  a temporal diagram the shows the path, not the object. The O shows the object. Together they reconstruct an event that is already over. The drop has already fallen by the time we read the word. Another interesting observation is the he gradient direction (bright at top, dark at fall, O at bottom). It subtly implies that the O is the terminus. That is, the drop at the moment of arrival, rather than mid-fall. This is a more resolved reading than a symmetric motion blur would produce and elevates the piece above its obvious typographic concept.",
+    "generative_principle": "When a letterform's existing geometry already contains the shape of the concept being encoded, Inflection is the most efficient operation available. No modification of the form is needed. The concept is encoded entirely through the state the letterform is placed in. Geometric coincidence between letter and concept is the precondition; Inflection is what activates it.",
+    "image": "images/ET-003-drop.jpg"
+  },
+  {
+    "entry_id": "ET-004",
+    "word": "CHEERS",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Mutation",
+    "secondary_primitives": [
+      "Inflection"
+    ],
+    "primitive_relationship": {
+      "Inflection": {
+        "relationship": "enables",
+        "explanation": "The 90-degree clockwise rotation and inward tilting of both E's (Inflection) positions each letterform so that its mutated geometry reads as a wine glass in the act of clinking. Without the rotation, the detached crossbar reads as a broken E. Without the detachment, the rotated E reads as a rotated E. The two operations are mutually dependent, but the Mutation creates the geometric condition that makes the glass reading available, and the Inflection then enacts the gesture.\n"
+      }
+    },
+    "target_glyphs": [
+      "E (all two instances)"
+    ],
+    "operation_description": "Both E's have had their crossbars detached from their stems. The horizontal stroke that normally connects to the vertical spine is separated, producing a bowl-like form floating above a stem-like base. Each E has then been rotated 90 degrees clockwise so that the detached crossbar of each E reads as a wine glass stem and base, and the stem of each E reads as a wine glass bowl. The first E is additionally tilted rightward and the second E leftward, so that their bowls meet and contact each other at the center, enacting the clinking gesture of a toast. The detached crossbars of both E's extend below the baseline as the glasses' bases. The remaining letterforms C, H, R, S are intact and standard.",
+    "concept_encoded": "Two wine glasses clinking in a toast. The gesture of cheering.",
+    "semantic_mechanism": "The E is the geometric opportunity in *CHEERS* because its four strokes (stem, top arm, crossbar, and bottom arm) approximate the profile of a wine glass when the letterform is rotated. The arms become the bowl, the stem becomes the rim of the bowl and the crossbar becomes the stem and base. Detaching the E's crossbar from its stem completes the wine glass's geometry. The word contains two E's in sequence, which is the precise structural gift the operation needed, allowing each rotated, mutated E to become one glass of a clinking pair. The inward tilting of both E's toward each other enacts the contact of the toast. The bowls meet at the center, and the gesture the word names is performed within the word that names it.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A compound operation of high geometric precision whose two primitives are genuinely mutually dependent. The Mutation creates the glass. The Inflection performs the gesture. Neither operates without the other, and together they produce a reading that is iconically complete. The word contains two E's, which is the structural gift that makes the paired glasses possible, and their adjacency in the word places them naturally at the contact point where the toast occurs. Legibility is Partial because the E's require decoding before the word reconstructs, but the decoding and the surprise arrive close enough together that the tension is fully sustained.",
+    "generative_principle": "When a word names a gesture performed with a paired object, examine whether it contains repeated letterforms whose geometry approximates that object's profile under rotation and minimal structural modification. Repeated letterforms are the structural gift that allows paired objects to be enacted within a single word. When Mutation creates the object and Inflection performs the gesture, the compound operation achieves its greatest force when the two primitives are mutually dependent.",
+    "image": "images/ET-004-cheers.jpg"
+  },
+  {
+    "entry_id": "ET-005",
+    "word": "Copernicus",
+    "designer": "Kapil Bhagat",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Extension",
+    "secondary_primitives": [
+      "Inflection"
+    ],
+    "primitive_relationship": {
+      "Inflection": {
+        "relationship": "amplifies",
+        "explanation": "Inflection amplifies Extension. The C's extension into an orbital ring is the primary expressive act and is legible as a heliocentric diagram independently. The Inflection operations, which are o rendered in gold and the dot of i rendered in blue, amplify the diagram by assigning specific astronomical identities to two letterforms within the orbit. That is, the sun and a planet. With these secondary primitives of Inflection, the word becomes a complete cosmological model, with a star, a planetary body, and the orbital ring that governs their relationship all encoded simultaneously in a single typographic word. \n"
+      }
+    },
+    "target_glyphs": [
+      "C",
+      "o",
+      "i (dot)"
+    ],
+    "operation_description": "The C of Copernicus is scaled to approximately ten times the cap height of the remaining letters and rendered as a thin circular arc. The remaining letters \"opernicus\" are set at normal scale along a baseline that intersects the interior of the C-ring at its rightmost opening, so the word sits inside the orbit. The C retains its identity as a C through the open arc gap at the right. Within the word, the o is rendered in yellow-gold and the dot of the i is rendered in blue. All three target glyphs retain their geometric integrity entirely.",
+    "concept_encoded": "The Copernican heliocentric model. The sun at the center of a planetary system, with bodies in orbital revolution around it.",
+    "semantic_mechanism": "The C is the only letterform in Copernicus whose geometry is already an orbit. A circle with one gap is structurally identical to a planetary orbital path rendered as a ring. The word then earns a second level of encoding. \"opernicus\" sits inside the orbital ring, as objects in a solar system sit inside their orbital paths. The o's gold coloring assigns it the role of the sun, while the blue dot of the i assigns it the role of a planet in orbit. The diagram is astronomically literate. A sun-colored body, anorbital ring, and a planetary body, all encoded through letterforms that already contain the necessary geometry. The name Copernicus itself is the referent, making the semantic loop closed. The word performs the discovery the made by the man.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "What makes this piece exceptional is that it requires no invention. Every element of the Copernican model is already latent in the word's letterforms. The C is already an orbit, the o is already a sun, the dot of the i is already a planet. The designer's act is one of recognition rather than imposition. They found what the word already contains and scaled it to legibility. The C's detachment from the typographic baseline is the decisive move. The moment it escapes the word's spatial plane, it stops being a letter that looks like an orbit and becomes an orbit that happens to be a letter.",
+    "generative_principle": "When a letterform's geometry already contains the shape of a concept at typographic scale, Extension to a scale where that geometry reads as the concept is the operation that completes the transformation. The threshold between resemblance and identity is a function of scale. Below the threshold, the letter looks like the concept. Above it, the letter becomes the concept. A good Extension operation locates and crosses that threshold.",
+    "image": "images/ET-005-copernicus.jpg"
+  },
+  {
+    "entry_id": "ET-006",
+    "word": "Television",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Substitution",
+    "secondary_primitives": [
+      "Extension"
+    ],
+    "primitive_relationship": {
+      "Extension": {
+        "relationship": "enables",
+        "explanation": "Extension enables Substitution. The V's upper terminals are extended beyond the cap height with thinner diverging lines terminating in small circular dots. The Extension completes the Substitution by supplying the antenna elements that the V's existing geometry alone could not contain.\n"
+      }
+    },
+    "target_glyphs": [
+      "V"
+    ],
+    "operation_description": "The V letterform retains its standard geometry. There are two diagonal arms meeting at a central vertex at the baseline. From the V's upper terminals, two thinner lines extend outward and upward beyond the cap height, diverging asymmetrically and each terminating in a small circular dot. The resulting form reads as a complete television antenna. The V body functions as the antenna base and lower support structure, the extended lines function as the rabbit ear arms, and the circular dots function as the antenna tips. The V is both a legible letterform and a complete iconic representation of the object the word names.",
+    "concept_encoded": "A television antenna. The physical object most iconically associated with the technology the word names.",
+    "semantic_mechanism": "The V is the only letterform in Television whose geometry already contains the structural core of a television antenna. The Extension operation completes the iconic reading by adding the rabbit ear lines and tip dots that the V's existing geometry implies but does not fully contain. The result is a Substitution-by-recognition. The V was always an antenna.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "The asymmetry of the antenna arms deserves specific attention. A symmetric V extended symmetrically would produce a more formally resolved antenna but a less convincing one. Real rabbit ear antennas are adjusted asymmetrically to tune reception. This usually results in one arm extended further than the other. The asymmetry makes the antenna feel used, functional, and realistic. This is a detail that operates below conscious recognition for most viewers but contributes materially to why the piece feels inevitable. The difference between a good expressive typographic piece and an exceptional one often lives at exactly this level of detail.",
+    "generative_principle": "When a letterform's native geometry already contains the structural core of a real-world object associated with the word's meaning, the designer's task is recognition. Identify what the letterform already is, then supply only the elements needed to make that identity fully legible as an iconic object.",
+    "image": "images/ET-006-television.jpg"
+  },
+  {
+    "entry_id": "ET-007",
+    "word": "half",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Suppression",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "h",
+      "a",
+      "l",
+      "f"
+    ],
+    "operation_description": "All four letterforms of \"half\" are cropped at the same absolute horizontal midline running across the full width of the word. Every letterform exists only from that midline downward to the baseline. The h retains its upper ascender and arch but loses its lower stems. The a retains its upper counter and stem but loses its lower bowl. The l retains its ascender but loses its lower stem. The f retains its upper stem and crossbar region but loses the lower stem. The crop is uniform and absolute. What remains is the top half of the word.",
+    "concept_encoded": "Halfness. The state of being exactly and only one half of a whole",
+    "semantic_mechanism": "The suppression operates at the level of the whole word rather than at the level of any individual letterform, which means the concept is enacted at the scale of the word's own existence. This is the most direct possible typographic statement about halfness. The word \"half\" has itself been halved. The uniform horizontal crop is the critical decision. It makes the suppression read as a single clean bisection. The reader immediately understands that the missing portion is equal in size to the present portion, which is the precise geometric condition the word names.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "The  operation is a  global condition applied to the word as a whole and the word is its own demonstration. This level of conceptual closure where the typographic object and the concept it  encodes are the same thing rather than a representation of each other is the highest achievement available to the form. The uniform midline is non-negotiable to the piece's success. Any variation in the crop height across letterforms would break the reading from bisection to damage. The absolute horizontal line is what makes the concept legible as geometry.",
+    "generative_principle": "When a word names a condition of partiality, the most elegant enactment is to apply it to the word itself. Suppression at the word level produces a typographic object that is its own concept. The suppression must be geometrically exact and uniformly applied across all letterforms for the crop to read as bisection.",
+    "image": "images/ET-007-half.jpg"
+  },
+  {
+    "entry_id": "ET-008",
+    "word": "Slim",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Mutation",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "i"
+    ],
+    "operation_description": "The i letterform's stem has been reduced to a hairline stroke weight while every other letterform in the word retains the heavy sans-serif weight of the base typeface. The i's dot is preserved at or near the standard weight, creating a pronounced contrast between the dot's mass and the stem's near-absence. The i remains fully legible as an i. Its position, its dot, and its vertical orientation are all intact, but its stem weight is reduced to the minimum possible mark. The surrounding letterforms establish the word's base stroke weight, making the i's reduction immediately measurable by contrast.",
+    "concept_encoded": "Slimness. The condition of extreme thinness relative to surrounding mass.",
+    "semantic_mechanism": "The i is one of the letterforms in \"Slim\" whose geometry is dominated by a single vertical stroke. Reducing the stroke weight of m, for instance, would alter one stroke among several. Reducing the stroke weight of the i reduces the letterform's entire physical presence to a line. The i suitably enacts slimness. Its body is slim in the same physical sense that a person or object can be slim. It occupies minimal horizontal space while retaining its full vertical extent. The surrounding heavy letterforms bring to light the relative condition of the slimness of the i.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "The retention of the dot at full weight is the piece's most intelligent detail. A fully reduced i would approach invisibility and risk the legibility that the concept requires. By keeping the dot heavy, the designer preserves the i's identity as a letterform while concentrating the slimness reading entirely on the stem.",
+    "generative_principle": "When a word names a physical condition of proportion or weight, target the letterform whose geometry is most fully constituted by the single property the concept describes. A letterform whose entire visible structure is one stroke is the ideal candidate for stroke-weight Mutation. Reducing or expanding that one stroke alters the letterform's entire physical presence. The surrounding letterforms must retain the base weight to establish the relational contrast that makes the Mutation legible as a concept. Slimness, like all relational conditions, requires a reference mass to be measurable.",
+    "image": "images/ET-008-slim.jpg"
+  },
+  {
+    "entry_id": "ET-009",
+    "word": "kiss",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Inflection",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "s"
+    ],
+    "operation_description": "The second s is horizontally inverted so that it faces left while the first s faces right. The letterform's geometry is entirely intact. Every stroke, curve, and proportion is standard. Only its orientation has been changed.The two s letterforms now face each other across their shared boundary, depicting the mutual orientation that a kiss requires.",
+    "concept_encoded": "The bilateral, mutually directed nature of a kiss",
+    "semantic_mechanism": "A kiss requires two parties turning toward each other. The word kiss ends in a doubled letter, and the designer uses that doubling to perform the concept geometrically. One s faces the conventional direction, one faces its mirror. The mirroring communicates the meeting. The meaning is in the orientation of the letterform, not in any external image it produces. The s was likely chosen because its natural directionality makes the reversal immediately readable as a deliberate act, and because the doubled s at the word's end creates the bilateral pairing the concept demands.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "A clean and economical Inflection. The operation is a single change to a single non-geometric attribute of one letterform, and it performs the concept with precision. The final two letterforms of the word turn to face each other as if performing a kiss. The meaning is entirely in the orientation state of the second s.",
+    "generative_principle": "When a word names a bilateral or reciprocal act, examine whether a doubled or repeated letterform can perform that reciprocity through mirroring. The operation works when the letterform's natural directionality is legible enough that its reversal reads as deliberate.",
+    "image": "images/ET-009-kiss.jpg"
+  },
+  {
+    "entry_id": "ET-010",
+    "word": "DISTANCE",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Extension",
+    "secondary_primitives": [
+      "Mutation"
+    ],
+    "primitive_relationship": {
+      "Mutation": {
+        "relationship": "amplification",
+        "explanation": "The T's crossbar, extended across the word, meets and joints with the S on its left and the A on its right. Those junctions alter the geometry of both letterforms at the point of contact, producing structural modifications in S and A that are a direct consequence of the Extension reaching them. The Mutation is the mark that Extension leaves on the letterforms it touches. So Extension amplifies Mutation.\n"
+      }
+    },
+    "target_glyphs": [
+      "T (primary)",
+      "S and A (sites of consequent Mutation)"
+    ],
+    "operation_description": "The T's crossbar is extended horizontally far beyond its conventional typographic boundary in both directions spanning the full interior of the word and physically separating DIS from ANCE. The stem of the T sits normally on the baseline alongside the other letterforms. At the endpoints of the extended crossbar, the stroke meets and joints with the terminal of the S on the left and the A on the right, producing geometric modifications to both letterforms at the point of contact.",
+    "concept_encoded": "Spatial separation. A measurable span between two points.",
+    "semantic_mechanism": "Distance is a interval between two positions. The T letterform contains a horizontal crossbar whose natural axis aligns precisely with the concept of a span. The designer extends that crossbar until it reaches the far edges of the word's interior, making DIS and ANCE the two endpoints and the T the measured interval between them. The junctions with S and A anchor the crossbar to the word's body, which ensures the Extension reads as a structural connection.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "The T performs distance as a measurable geometric fact within the typography itself. The word is literally as wide as the concept it names. The Mutation in S and A sharpens this reading further. The crossbar passes through the word's interior, connects to it and alters the geometry of some letterforms to depict the concept of distance. The designer recognized that the T's crossbar was always capable of this operation.",
+    "generative_principle": "When a word names a spatial or relational concept like distance, span, gap, examine whether any letterform contains a stroke whose natural axis aligns with the concept's spatial character. Extension works most powerfully when it requires no additional geometry besides the release of an existing stroke beyond its conventional boundary. When that extended stroke reaches adjacent letterforms, the resulting junctions can structurally anchor the operation and make the extended stroke not visually suspended.",
+    "image": "images/ET-010-distance.jpg"
+  },
+  {
+    "entry_id": "ET-011",
+    "word": "egg",
+    "designer": "Singaraja Design",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Substitution",
+    "secondary_primitives": [
+      "Mutation"
+    ],
+    "primitive_relationship": {
+      "Mutation": {
+        "relationship": "enables",
+        "explanation": "Mutation enables Substitution. The bowl of the e is reshaped into a closed oval approximating an egg's silhouette (Mutation), creating the geometric condition that allows the crack motif replacing the crossbar (Substitution) to complete an unambiguous iconic reading of a cracked egg. Without the Mutation establishing the egg-shell profile, the substituted crack would read as an arbitrary stroke replacement.\n"
+      }
+    },
+    "target_glyphs": [
+      "e"
+    ],
+    "operation_description": "The e's bowl is reshaped into a closed oval approximating an egg's profile, and its conventional crossbar is replaced by a lightning-bolt crack motif running diagonally through the interior of the form. The outer curve of the e becomes the egg's shell. The crack occupies the space where the typographic crossbar would sit. Together the two operations transform the e into a cracked egg while the letterform retains sufficient typographic identity to read clearly as an e within the word.",
+    "concept_encoded": "A cracked egg; hatching; breakage from within",
+    "semantic_mechanism": "The e is the first and most geometrically receptive letterform in *egg* for this operation. The bowl of an e already approximates the profile of an egg when the opening is closed and the form is rounded.The crossbar, which is the e's most structurally distinctive internal element, occupies precisely the position where a crack would run across an egg's surface. Replacing it with a crack motif requires minimal geometric displacement, which produces a complete iconic reading. The word names the object, and the first letter becomes it.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 3,
+    "curatorial_note": "A clean and economical compound operation. The Mutation does an essential preparatory work. Without the bowl being closed into an egg profile, the crack reads as a deformed crossbar rather than a crack in a shell. The Substitution then completes the iconic reading with precision. What keeps this at a 3 rather than a 5 is that the conceptual logic is immediately transparent. The first letter of egg becomes an egg. The surprise is present but the path to it is short. A 5 would require the surprise and legibility to hold their tension longer before resolving.",
+    "generative_principle": "When a word names a physical object, examine whether any letterform's existing bowl or counter geometry approximates that object's silhouette under minimal deformation. If so, the interior of that bowl becomes available for Substitution. The typographic stroke that normally occupies it can be replaced by a detail that completes the iconic reading. The e is a strong candidate for this operation because its near-closed bowl is geometrically proximate to many rounded natural forms.",
+    "image": "images/ET-011-egg.jpg"
+  },
+  {
+    "entry_id": "ET-012",
+    "word": "connect",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Mutation",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "c",
+      "o"
+    ],
+    "operation_description": "The left arc of the o is deformed inward, concaving toward the c. The terminal of the c curves to meet the deformed left arc of the o. Both deformations occur within each letterform's typographic boundary. The result is a composite form in which the c and o read as two loops joined at a shared concave junction to create a chain link or infinity symbol. This formation is produced entirely through structural deformation of the two letterforms' facing geometry.",
+    "concept_encoded": "Physical connection. Two entities joined at a shared boundary",
+    "semantic_mechanism": "Connect names the act of joining. The c and o are the word's opening letterforms, and their facing geometry is the site where that act is performed. No external image is imposed. The letterforms are bent toward each other until they enact the concept their word names.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 3,
+    "curatorial_note": "A clean and structurally precise Mutation. The deformation is bilateral because both the c and the o are modified at their facing edges. The chain-link reading emerges from that bilateral pressure. This entry holds a 3 for suprise legibility ratio because the logic is direct. The first two letters of connect connect. The move is right but resolves too quickly.",
+    "generative_principle": "When a word names a relational or connective act, examine whether adjacent letterforms can be mutually deformed at their facing edges to produce a composite form that enacts the concept. Mutation works most precisely here when the deformation is bilateral and contained within each letterform's own boundary, so the iconic reading emerges from structural pressure, not from substitution or extension.",
+    "image": "images/ET-012-connect.jpg"
+  },
+  {
+    "entry_id": "ET-013",
+    "word": "hide",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Suppression",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "i"
+    ],
+    "operation_description": "The stem of the lowercase i has been removed entirely. The dot remains, floating at its correct height between the h and the d with no vertical stroke connecting it to the baseline. The letterform is inferrable from the floating dot and word context alone, but its body is absent. The i is present only as a hovering remnant of itself.",
+    "concept_encoded": "Hiding. The body gone, only a trace remaining",
+    "semantic_mechanism": "The stem is the i's structural body and the stroke that plants it on the baseline to make it physically present in the word. The dot is merely its crown. Suppressing the stem removes the body while leaving the trace. This produces a letterform that hovers and enacts hiding with anatomical precision. The i has withdrawn its body and left only a mark behind. No other letterform in *hide* contains this structural duality of a detachable body and a detachable crown. The partial suppression eventually brings awareness to the concept of hiding, even though the legibility its delayed.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 3,
+    "curatorial_note": "A self-referential Suppression, which makes its legibility prolonged to notice. The i does not lose its most visible feature, which is the dot. Upon critical observation, the dot remains, floating, as evidence that something was there. What is gone is the body. The hovering dot is more unsettling than a clean absence would be. It marks the place where the i stood before it hid itself. That quality of presence confirmed by a remnant is what exactly contribute to the Suppression. The surprise and legibililty tension of the Suppression would have yielded a 5 if the space occupied by the removed stem of the i is not compressed. That will bring more meaning to the absence of the removed stem.",
+    "generative_principle": "When a word names an act of concealment or withholding, examine whether any letterform contains a detachable identifying feature whose removal enacts that concept on the letterform itself. The dot of the lowercase i is the strongest candidate in the Latin alphabet. It is structurally essential to the letterform's identity,visually prominent, and physically separate from the stem, making its absence immediately felt. Suppression works most powerfully when the removed element is both maximally present in its normal state and maximally meaningful in its absence.",
+    "image": "images/ET-013-hide.jpg"
+  },
+  {
+    "entry_id": "ET-014",
+    "word": "divide",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Extension",
+    "secondary_primitives": [
+      "Inflection"
+    ],
+    "primitive_relationship": {
+      "Inflection": {
+        "relationship": "amplifies",
+        "explanation": "Inflection amplifies Extension. The V's strokes extended beyond all typographic boundaries physically cleave the word into two halves. The rotational displacement of the di and ide clusters outward from the point of division (Inflection) enacts the physical consequence of that cleaving. The two halves fall away from the blade. The Inflection makes the Extension's force felt as a dynamic event.\n"
+      }
+    },
+    "target_glyphs": [
+      "V (primary)",
+      "d, i (left cluster)",
+      "i, d, e (right cluster)"
+    ],
+    "operation_description": "The V is scaled and extended so dramatically that its two strokes rise far above cap height and plunge below the baseline, occupying the full vertical space of the composition as a wedge driven through the word's center. The extended strokes physically separate \"di\" on the left from \"ide\" on the right. The letterform clusters on either side are rotationally displaced outward. They lean away from the V as if pushed apart by the force of the division. The V remains fully legible as a letterform while also operating as a dividing blade at architectural scale.",
+    "concept_encoded": "Division. A force that cleaves a whole into two separated parts",
+    "semantic_mechanism": "Divide names an act of splitting. The V is the word's central letterform and its geometry is the operative opportunity of two diverging strokes forming a wedge. Extended beyond all typographic boundaries, that wedge becomes a blade. It serves as a physical force inserted into the word's center that pushes its two halves apart. The V was always a diverging form. The Extension simply releases that divergence to its conceptual limit. The rotational lean of the flanking clusters completes the reading by showing the effect of the force.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "The V performs division at the scale of the whole word and as a geometric and spatial fact. What distinguishes this from lesser instances of Extension is the consequential logic. The Extension produces a visible effect on the surrounding letterforms, which lean away from the blade as if subject to the force it exerts. This makes the design read as a physical event. The word is literally undergoing division.",
+    "generative_principle": "When a word names a forceful or directional act, examine whether any letterform contains geometry whose natural form (a wedge, an arrow, a blade) aligns with the concept's spatial character. Extension works most powerfully when the extended geometry produces visible consequences in the surrounding letterforms, making the force legible in both the extended stroke and what that stroke does to the word around it.",
+    "image": "images/ET-014-divide.jpg"
+  },
+  {
+    "entry_id": "ET-015",
+    "word": "blank",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Inflection",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "l"
+    ],
+    "operation_description": "The l has been rotated 90 degrees from its conventional vertical orientation to horizontal, so that it lies flat at baseline level. The letterform's geometry is entirely intact, but its orientation places it flush with the baseline, where it reads as an underscore or fill-in-the-blank line.",
+    "concept_encoded": "A blank. An empty space where something should be but cannot be read",
+    "semantic_mechanism": "The l is the simplest letterform in the Latin alphabet. That geometric simplicity is what makes Inflection so effective here. Rotating the l costs nothing structurally, but it costs the letterform its entire legibility as a letter. A vertical stroke is a letter. The same stroke horizontal is a line, a blank, a gap. The word performs its own meaning by laying its most structurally minimal letterform flat. The l does not disappear, but now becomes the symbol for its own absence. The hairline weight of the typeface reinforces this. At this stroke weight, the horizontal l is indistinguishable from a ruled blank line.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 3,
+    "curatorial_note": "A precise Inflection whose legibility cost is real. The l rotated to horizontal produces the correct symbol for blankness, but it does so at the expense of immediate readability. The viewer decodes b_ank before blank, meaning surprise and legibility arrive sequentially rather than simultaneously. The concept depends on this gap. The blank must actually feel blank before the word resolves. The hairline weight is doing essential work. At any heavier stroke weight the horizontal l would read as a dash rather than a blank line, and the operation would lose its typographic precision entirely.",
+    "generative_principle": "When a word names a condition of absence or illegibility, examine whether any letterform is geometrically simple enough that a change of orientation alone suspends its legibility while producing a meaningful symbol. The l is the strongest candidate in the Latin alphabet for this operation. Its single-stroke geometry means that rotation produces no ambiguous residue.",
+    "image": "images/ET-015-blank.jpg"
+  },
+  {
+    "entry_id": "ET-016",
+    "word": "hour",
+    "designer": "Gary Dimi Pohty",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Substitution",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "r"
+    ],
+    "operation_description": "The r has been replaced by a clock hand mechanism. A vertical stem serving as the minute hand, a pivot circle at the junction, and an arm angled to approximately the 3 o'clock position serving as the hour hand. The letterform is inferrable as an r from word context alone. Its typographic identity is suspended in favor of the clock-hand reading. Small dashed tick marks distributed around the r in the surrounding space function as hour markers on a clock face to complete the iconography.",
+    "concept_encoded": "A clock face measuring an hour. Time made visible within the word that names it.",
+    "semantic_mechanism": "The r is the final letterform in *hour* and the most geometrically receptive for this operation. Its conventional form, which consists of a stem with an arm extending outward, is proximate to a clock hand. The designer takes that proximity to its conclusion by replacing the letterform entirely with the instrument. The word names the unit of time a clock measures, and its final letterform becomes the clock that measures it. The tick marks in the surrounding space confirm the instrument's function. With them the substituted form is embedded in a fully readable clock face.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "The r is a clock, positioned where a letter should be. The substitution is total. What makes this a 5 is the completeness of the reading across every scale. The word names the unit, the letterform becomes the instrument, and the environmental tick marks confirm the instrument's function. Each element is load bearing.",
+    "generative_principle": "When a word names a unit of measurement or temporal concept, examine whether any letterform's position and basic geometry (stem, arm, diagonal) make it a candidate for replacement by the instrument that measures that concept. Substitution works most precisely when the replaced letterform's conventional form is geometrically proximate to the substituted object. This way the iconic reading and the typographic reading occupy the same geometric space without conflict.",
+    "image": "images/ET-016-hour.jpg"
+  },
+  {
+    "entry_id": "ET-017",
+    "word": "magic",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Suppression",
+    "secondary_primitives": [
+      "Substitution"
+    ],
+    "primitive_relationship": {
+      "Substitution": {
+        "relationship": "amplifies",
+        "explanation": "Substitution amplifies Suppression. The absent stem (Suppression) enacts the disappearance. The sparkle stars replacing the dot (Substitution) specify that the disappearance was magical. The stars are the residue the trick leaves behind. The i has vanished, and only its enchanted trace remains above the gap where it stood.\n"
+      }
+    },
+    "target_glyphs": [
+      "i"
+    ],
+    "operation_description": "The stem of the i has been removed entirely, which leaves a gap between the g and the c. The dot of the i has been replaced by two four-pointed star icons, floating above the position where the stem would stand. The i is inferrable from word context alone. Its body is gone. What remains above the gap is not a typographic mark but a sparkle motif. The sparkle is a conventional visual symbol for magic, glamour, and sudden appearance or disappearance.",
+    "concept_encoded": "A magical disappearance. The i has been made to vanish by magic.",
+    "semantic_mechanism": "Magic is the art of making things disappear. The i, whose stem is its entire body and its sole claim to physical presence in the word, has been made to vanish. This leaves only the stars that mark where a magical act occurred.The dot, normally the i's secondary feature, is replaced by the sparkle motif. The sparkles decorate and explain the absence. Something was here. Magic took it. The sparkles are the evidence. No other letterform besides i in *magic* is as structurally fragile, making its disappearance both maximally felt and maximally legible through context.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "A clean and well-structured compound operation. The Suppression is doing the conceptual heavy lifting and the Substitution earns its place by specifying the cause. The sparkles are the explanation for the absence, which is a precise and disciplined use of the secondary primitive. What holds this at a 4 rather than a 5 is that the conceptual path is short. The word is magic, a letter has vanished, sparkles mark the spot. The logic resolves immediately and completely without the sustained tension a 5 requires.",
+    "generative_principle": "When a word names a phenomenon that causes disappearance or transformation, examine whether suppressing a letterform can enact that phenomenon on the word itself. The operation is strongest when the substituted element does not merely mark the absence but explains it, turning the gap from a typographic event into a narrative one.",
+    "image": "images/ET-017-magic.jpg"
+  },
+  {
+    "entry_id": "ET-018",
+    "word": "dots",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Inflection",
+    "secondary_primitives": [
+      "Mutation"
+    ],
+    "primitive_relationship": {
+      "Mutation": {
+        "relationship": "amplifies",
+        "explanation": "Mutation amplifies Inflection. The fill-state inversion of the o (Inflection)makes it read as a solid dot, which is the thing the word names. The o's scale and forward position cause its boundary to overlap and interrupt the stems of the d and the t (Mutation), embedding the dot physically into the word's structure and making its eventually noticed.\n"
+      }
+    },
+    "target_glyphs": [
+      "o (primary)",
+      "d and t (sites of consequent Mutation)"
+    ],
+    "operation_description": "The counter of the o is rendered black, while its bowl is white. This color inversion produces a pure dot. The letterform is scaled and positioned so that its circular boundary overlaps the stem of the d on its left and the stem of the t on its right, interrupting the geometry of both letterforms at the points of contact. The o's shape is geometrically intact but its color and its relationship to neighboring letterforms have both been transformed.",
+    "concept_encoded": "A dot. The typographic and visual object the word names.",
+    "semantic_mechanism": "The word *dots* names a class of visual objects: filled circles, points, marks of pure presence. The o is the only letterform in the word whose natural geometry is circular, making it the sole candidate for this operation.Collapsing its counter to produce a solid fill transforms it from a letterform into the object it names, without altering its shape. The overlap with d and t anchors the dot into the word's body, the way a real dot placed on a surface would.",
+    "legibility_integrity": "Contextual",
+    "surprise_legibility_ratio": 3,
+    "curatorial_note": "A self-referential operation whose legibility cost is real and analytically interesting. The o presents as a pure dot. Its letterform identity is fully suspended by the color inversion and is only recoverable as a letter through the stem interruptions it produces in the d and t. The Mutation on d and t is the only evidence that th o letterform is present at all. Without it, the word reads as d•ts with a decorative spot. The surprise arrives immediately, but the legibility requires reconstruction. That gap is what holds this at a 3, and what makes the Mutation's role structurally essential.",
+    "generative_principle": "When a word names a visual object that corresponds to the natural geometry of one of its letterforms, examine whether a fill-state or color change alone is sufficient to complete the iconic reading. When it is, the operation achieves maximum economy. No geometry is altered and no external element imposed. Only the condition of the letterform changes. The reading is strongest when the transformed letterform is then embedded into the word's structure through overlap or contact rather than left isolated.",
+    "image": "images/ET-018-dots.jpg"
+  },
+  {
+    "entry_id": "ET-019",
+    "word": "slide",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Mutation",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "l",
+      "i"
+    ],
+    "operation_description": "The l has been structurally deformed from a vertical stroke into a curved ramp geometry descending from upper left to lower right, approximating the profile of a playground slide. The i has also deformed. Its dot is repositioned to the top of the l's ramp at the slide's launch point, and its stem curved to follow the ramp's descent. The i now reads as a human figure in the act of sliding. The two letterforms are mutually deformed to produce a unified semantic scene that consist of a slide and a sliding figure. Both remain inferrable as their respective letterforms through word context.",
+    "concept_encoded": "A playground slide. A figure in the act of sliding",
+    "semantic_mechanism": "The l and i are adjacent letterforms in *slide* and together occupy the word's center. The l's geometry of a single vertical stroke is the closest letterform in the word to the profile of a slide's ramp. It requires only a curving deformation to complete the reading. The i's stem and dot make it ideal for the representation of a human figure. The dot becomes the head, the stem becomes the body in motion. The two deformations are mutually dependent. The l's ramp gives the i's figure somewhere to slide, and the i's figure gives the l's ramp its purpose. Neither operates independently. The word names the act, and its two central letterforms enact it as a scene.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A compound Mutation of rare completeness. The l and i are co-deformed, each requiring the other to complete its semantic reading. The l needs the i to confirm it is a slide and not an abstract curve. The i needs the l to confirm it is a figure in motion rather, not a distorted stem.Together they produce a scene that is both typographically legible and iconically precise. The dot of the i at the top of the ramp is the detail that clinches the reading. It is the exact position a figure occupies at the moment before sliding, and its placement there feels inevitable in retrospect.",
+    "generative_principle": "When a word names a physical action involving an agent and a surface, examine whether adjacent letterforms can be co-deformed so that one becomes the surface and the other becomes the agent. Compound Mutation works most powerfully when the two deformations are mutually dependent. That is, when neither letterform completes its semantic reading without the other. This produces a unified scene.",
+    "image": "images/ET-019-slide.jpg"
+  },
+  {
+    "entry_id": "ET-020",
+    "word": "CONDOM",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Extension",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "C"
+    ],
+    "operation_description": "The C's upper and lower terminals have been extended rightward as straight horizontal strokes running the full width of the word at cap height and baseline respectively. The C's arc closes the left side while the two extended terminals form the top and bottom edges of a containing boundary that encloses the remaining letterforms O, N, D, O, M within it. The extended strokes cross far beyond the C's conventional typographic boundary into territory the letterform was never meant to occupy, transforming the C from an open arc into a closed containing form.",
+    "concept_encoded": "A condom enclosing and covering a penis.",
+    "semantic_mechanism": "The C is the word's first letterform and its geometry is the operative opportunity. Extending the terminals of the C across the full width of the word makes the letterform a containing boundary that encloses every other letterforms. The remaining letters O, N, D, O, M are both the word's body and the covered form inside the condom. The C was always pointing toward them. The Extension simply follows that pointing to its conceptual conclusion. The word names the object, and its first letterform becomes it, enclosing the rest of the word within itself.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A structurally complete enactment of the concept. The C functions as a condom, with the word's own letterforms serving as the enclosed penis. What makes this exceptional is the economy of the operation. A single Extension of the C's existing terminals is sufficient to transform the entire word into a diagram of the concept it names. No additional geometry is imposed. The terminals were always pointing rightward. The designer recognized that following them to their limit would make the word contain itself. That quality of inevitability is the mark of a strong Extension instance.",
+    "generative_principle": "When a word names a containing or enclosing object, examine whether any letterform's existing terminals or strokes already point toward the remaining letterforms. If so, extending those terminals to enclose the word's body transforms the letterform into the container and the word into the contained. The C is a strong candidate for this operation because its open terminals are already directionally oriented toward whatever follows it.",
+    "image": "images/ET-020-condom.jpg"
+  },
+  {
+    "entry_id": "ET-021",
+    "word": "search",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Extension",
+    "secondary_primitives": [
+      "Substitution"
+    ],
+    "primitive_relationship": {
+      "Substitution": {
+        "relationship": "amplifies",
+        "explanation": "Substitution amplifies Extension. The rectangular stroke extended rightward from the a (Extension) produces the search bar field. The magnifying glass icon placed at the a's left (Substitution) specifies the bar as a search interface, which completes the iconic reading. Without the Substitution, the Extension reads as an unspecified container.\n"
+      }
+    },
+    "target_glyphs": [
+      "a"
+    ],
+    "operation_description": "The a's geometry is extended rightward beyond its conventional typographic boundary as a rectangular outline, spanning the space between the a and the r and forming the field of a search bar. The a's bowl sits at the left end of the rectangle, functioning simultaneously as the letterform's counter and as the circular left cap of the search bar. A magnifying glass icon is placed to the left of the bowl, occupying the space at the a's approach and substituting a non-typographic search icon into the typographic sequence. Together the extended rectangle, the bowl, and the magnifying glass form a complete search bar interface embedded in the word.",
+    "concept_encoded": "A search bar. The interface through which searching is performed",
+    "semantic_mechanism": "The a is the geometric opportunity in *search*. Its closed circular bowl approximates the circular end cap of a search bar input field, and its position in the word's center makes it the natural anchor for an extension spanning toward the remaining letters. Extending the a's boundary rightward into a rectangle transforms the letterform from a self-contained glyph into the left terminus of a search field. The magnifying glass at the a's left confirms the interface reading. It is the universal icon for search, placed exactly where a search bar's icon conventionally sits. The word names the act and its central letterform becomes the instrument through which the act is performed.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "A well-structured compound operation in which Extension and Substitution are mutually dependent. The rectangle without the magnifying glass is an abstract bar. The magnifying glass without the rectangle is an isolated icon.Together they produce a complete and immediately recognizable search interface. The a's bowl doing double duty as both letterform counter and search bar end cap is the design's most precise detail. What holds this at a 4 is that the conceptual logic is transparent and resolves immediately. The word search contains a search bar.",
+    "generative_principle": "When a word names a digital interface or tool, examine whether any letterform's existing geometry approximates a component of that interface. Extension can then build the interface outward from that geometric anchor, while Substitution places the interface's identifying icon in the adjacent typographic space. The operation is strongest when the letterform's natural geometry performs double duty by functioning as both a legible letter and a structural component of the interface simultaneously.",
+    "image": "images/ET-021-search.jpg"
+  },
+  {
+    "entry_id": "ET-022",
+    "word": "balloon",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Substitution",
+    "secondary_primitives": [
+      "Inflection"
+    ],
+    "primitive_relationship": {
+      "Inflection": {
+        "relationship": "amplifies",
+        "explanation": "The knot terminals and descending strings added to each o (Substitution)complete the iconic balloon reading. The elevated position of both o's above the baseline (Inflection) creates the physical behavior of the object they have become. The balloons float upward, pulling their strings taut below them. The Inflection transforms the Substitution from a visual resemblance into a physical event.\n"
+      }
+    },
+    "target_glyphs": [
+      "o, o"
+    ],
+    "operation_description": "Each of the two o's has been given a tied knot terminal at its base and a thin string descending from that knot to below the baseline, transforming the circular letterforms into balloons. Both o's are elevated above the baseline and displaced upward to where balloons would float when held by their strings. The o's geometry is otherwise entirely intact. The knot, string, and elevated position together complete the iconic reading. Each o is both a letterform and a floating balloon.",
+    "concept_encoded": "Floating balloons. Objects that rise and pull their strings upward.",
+    "semantic_mechanism": "The o is the only letterform in *balloon* whose natural geometry approximates the silhouette of a balloon. The word contains two of them in sequence, which mirrors the paired balloons conventional in celebratory imagery. The knot and string require minimal non-typographic addition to complete the iconic reading because the o's circular geometry already provides the balloon's body. The elevation then enacts the balloon's defining physical property. The strings descending below the baseline anchor the balloons to the word's body the way a hand holds a balloon's string, making the whole word a scene.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A compound operation whose two primitives are genuinely mutually dependent. The Substitution makes the o's read as balloons. The Inflection makes them behave as balloons. Together they produce a reading that is iconically precise and physically enacted.The doubled o's are the design's structural gift. *balloon* is one of the few words in English that contains two adjacent instances of the balloon's natural letterform, making the paired floating balloons inevitable.",
+    "generative_principle": "When a word names a physical object that shares geometry with one of its letterforms, examine whether a minimal non-typographic addition like a knot, a stem, or a handle is sufficient to complete the iconic reading without altering the letterform's geometry. When that addition is combined with a positional displacement to communicate the object's physical behavior, the operation produces both resemblance and action. Words containing repeated instances of the operative letterform are strongest candidates, as repetition allows the iconic reading to function as a scene.",
+    "image": "images/ET-022-balloon.jpg"
+  },
+  {
+    "entry_id": "ET-023",
+    "word": "CANDLE",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Mutation",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "A"
+    ],
+    "operation_description": "The A's upper counter, which is normally triangular is reshaped into a flame form. The lower counter of the left and right stems has also been reshaped. This modification makes the lower counter of the A reads as the body of a candle. All geometric modifications occur within the A's typographic boundary. No external iconic element has been imposed. The candle and flame are produced entirely by reshaping the A's existing geometry.",
+    "concept_encoded": "A candle with a flame. Light, heat, the act of burning",
+    "semantic_mechanism": "The A is the geometric opportunity in *CANDLE* for two compounding reasons. First, its triangular upper counter, which creates a space whose form already approximates the profile of a teardrop-shaped flame. It is also the ideal spot for the flame to be positioned. Second is the space of the lower counter. Its normally narrow, converging walls is cylindrical and approximates a candle body. In a nutshell, the A's structure was always a latent candle. The Mutation of both counters of the letterform simply completes what the geometry already suggested.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "An economical Mutation in which the iconic reading is produced entirely from within the letterform's existing geometry. The A's lower counter becomes the candle body, and the reshaped upper counter becomes the flame. What makes this exceptional is that the A's natural geometry is compatible with the candle reading. It actively suggests it.",
+    "generative_principle": "When a word names a physical object, examine whether any letterform's counter or negative space already approximates that object's silhouette under minimal deformation. The counter is an underexploited site of semantic operation. Designers habitually work with strokes and terminals while leaving the negative space inside the letterform untouched. When the counter's geometry is already proximate to the concept, reshaping it requires less intervention than working from the outside in, and the resulting reading feels more inevitable because it emerges from within the letterform.",
+    "image": "images/ET-023-candle.jpg"
+  },
+  {
+    "entry_id": "ET-024",
+    "word": "INVISIBLE",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Suppression",
+    "secondary_primitives": [
+      "Inflection"
+    ],
+    "primitive_relationship": {
+      "Inflection": {
+        "relationship": "enables",
+        "explanation": "Inflection enables Suppression. The progressive opacity reduction across each successive letterform (Inflection) establishes the gradient logic that makes the E's complete absence (Suppression) read as the inevitable conclusion of the sequence and not an arbitrary omission.\n"
+      }
+    },
+    "target_glyphs": [
+      "E (Suppression)",
+      "I, N, V, I, S, I, B, L (Inflection)"
+    ],
+    "operation_description": "Each letterform from the first I onward is rendered at a progressively reduced opacity, beginning at full black and fading through successive grey values until the letterforms approach white against the white background. The final letterform, E, is absent entirely. Its position in the sequence is empty. The geometry of every letterform is intact. Only their opacity states and ultimate presence change across the word's length.",
+    "concept_encoded": "Invisibility. The progressive loss of visual presence until nothing remains.",
+    "semantic_mechanism": "Something does not become invisible all at once. It fades. The design enacts this gradient literally. Each letterform's opacity is the word's own measure of how invisible it has become at that position. By the time the sequence reaches the E, the word has enacted its own meaning so completely that the final letter has ceased to exist. The word performs its own definition by disappearing before it can finish spelling itself.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A self-terminating operation of rare conceptual precision. The word does not describe invisibility by undergoing it, letterform by letterform, until the final character is consumed by the condition the word names. What elevates this to a 5 is the grammatical completeness of the sequence. The fading is directional, which makes each step prepares the next. Then the Suppression of the E arrives as a logical conclusion. The word could not have ended any other way.",
+    "generative_principle": "When a word names a gradient condition such as invisibility, silence, distance, decay, examine whether applying that condition progressively across the word's letterforms can make the word enact its own meaning as a directed sequence. The operation is strongest when the sequence terminates in Suppression. This way the final letterform is not faded but absent, thereby converting a visual effect into a conceptual statement about the condition the word names.",
+    "image": "images/ET-024-invisible.jpg"
+  },
+  {
+    "entry_id": "ET-025",
+    "word": "COLD",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Curator upload",
+    "primary_primitive": "Inflection",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "O"
+    ],
+    "operation_description": "The O has been scaled down significantly and raised to superscript position between the C and the L, so that it occupies the scale and position of a degree symbol. The O's geometry is entirely intact. It remains a circle.Only two non-geometric attributes have changed simultaneously, which are its scale (reduced to near-symbol size) and its position (elevated above the baseline to where a degree notation sits). Together these two Inflection attributes transform the letterform into a temperature unit marker without altering its shape by a single stroke.",
+    "concept_encoded": "Temperature measured in degrees. The coldness of cold made numerically legible.",
+    "semantic_mechanism": "Cold is a thermal condition measured in degrees. The O is the only letterform in *COLD* whose natural geometry is identical to the degree symbol. No other letterform in the word could perform this operation without geometric alteration. Scaling the O down and raising it to superscript position costs nothing structurally while producing a complete temperature notation that reads as C°LD.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "An Inflection of maximum economy. Two non-geometric attribute changes, which are scale and position. These changes are applied to a single letterform to transform the word into a temperature notation.",
+    "generative_principle": "When a word names a measurable physical condition, examine whether any letterform's natural geometry matches the symbol used to measure that condition. If scale and position alone are sufficient to complete the notational reading without altering the letterform's geometry, the operation achieves maximum economy. By doinng this, the word becomes its own measurement, using nothing but what it already contains.",
+    "image": "images/ET-025-cold.jpg"
+  },
+  {
+    "entry_id": "ET-026",
+    "word": "find",
+    "designer": "Shiva Samrat",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Substitution",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "i"
+    ],
+    "operation_description": "The i has been replaced by a magnifying glass icon. The stem of the i becomes the handle of the magnifying glass, and the dot becomes the lens. The letterform's conventional geometry is wholly replaced by the iconic object, which is inferrable as an i through word context alone. The substitution is enabled by the geometric proximity of the i's natural form to the magnifying glass. That is, a stem and a dot are already a handle and a lens.",
+    "concept_encoded": "A magnifying glass, which is the instrument of finding and searching.",
+    "semantic_mechanism": "The i is the geometric opportunity in *find* because its two components (stem and dot) are already the two components of a magnifying glass (handle and lens). No other letterform in the word contains this structural duality. The substitution requires no imposed geometry, only the recognition that the i was always a latent magnifying glass waiting for its lens to be made explicit. The word names the act of searching, and its most geometrically receptive letterform becomes the instrument through which that act is performed.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "A Substitution of high geometric precision whose legibility cost is real. The magnifying glass circle sits above cap height, placing it outside the zone where a reader tracks letterforms. The i is recoverable only once the viewer connects the handle to the elevated lens and reads the full assembly as occupying the i's position. The surprise arrives immediately. The legibility requires a moment of reconstruction. That gap is honest and worth noting. The instrument of finding is a bit harder to find than the word that names it.",
+    "generative_principle": "When a word names an act that can be performed with a specific instrument, examine whether any letterform's components like the stem, dot, bowl, arm, map onto the instrument's components in number and spatial relationship. Substitution achieves maximum precision when the letterform's natural geometry is proximate to the object and structurally equivalent to it. This makes the iconic reading require no additional geometry. Only the recognition that the equivalence was always there is sufficient.",
+    "image": "images/ET-026-find.jpg"
+  },
+  {
+    "entry_id": "ET-027",
+    "word": "EXIT",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Mutation",
+    "secondary_primitives": [
+      "Inflection"
+    ],
+    "primitive_relationship": {
+      "Inflection": {
+        "relationship": "amplifies",
+        "explanation": "Inflection amplifies Mutation. The running figure in the X (Mutation)establishes the act of a human in motion. The perspective-rendered I (Inflection) establishes the destination of a door ajar, which is the opening through which one passes. Neither completes the scene alone. Together they produce a unified narrative of a figure running toward and through an exit.\n"
+      }
+    },
+    "target_glyphs": [
+      "X (Mutation)",
+      "I (Inflection)"
+    ],
+    "operation_description": "The X's lower two strokes have been structurally modified. Their terminals curve outward and upward,approximating the bent-leg geometry of a running human figure. The upper strokes of the X remain intact, reading as the figure's upper body. All deformation occurs within the X's typographic boundary. The I has been rendered in perspective. Its left edge recedes and its right edge advances. Together they make the I reads as a three-dimensional rectangular slab viewed at an angle, approximating a door ajar. The I's fundamental vertical stroke geometry is intact. Only its dimensional state has been manipulated.",
+    "concept_encoded": "A human figure running through an open door, the act of exiting",
+    "semantic_mechanism": "The X and the I are the word's two central letterforms and together they split the concept along its two components. The X's lower geometry is already a diverging form whose two strokes approximate legs in motion. Curving their terminals completes the running figure reading with minimal deformation. The I's rectangular profile is already the closest letterform to a door's silhouette. Rendering it in perspective opens it, transforming a flat stroke into a threshold. The operation enacts exit as a scene that consists of a figure in motion and an opening door.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A compound operation whose two primitives divide the concept precisely between two letterforms. The X carries the human act of running, leaving, moving through. The I carries the architectural fact. That is, the door, the threshold, the opening. Each primitive of the operation is doing the specific semantic work that the other cannot do. What makes this exceptional is the scene-completeness of the reading. Figure and door together constitute an exit more fully than either could alone, and the word's own letterforms provide exactly the geometry each role requires.",
+    "generative_principle": "When a word names both an act and the site of that act, examine whether two letterforms can be co-opted to carry one component each. Compound operations achieve their greatest semantic force when the two primitives are not merely additive but narratively dependent. In this operation, the figure needs the door, the door needs the figure, and the word needs both to mean what it says.",
+    "image": "images/ET-027-exit.jpg"
+  },
+  {
+    "entry_id": "ET-028",
+    "word": "space",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Suppression",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "a"
+    ],
+    "operation_description": "The a has been removed from its position between sp and ce, leaving a wide empty interval that splits the word into two fragments. The gap occupies exactly the position and approximate width the a would fill. No other letterform has been altered. The absence is the entire operation.",
+    "concept_encoded": "A space; the empty interval the word itself names",
+    "semantic_mechanism": "Space names an absence. A gap, an empty interval between things. The a is the word's central letterform, and its removal splits *space* symmetrically into sp and ce, placing the empty interval at the word's core. The gap illustrates space by occupying exactly the position where the missing letter would stand. The word cannot finish spelling itself without enacting its own meaning.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "A self-referential Suppression whose precision lies in the choice of letterform. The a is the word's central letter, and its removal produces a gap at the word's core rather than at its edge, maximising the felt emptiness. The word splits symmetrically, and the space falls exactly where space should be. What holds this at a 4 is that *space* is short and familiar enough that the word reconstructs almost before the gap registers as deliberate. The concept is enacted with precision and the surprise resolves quickly.",
+    "generative_principle": "When a word names an empty interval or absence, examine whether removing its most central letterform produces a gap that enacts the concept spatially within the word. Suppression works most precisely when the removed letterform is central, so the absence splits the word into two balanced fragments and the gap falls at the word's core.",
+    "image": "images/ET-028-space.jpg"
+  },
+  {
+    "entry_id": "ET-029",
+    "word": "DIG",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Extension",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "G"
+    ],
+    "operation_description": "The G's short horizontal stroke that turns inward at mid-height and distinguishes a G from a C has been extended dramatically rightward beyond the G's typographic boundary. It has now become a long horizontal stroke that projects far to the right of the letterform. The G's arc closes the left and curved sides while the extended crossbar forms a flat horizontal platform to the right. Together they produce the profile silhouette of a spade head.",
+    "concept_encoded": "A spade. The instrument of digging",
+    "semantic_mechanism": "The G is the only letterform in *DIG* whose natural geometry contains the crossbar that makes the spade reading possible. The crossbar is already a horizontal stroke pointing rightward. It is directionally predisposed toward extension. Pushing it beyond the G's typographic boundary requires no additional geometry. Only the recognition that the stroke was always pointing toward the space it needed to occupy to become a blade was enough. The G's arc provides the spade's curved body. The word names the act, and its final letterform becomes the instrument that performs it, using nothing but what the letterform already contained.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A precisely economical Extension. The crossbar is the G's most distinctive interior feature and its extension is the single move that transforms the letterform into a spade. No geometry is added or imposed. The resulting spade silhouette is complete and unambiguous. A curved body and a flat blade, which is the exact profile of the instrument the word names.",
+    "generative_principle": "When a word names an act performed with a specific tool, examine whether any letterform contains an interior stroke whose natural direction points toward the space the tool's defining feature would occupy. Extension works most precisely when the extended stroke is already present in the letterform's conventional form. There will be no need for addition, only the release of an existing stroke beyond its conventional boundary until it becomes the instrument the word names.",
+    "image": "images/ET-029-dig.jpg"
+  },
+  {
+    "entry_id": "ET-030",
+    "word": "caution",
+    "designer": "Azad Rawat",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Inflection",
+    "secondary_primitives": [
+      "Extension"
+    ],
+    "primitive_relationship": {
+      "Extension": {
+        "relationship": "amplifies",
+        "explanation": "Extension amplifies Inflection. The vertical inversion of the i (Inflection)transforms it into an exclamation mark through orientation alone. The inverted dot descending below the baseline (Extension) amplifies the warning reading by breaching the word's lower typographic boundary. This makes the exclamation mark assert its presence beyond the word's body the way a genuine alarm demands attention beyond its immediate context.\n"
+      }
+    },
+    "target_glyphs": [
+      "i"
+    ],
+    "operation_description": "The i has been vertically inverted, flipped so that the dot sits below the stem. The stem remains upright and contained within the word's vertical boundaries. The inverted dot descends below the baseline, crossing the word's lower typographic boundary. The letterform's geometry is entirely intact. Only their positional relationship and the dot's terminal position have changed. Together the inversion and the descending dot produce an exclamation mark, which is the universal punctuation of warning and alarm.",
+    "concept_encoded": "An exclamation mark. The universal symbol of warning and alarm.",
+    "semantic_mechanism": "Caution is a word that warns. The exclamation mark is the typographic symbol that warns. The i is the only letterform in *caution* whose natural geometry is structurally identical to an exclamation mark in component count and spatial relationship. Inverting it requires no additional geometry. Only the recognition that the dot was always one orientation change away from becoming the warning symbol the word's meaning demands. The dot's descent below the baseline completes the reading by giving the exclamation mark the physical prominence that warning signals require.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A compound operation of precise economy. The inversion is the entire semantic operation. That single orientation change transforms the word's most structurally minimal letterform into the universal warning symbol. The Extension sharpens this because the dot does not merely sit inverted within the word's body but descends below the baseline, asserting the exclamation mark's presence beyond the word's typographic boundary. The word issues caution, using the exact punctuation mark that caution requires.",
+    "generative_principle": "When a word names a warning or alerting condition, examine whether any letterform's natural geometry is structurally identical to a warning symbol in component count and spatial relationship. The i is the strongest candidate in the Latin alphabet for this operation. Its stem and dot are the exact components of an exclamation mark, and inversion alone is sufficient to complete the transformation without altering a single stroke.",
+    "image": "images/ET-030-caution.jpg"
+  },
+  {
+    "entry_id": "ET-031",
+    "word": "tunnel",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Substitution",
+    "secondary_primitives": [
+      "Inflection"
+    ],
+    "primitive_relationship": {
+      "Inflection": {
+        "relationship": "amplifies",
+        "explanation": "Inflection amplifies Substitution. The nn pair replaced by a tunnel structure(Substitution) produces the object. The diagonal orientation of the entire word (Inflection) transforms that object from a static icon into a spatial experience, which enacts the act of passing through.\n"
+      }
+    },
+    "target_glyphs": [
+      "n, n (Substitution)",
+      "t, u, n, n, e, l (Inflection)"
+    ],
+    "operation_description": "The nn pair has been replaced by a three-dimensional tunnel structure rendered in ochre. The arched tunnel mouth whose arch geometry is derived directly from the n's own arch form is scaled up and given depth and perspective. The tunnel structure sits where the nn pair would stand, inferrable as two n's through word context. The entire word is simultaneously rotated to a diagonal orientation, departing from a conventional horizontal baseline, so that the letterforms appear in an isometric perspective. Every letterform's orientation has been changed without altering any individual geometry.",
+    "concept_encoded": "A tunnel; the spatial experience of depth and passage through an arched structure",
+    "semantic_mechanism": "The nn pair is the geometric opportunity in *tunnel* for two compounding reasons. First, the word contains two n's in sequence. The doubled arch of the n's is already the tunnel's cross-section repeated. Second, the n's arch is structurally identical to a tunnel mouth in profile. A rounded top, two vertical legs, an opening below. Scaling the arch and rendering it in three dimensions requires minimal geometric displacement because the letterform already contains the tunnel's defining shape. The diagonal orientation of the full word then enacts the tunnel's spatial property of depth.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "A compound operation whose two primitives work across different scales simultaneously. The Substitution operates locally on the nn pair and transforms two the letterforms into the object the word names. The Inflection operates globally on the entire word and transforms the reading experience from observation into spatial immersion. The n's arch was always a tunnel mouth and the designer recognized that the doubled arch was already a tunnel waiting to be rendered. The diagonal orientation is what elevates this beyond a clever substitution into a spatial proposition.",
+    "generative_principle": "When a word names a spatial structure, examine whether any letterform's arch or enclosing geometry already approximates that structure's cross-section. Doubled letterforms are strongest candidates. Repetition provides both the geometric material and the spatial suggestion of extension into depth. When Substitution produces the object, a global Inflection of the word's orientation can then enact the object's spatial experience rather than just its appearance.",
+    "image": "images/ET-031-tunnel.jpg"
+  },
+  {
+    "entry_id": "ET-032",
+    "word": "open",
+    "designer": "Daniel Lasso",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Mutation",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "o"
+    ],
+    "operation_description": "The o's closing stroke at the top has been separated and one terminal curled outward and upward, breaking the circle open at its crown. The lower arc of the o remains intact and closed. The letterform is no longer a closed circle. Its top has been structurally opened, producing a gap at the o's crown with one stroke lifting away like a lid being raised. All geometric modification occurs within the o's typographic boundary.",
+    "concept_encoded": "The act of opening. A sealed form broken open at its crown",
+    "semantic_mechanism": "The o is the only letterform in *open* whose natural geometry contains the condition that opening reverses (closure). No other letterform in the word is closed in a way that can be opened. Breaking the o's circle at its top enacts the word's meaning on the letterform most geometrically capable of performing it. The one that was sealed and is now not. The curl of the lifted stroke amplifies this. It peels away, enacting the physical gesture of opening and the state of being open.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A Mutation of quiet precision. The o was always the right letterform. It is the only closed form in *open*, and closure is exactly what opening undoes. Breaking the circle at its crown and curling one terminal away produces  the gesture of opening. The word names the act and its first letterform performs it, on itself, with a single structural modification.",
+    "generative_principle": "When a word names an act that reverses a physical condition, examine whether any letterform embodies that condition in its natural geometry. A closed circle embodies closure. Opening it requires only that its closing stroke be broken and one terminal lifted.",
+    "image": "images/ET-032-open.jpg"
+  },
+  {
+    "entry_id": "ET-033",
+    "word": "explode",
+    "designer": "Daniel Lasso",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Suppression",
+    "secondary_primitives": [
+      "Substitution"
+    ],
+    "primitive_relationship": {
+      "Substitution": {
+        "relationship": "amplifies",
+        "explanation": "Substitution amplifies Suppression. The absent o (Suppression) enacts the destruction because the letterform proximate to the word's center has been obliterated. The blast fragments radiating outward from the o's position (Substitution) specify the nature of that destruction is a violent dispersal. The fragments are the o, scattered. Together they convert an absence into an event.\n"
+      }
+    },
+    "target_glyphs": [
+      "o"
+    ],
+    "operation_description": "The o has been removed from its position between expl and de, leaving a gap. In and around the o's position, there are scattered blast fragments of shards and splinters of varying sizes. They radiate outward in all directions from the point of absence. The fragments are non-typographic elements occupying the space the o vacated and the surrounding area. The remaining letterforms e, x, p, l, d, e are intact and standard. The o's absence and its fragmented dispersal together constitute the operative event.",
+    "concept_encoded": "An explosion. The violent destruction of a thing and the dispersal of its remains.",
+    "semantic_mechanism": "Explode names an act of violent destruction. The o is proximate to the word's central letterform. This makes it the geometrically and semantically correct site for the explosion's origin. The fragments radiating from its position complete the reading by showing what happened to it. The o was not suppressed quietly, it was detonated, and its remains are scattered across the surrounding space as evidence of the event.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A compound Suppression of rare narrative completeness. The two primitives together constitute a complete event rather than a static condition. What makes this exceptional is the o's position. It sits close to the exact center of *explode*, which means the explosion occurs at the word's core.",
+    "generative_principle": "When a word names a destructive event that originates at a point, examine whether any letterform sits at or near the word's center. This is a geometrically correct origin for a radial event. Suppression of the central letterform places the destruction at the word's core. Substituting the absence with dispersed fragments of the destroyed form then converts the absence from a typographic gap into a narrative event.",
+    "image": "images/ET-033-explode.jpg"
+  },
+  {
+    "entry_id": "ET-034",
+    "word": "DRAW",
+    "designer": "Micah Allen",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Extension",
+    "secondary_primitives": [
+      "Substitution"
+    ],
+    "primitive_relationship": {
+      "Substitution": {
+        "relationship": "enables",
+        "explanation": "Substitution enables Extension. The central stroke added between the A's extended left and right diagonal stems (Substitution) establishes what the extended geometry is part of: a pencil. Without the central stroke completing the pencil's body and groove, the descending stems are legs without an instrument. The Substitution creates the condition that allows the Extension to perform its full semantic role.\n"
+      }
+    },
+    "target_glyphs": [
+      "A"
+    ],
+    "operation_description": "The A's left and right stems extend dramatically downward beyond the baseline, descending far below the word's lower typographic boundary. They occupy more vertical space below the word than the word itself occupies above. Between the two extended stems, a third central vertical stroke descends to the same depth, representing the pencil's body and central groove. The diagonal orientation of left and right stems of the A form the sharpened tip of a pencil. Together the two extended stems and the central stroke produce a complete pencil silhouette emerging downward from the A's position in the word.",
+    "concept_encoded": "A pencil, the instrument of drawing.",
+    "semantic_mechanism": "The A is the geometric opportunity in *DRAW* because the diagonal orientation of its left and right stems, already diverging downward from an apex, are structurally proximate to a pencil's tip. Extending them below the baseline follows their natural divergence to a conceptual limit. The central stroke added between them provides the pencil's body groove. The word names the act and its most geometrically receptive letterform becomes the tool that performs it.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 4,
+    "curatorial_note": "A compound operation of precise geometric logic. The A's left and right stems were always the outer edges of a pencil waiting to be extended.  The Extension follows that geometry to its conceptual limit while the central stroke completes the instrument with economy. What makes this exceptional is the directionality of the Extension. The pencil descends below the word, as if actively drawing the surface beneath the text that names the act.",
+    "generative_principle": "When a word names an act performed with a pointed instrument, examine whether any letterform's diverging strokes approximate the instrument's outer profile under extension. The A is the strongest candidate in the Latin alphabet for this operation. Its diagonal left and right stems already diverge downward from an apex, geometrically predisposing them toward any instrument that tapers to a point. Extension follows the natural divergence while a minimal Substitution element between the legs completes the instrument's body.",
+    "image": "images/ET-034-draw.jpg"
+  },
+  {
+    "entry_id": "ET-035",
+    "word": "LIFT",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Inflection",
+    "secondary_primitives": [
+      "Substitution"
+    ],
+    "primitive_relationship": {
+      "Substitution": {
+        "relationship": "enables",
+        "explanation": "Substitution enables Inflection. The hairline wire descending from above and connecting to the I's upper terminal (Substitution) establishes the causal reading that makes the I's elevated position (Inflection) meaningful.\n"
+      }
+    },
+    "target_glyphs": [
+      "I"
+    ],
+    "operation_description": "The I has been displaced upward from the baseline, its lower terminal sitting at approximately cap height of the surrounding letterforms while its upper terminal rises above them. The letterform's geometry is entirely intact. A hairline wire descends from beyond the upper frame of the composition, connecting to the I's upper terminal and suspending it above the baseline. The remaining letterforms L, F, T sit at their conventional baseline positions, unchanged.",
+    "concept_encoded": "An object suspended from above, the act of lifting by a line.",
+    "semantic_mechanism": "Lift names an act of vertical displacement, something moved upward from its resting position. The I is the only letterform in *LIFT* whose natural geometry is both structurally identical to a suspended object and positionally displaceable without destroying the word's legibility. Elevating it above the baseline enacts the displacement. The hairline wire connecting its upper terminal to the space above specifies the mechanism. It has been held from above and raised. The gap left between the I and the baseline is the distance it has traveled. The word names the act and its most geometrically receptive letterform undergoes it, visibly, within the word that names it.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "A compound operation whose two primitives are additively related. The wire explains the elevation. What makes this exceptional is the wire's restraint. It is a hairline, almost invisible, the minimum geometry required to establish causality. The lighter the wire, the more the I appears to float and the more the act of lifting feels effortless, which is precisely what the word means at its most aspirational register.",
+    "generative_principle": "When a word names an act of vertical displacement, examine whether any letterform can be elevated above the baseline while remaining legible through word context. Inflection performs the displacement. A minimal non-typographic connector like a wire, a thread, a beam, then enables the Substitution that converts the displacement from an unexplained gap into a caused event. The connector is strongest when it is as minimal as possible. The less geometry it uses to establish causality, the more inevitable the reading feels.",
+    "image": "images/ET-035-lift.jpg"
+  },
+  {
+    "entry_id": "ET-036",
+    "word": "RECYCLE",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Substitution",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "C"
+    ],
+    "operation_description": "The C has been replaced by the universal recycling icon. The icon is rendered at approximately cap height, sitting between RE and YCLE. The remaining letterforms R, E, Y, C, L, E are intact and standard. The C is inferrable only through simultaneous recognition of the icon and reconstruction of the word around it.",
+    "concept_encoded": "Recycling, the circular system of reuse the word names.",
+    "semantic_mechanism": "The recycling icon is the universal symbol for the concept the word names. Placing it at the C's position substitutes the letterform with the concept's own established visual identity. The C is recoverable only through word context and prior knowledge of the icon. There is no geometric bridge between the open arc of a C and the triangular arrow loop of the recycling symbol. The reading depends entirely on cultural familiarity with the icon rather than on any visual logic intrinsic to the design. The word is reconstructed cognitively.",
+    "legibility_integrity": "Contextual",
+    "surprise_legibility_ratio": 2,
+    "curatorial_note": "A straightforward Substitution that illustrates the lower boundary of the form. The recycling icon shares no geometry with the C it replaces. There is no arc, no curve, no structural property that connects the substituted element to the letterform it occupies. The reading is available only to viewers who already know the icon, and it arrives through recognition rather than discovery. The design is competent and communicative but it does not earn its reading through geometric precision. It borrows the icon's pre-existing cultural legibility rather than generating its own. A score of 2 is honest. The technique is visible and recognized, but there is no moment of surprise, no simultaneity of form and meaning, no inevitability in the connection between the C and what replaced it.",
+    "generative_principle": "Substitution achieves its greatest force when the substituted element shares geometric properties with the letterform it replaces. That is, when the iconic reading and the typographic reading occupy the same geometric space without conflict. When the substituted element is a pre-existing cultural symbol with no geometric relationship to the replaced letterform, the operation's legibility is borrowed rather than earned, and the Surprise-Legibility tension collapses toward recognition rather than discovery. The strongest Substitution instances make the viewer feel the connection was always there. The weakest make the viewer feel the icon was simply placed.",
+    "image": "images/ET-036-recycle.jpg"
+  },
+  {
+    "entry_id": "ET-037",
+    "word": "APOSTROPHE",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Inflection",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "e"
+    ],
+    "operation_description": "The final E has been rendered in lowercase, reduced in scale, horizontally mirrored, and raised to superscript position above the baseline. This places it at the height and approximate scale of an apostrophe mark. Three non-geometric attributes have been changed simultaneously: scale, orientation, and position. The letterform's geometry is entirely intact. The mirrored lowercase e occupies the position where the word's apostrophe would conventionally sit, inferrable as both a letterform and a punctuation mark through word context and concept recognition.",
+    "concept_encoded": "An apostrophe mark. The punctuation symbol the word names",
+    "semantic_mechanism": "Apostrophe names a punctuation mark. The E is the word's final letterform and the designer uses its position to perform the concept. The last letter becomes the mark the word names, repositioned to superscript height where an apostrophe conventionally sits. The mirroring and scale reduction are the Inflection attributes that produce the apostrophe reading. However the geometric distance between a mirrored lowercase e and an actual apostrophe is substantial. An apostrophe is a simple curved stroke or teardrop, while a mirrored e retains its full complexity of counter, crossbar, and multiple curves. The reading is available but requires inference rather than arriving through geometric inevitability. The case break (lowercase e among uppercase letterforms) introduces additional visual friction, delaying recognition of the operation as intentional.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 2,
+    "curatorial_note": "A conceptually precise intention that does not fully resolve at the geometric level. The idea is correct The word's final letterform becomes the mark the word names, repositioned to where that mark lives. But the mirrored e does not closely resemble an apostrophe. Such geometric distance between the two forms is too great for the reading to arrive simultaneously with the surprise. The viewer recognizes the technique before experiencing the discovery, and the case break adds friction that compounds the resolution cost. The design earns a 2. The operation is visible and the concept is recoverable, but the tension between surprise and legibility has collapsed into sequential inference rather than simultaneous recognition.",
+    "generative_principle": "When a word names a punctuation mark or typographic symbol, the strongest Inflection instances use a letterform whose natural geometry is already proximate to that symbol. So that scale, position, and orientation changes alone complete the reading without geometric remainder. The further the letterform's geometry departs from the symbol it is meant to become, the more the reading depends on inference rather than visual logic, and the more the Surprise-Legibility tension collapses toward recognition rather than discovery.",
+    "image": "images/ET-037-apostrophe.jpg"
+  },
+  {
+    "entry_id": "ET-038",
+    "word": "MOOD",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Extension",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "O (second O)"
+    ],
+    "operation_description": "The second O has been extended horizontally beyond its conventional circular boundary, stretched into a wide pill or capsule shape while retaining its rounded terminals. The first O remains a standard circle, intact and untouched. The two O's now occupy the same typographic role but with geometrically distinct forms, sitting in direct adjacency.",
+    "concept_encoded": "The variability of mood. Two states of the same form, one contained and one stretched, enacting mood's capacity to shift.",
+    "semantic_mechanism": "Mood is not a fixed condition. It is a variable one, capable of contraction and expansion, containment and release. The two O's in *MOOD* occupy identical typographic positions but are rendered as geometrically distinct forms. The first circular and self-contained, the second extended and widened. Their contrast enacts mood's variability. The same letterform in two different states, side by side, performing the range the word names. The Extension of the second O is the operative event. By stretching beyond its conventional circular boundary it departs from its neighbor's geometry, and that departure is the meaning.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 3,
+    "curatorial_note": "A restrained Extension whose meaning lives in contrast rather than in the extended form alone. The second O stretched into a pill shape is not immediately readable as a semantic operation. It requires the viewer to register the geometric difference between the two O's and read that difference as intentional. Once decoded, the concept is precise. Two instances of the same letterform in two different states, enacting mood's variability.What holds this at a 3 is that the contrast does not arrive simultaneously with legibility. The viewer reads MOOD before registering the geometric discrepancy between the two O's, and the concept requires a second pass to decode.",
+    "generative_principle": "When a word contains repeated letterforms and names a variable or shifting condition, examine whether rendering those letterforms in geometrically distinct states can enact the variability the word names. Extension is strongest in this context when the extended form departs visibly from its unmodified neighbor. The contrast between the two states carries the concept.",
+    "image": "images/ET-038-mood.jpg"
+  },
+  {
+    "entry_id": "ET-039",
+    "word": "stolen",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Suppression",
+    "secondary_primitives": [
+      "Mutation"
+    ],
+    "primitive_relationship": {
+      "Mutation": {
+        "relationship": "enables",
+        "explanation": "Mutation amplifies Suppression. The o's absence (Suppression) enacts the theft. The letterform has been taken from its position. The horizontal stroke through the e's counter(Mutation) identifies the thief and shows what was taken. The o's circular geometry absorbed into the e's bowl, the bar marking the evidence of the absorption. Together they construct a narrative of something removed from one position and its presence is detectable in another.\n"
+      }
+    },
+    "target_glyphs": [
+      "o (Suppression)",
+      "e (Mutation)"
+    ],
+    "operation_description": "The o has been removed from its position between st and len, leaving a wide gap that splits the word into two fragments. The e's counter has been closed by a horizontal stroke running through the middle of its bowl, producing a form structurally resembling the Greek letter theta. The modification is internal to the e's typographic boundary. The mutated e reads as an e that has absorbed the o's circular counter into itself, with the horizontal bar as the structural evidence of that absorption.",
+    "concept_encoded": "Theft. Something removed from its position and absorbed into another form, with the evidence of the act visible in the thief.",
+    "semantic_mechanism": "Stolen names an act of taking. The o is the word's most circular and self-contained letterform, and its removal creates the most felt absence of a wide gap at the word. The e, immediately adjacent in the second fragment, bears the evidence of the theft in its mutated counter. A horizontal stroke bisecting the bowl of the e and a closing of the aperture that normally defines the e's opening produce a form that contains the o's circular geometry within it. The o was taken and the e shows where it went. The operation enacts theft with a gap marking the crime scene and a modified letterform identifying the perpetrator.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 2,
+    "curatorial_note": "A conceptually ambitious compound operation whose geometric execution does not fully close the inferential gap it opens. The narrative is precise, but the mutated e is ambiguous enough to misread as a theta or other non-Latin character before the concept is established. The reading requires prior knowledge of the concept to make sense of the geometry, rather than the geometry delivering the concept directly. The technique is visible once explained but does not arrive through discovery. The operation is 2 due to the ambiguity of the mutated e. This is a geometric cost the design cannot absorb.",
+    "generative_principle": "When a word names an act of taking or transfer, examine whether suppressing one letterform and encoding its geometric properties into an adjacent letterform can enact the concept as a visual narrative. The operation is strongest when the absorbing letterform's modification is unambiguous. That is, when the absorbed geometry is clearly readable within the modified form rather than producing an ambiguous hybrid that delays or misdirects recognition.",
+    "image": "images/ET-039-stolen.jpg"
+  },
+  {
+    "entry_id": "ET-040",
+    "word": "teller",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Mutation",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "t"
+    ],
+    "operation_description": "The t's crossbar has been structurally modified at its left terminal. The stroke curves downward rather than terminating cleanly, leaving a narrow horizontal aperture or slot in the crossbar. The modification is internal to the t's typographic boundary. Every other letterform is intact and standard. The opening in the crossbar produces a slot form of a horizontal stroke with a gap through which things could pass.",
+    "concept_encoded": "A bank teller's transaction slot; the narrow horizontal aperture through which cash and documents are exchanged.",
+    "semantic_mechanism": "A bank teller's defining architectural feature is the horizontal slot in the counter or window through which money, cards, and documents pass between teller and customer. The t's crossbar is already a horizontal stroke. It is geometrically proximate to a slot in its natural form. Opening its terminal to produce a narrow aperture transforms the crossbar into that slot with minimal geometric displacement. The Mutation encodes the teller's functional interface (the physical mechanism of the transaction) within the word's first and most structurally operative letterform.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 2,
+    "curatorial_note": "A geometrically precise Mutation whose semantic reading does not arrive without prior knowledge of the concept. The slot reading is correct and specific. The bank teller's transaction aperture is exactly what the modified crossbar produces, but the connection between the open terminal and that meaning is not visually self-evident.The viewer reads *teller* before registering the crossbar modification, and even upon registering it, the slot reading requires the bank teller context to be named before the geometry makes sense. The technique is visible once explained but does not generate discovery on its own. A 2 is honest.",
+    "generative_principle": "When a word names a role or institution defined by a specific physical interface, examine whether any letterform contains a stroke whose natural geometry approximates that interface under minimal deformation. The operation is strongest when the deformed stroke produces an unambiguous reading of the interface concept directly instead of requiring the concept to be named before the geometry makes sense.",
+    "image": "images/ET-040-teller.jpg"
+  },
+  {
+    "entry_id": "ET-041",
+    "word": "read",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Substitution",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "D"
+    ],
+    "operation_description": "An open book illustration has been placed inside the counter of the D, occupying the negative space enclosed by the D's curved stroke and vertical spine. The D's outer geometry (its spine and curved stroke) is intact and unchanged. The book illustration sits within the counter as a contained image rather than fusing with the D's existing geometry. The remaining letterforms r, e, a are intact and standard.",
+    "concept_encoded": "An open book. The object through which reading is performed.",
+    "semantic_mechanism": "The D's existing geometry has some latent features that resemble an open book waiting to be recognized as one. However the execution does not recognize this. The result is two separate objects coexisting instead of one fused form in which the D and the book are the same geometry simultaneously. The semantic reasoning is correct, but the geometric reasoning fails.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 1,
+    "curatorial_note": "A precise and instructive failure. The right letterform and the right concept are identified, but the execution defaults to placement rather than fusion. The book illustration is dropped into the D's counter as a contained image rather than recognized as already present in the letterform's existing geometry. The D and the book never become the same thing. They remain adjacent objects, and the Surprise-Legibility tension collapses entirely. There is no surprise because there is no fusion, only a concept correctly identified and incorrectly executed. This entry belongs in the corpus precisely because it demonstrates where the semantic reasoning step succeeds and the geometric reasoning step fails.",
+    "generative_principle": "The geometric reasoning step requires understanding a letterform's existing strokes and counter as already containing the object's geometry, not as a frame into which an illustration can be placed. Substitution achieves fusion when the letterform's own curves, proportions, and negative space are recognized as the object's silhouette.",
+    "image": "images/ET-041-read.jpg"
+  },
+  {
+    "entry_id": "ET-042",
+    "word": "hill",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Mutation",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "i",
+      "l",
+      "l"
+    ],
+    "operation_description": "A curved white line cuts diagonally across the combined mass of the three letterforms running from upper left to lower right through their shared body. The curved cut is intended to produce a hill silhouette of a rising and falling horizon line across the word's vertical strokes. All modifications occur within the letterforms' typographic boundaries.",
+    "concept_encoded": "A hill. A rising and falling topographic profile",
+    "semantic_mechanism": "Cutting a curved line across the combined mass of the i and two l's is the correct geometric strategy for encoding a hill profile. The cut produces the horizon line and the varying heights of the cuts produce the slope. However the execution does not achieve semantic fusion. The curved white line reads as a crack or fracture cutting through the letterforms instead of a hill's horizon line. The hill reading is available but requires inferential reconstruction. The viewer sees broken letterforms before they see a hill, and the concept does not arrive through geometric inevitability.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 2,
+    "curatorial_note": "A valuable corpus entry that precisely documents the gap between correct semantic reasoning and failed geometric execution. The concept direction is right. The i and double l are the correct letterforms, a curved cut across their combined mass is the correct operation, and a hill profile is the correct concept for *hill*. But the curved line reads as fracture. The geometric manipulation is visible without producing discovery. THis results in two competing readings: a broken letterforms and a hill profile, and the wrong one wins. The design identifies the correct geometric opportunity and fails to execute the fusion that would make the opportunity legible as meaning.",
+    "generative_principle": "When a word names a topographic form, the operation must be unambiguous enough that the topographic reading arrives before any competing reading. A curved cut across letterforms reads as fracture unless the cut's geometry precisely matches the named form's silhouette. The hill profile requires a smooth, continuous arc whose rise and fall is geometrically unmistakable. Not a diagonal cut that could read as damage. The execution must earn the topographic reading by making the profile more visually immediate than any alternative interpretation.",
+    "image": "images/ET-042-hill.jpg"
+  },
+  {
+    "entry_id": "ET-043",
+    "word": "tangle",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Extension",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "a",
+      "g",
+      "e"
+    ],
+    "operation_description": "The terminals and strokes of multiple letterforms have been extended beyond their conventional typographic boundaries, their elongated ends curling and weaving over and under adjacent letterforms to produce the visual impression of entangled strokes. The g's descender extends and loops outward, curling inward without connecting to any adjacent letterform. The e's terminal curves dramatically downward and back, weaving through the word's lower zone. The a has an opening in its upper curve where an entanglement connection was attempted but not completed. The overall mass of the word reads as intertwined at the macro level while some individual connections fail at the micro level.",
+    "concept_encoded": "Entanglement; strands looping over and under each other in a system of mutual constraint",
+    "semantic_mechanism": "Tangle names a system of mutual constraint. Strands that loop, cross, and connect until each is held by the others. Extension is the correct primitive for this concept. Letterform strokes pushed beyond their boundaries to weave through adjacent typographic space enact the crossing and looping that entanglement requires. The macro reading is correct. The word's overall impression is of intertwined letterforms, and legibility is largely preserved through the word's familiarity. But entanglement as a structural system requires every extended stroke to connect to something. The g's curl terminates without hooking into any adjacent letterform. The a's incomplete opening promises a connection that never forms. The Extension gestures toward entanglement without completing the mutual connections that would make the system structurally coherent. The concept is identified and partially enacted but not fully resolved.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 3,
+    "curatorial_note": "A structurally instructive failure at the micro level that succeeds at the macro level. The overall impression of entanglement is genuine. The word reads as tangled, the Extended strokes create real visual complexity, and legibility is mostly preserved. But a tangle is a system. And systems require structural coherence at every connection point. The g's unconnected curl and the a's incomplete opening are structural incoherences that reveal the designer understood the concept visually but not mechanically. Every strand in a tangle must connect to something. A loose end is not a tangle element. An incomplete connection is worse than no connection.",
+    "generative_principle": "When a word names a system of mutual constraint like tangle, knot, weave, braid, Extension must be executed as a complete system. Every extended stroke must connect to or cross another letterform's geometry for the entanglement to read as structurally real. The macro impression of complexity is insufficient. A genuine tangle requires every strand to be held by something, and any loose end or incomplete connection breaks the system's coherence and reduces the reading from structural enactment to visual suggestion.",
+    "image": "images/ET-043-tangle.jpg"
+  },
+  {
+    "entry_id": "ET-044",
+    "word": "numb",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Inflection",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "n",
+      "u",
+      "m",
+      "b"
+    ],
+    "operation_description": "All four letterforms have been individually displaced — each rotated and repositioned at varying angles and heights, producing an uneven, lurching baseline across the full word. No letterform's geometry has been altered in any structural respect. Only their positional and orientational states have changed. The displacement is applied uniformly across all four glyphs, with each letterform responding equally to the operation. No single letterform remains still while others move.",
+    "concept_encoded": "Intended: numbness, the absence of sensation. Achieved: agitation, uniform sensory activation across all elements.",
+    "semantic_mechanism": "Numbness is the absence of response. It is the condition of not feeling, not reacting, not moving when stimulus is applied. The correct typographic enactment of numbness requires some element of the word to remain unresponsive. A letterform that does not move while others do, or a word that sits with deadened stillness while the surrounding space implies something should be happening. This design applies uniform displacement across all four letterforms simultaneously. Every element has moved. Every element is agitated. Every element is responding The Inflection operation of positional and orientational state changes is correctly identified, but its application inverts the concept. A word where everything shifts uniformly communicates agitation and disorientation, not the absence of feeling. The typography argues against the word it spells.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 1,
+    "curatorial_note": "The primitive is correct, the target letterforms are correct, and the execution is clean. But the application produces the exact opposite of the intended meaning. Numbness requires unresponsiveness. Uniform displacement across all four letterforms produces maximum responsiveness. The correct execution would displace some letterforms while leaving one (ideally the most semantically loaded) entirely still and unresponsive, so that the contrast between movement and stillness enacts the condition the word names.",
+    "generative_principle": "When a word names an absence of response or sensation, Inflection must encode that absence through contrast. Displacing all letterforms equally produces agitation, which is the opposite of numbness, stillness, or unresponsiveness. The correct operation applies Inflection selectively. Some letterforms respond, one does not. The unresponsive letterform carries the concept.",
+    "image": "images/ET-044-numb.jpg"
+  },
+  {
+    "entry_id": "ET-045",
+    "word": "RHYTHM",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Suppression",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "Y"
+    ],
+    "operation_description": "The Y has been removed from its position between RH and THM, leaving a wide gap that splits the word into two fragments. The remaining letterforms R, H, T, H, M are intact and standard. The gap occupies the position and approximate width the Y would fill. No other letterform has been altered.",
+    "concept_encoded": "Intended: unclear. Achieved: an unpronounceable consonant cluster split into two illegible fragments.",
+    "semantic_mechanism": "Rhythm names a pattern of recurring beats. Rhythm has no semantic relationship with absence or invisibility. The concept the word names is not enacted or suggested by a missing letterform. The gap does not beat. It does not recur. It simply stops. Simultaneously, *rhythm* without its Y is unreadable. RH and THM are unpronounceable consonant clusters whose combined illegibility destroys the word's identity entirely. Legibility collapses on one side. Conceptual payoff collapses on the other.",
+    "legibility_integrity": "Contextual",
+    "surprise_legibility_ratio": 1,
+    "curatorial_note": "A failure that collapses on both sides of the tension simultaneously. *Rhythm* is one of the most illegible words in English when any letter is removed. Its consonant cluster is already visually dense and unfamiliar, and the Y is the only sound that gives it pronounceability. RH THM is not a word. It is not even a recognizable fragment. Legibility does not survive. And even if it did, rhythm has no obvious semantic relationship with absence. The gap is arbitrary. The design identifies the wrong word for Suppression and the wrong letterform within that word. The correct Suppression candidate is a word whose meaning has a direct relationship with absence, and whose most visually substantial letterform can be removed while the word remains reconstructible through context. Rhythm satisfies neither condition.",
+    "generative_principle": "Suppression requires two simultaneous conditions to succeed. The word must survive the removal with its identity reconstructible through context, and the removed letterform's absence must carry direct semantic meaning in the specific context of that word. Words whose consonant clusters already challenge legibility are poor Suppression candidates because removal destroys reconstructibility before the semantic operation can land.",
+    "image": "images/ET-045-rhythm.jpg"
+  },
+  {
+    "entry_id": "ET-046",
+    "word": "wire",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Substitution",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "i"
+    ],
+    "operation_description": "The i has been replaced by an electrical plug icon. The cable curves between the cable head and the plug body. The plug occupies significantly more vertical space than the surrounding letterforms extending well below the baseline. The remaining letterforms w, r, e are intact and standard.",
+    "concept_encoded": "An electrical plug. The connector at the end of a wire",
+    "semantic_mechanism": "The i is the correct geometric choice for this operation. The conceptual connection between letterform and object is legitimate and discovered. However, the execution fails at two levels. The plug is disproportionately large relative to the surrounding letterforms, breaking typographic unity and overwhelming the word before legibility can establish itself. The cable curves in a way that reads as an r rather than an i, creating a letterform misread that costs the design its typographic footing. The curvature also introduces an unintended reading of disconnection or wilting. The semantic reasoning is correct. The geometric execution is not.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 3,
+    "curatorial_note": "An execution failure that preserves the semantic reasoning step intact. The i is the right letterform and the geometric compatibility is genuine. What fails is proportion and geometric precision. The surprise is present but the legibility is compromised. This entry is valuable precisely because it shows the semantic reasoning step succeeding and the constrained transformation step failing.",
+    "generative_principle": "When a letterform is identified as geometrically compatible with a physical instrument, the substituted object must be scaled to the letterform's proportions. Disproportionate scale breaks typographic unity before legibility can establish itself.",
+    "image": "images/ET-046-wire.jpg"
+  },
+  {
+    "entry_id": "ET-047",
+    "word": "balance",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Inflection",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "a",
+      "a"
+    ],
+    "operation_description": "The first a has been scaled significantly larger than the surrounding letterforms while the second a remains at standard size. No letterform's geometry has been structurally altered. Only the scale state of the first a has been changed. The size differential between the two a's produces a visible asymmetry across the word's body. All other letterforms (b, l, n, c, e) are intact and standard.",
+    "concept_encoded": "Intended: balance, equilibrium. Achieved: lopsidedness, visible asymmetry between two instances of the same letterform.",
+    "semantic_mechanism": "Balance names bilateral equilibrium. The word contains two a's, which is the precise geometric gift the operation required. Two identical letterforms that can be operated with to enact balance. The design identifies the a's as the operative letterforms, which is correct, but applies a scale differential between them. This inverts the concept entirely. Enlarging one a and leaving the other standard produces exactly the asymmetry that balance forbids.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 1,
+    "curatorial_note": "A semantic inversion that uses the correct letterform to produce the incorrect meaning. The two a's are the word's geometric opportunity for enacting balance. The design recognizes the a's as the operative site and then applies the one Inflection that destroys the concept rather than performing it.",
+    "generative_principle": "When a word names a condition of bilateral symmetry or equilibrium, examine whether it contains repeated letterforms that can enact that symmetry typographically. The correct Inflection applies equal scale to both instances. Any scale differential between repeated letterforms in a word that names equilibrium produces semantic inversion.",
+    "image": "images/ET-047-balance.jpg"
+  },
+  {
+    "entry_id": "ET-048",
+    "word": "FOUR",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Mutation",
+    "secondary_primitives": [
+      "Inflection"
+    ],
+    "primitive_relationship": {
+      "Inflection": {
+        "relationship": "amplifies",
+        "explanation": "The 2x2 grid arrangement (Inflection) positions the four letterforms to fill four cells. One per cell. This reinforces the concept of FOUR as a countable quantity. The chamfered, stencil-broken geometry (Mutation) is applied across all four letterforms simultaneously, producing a unified visual treatment. However the Mutation delivers no conceptual return while extracting a significant legibility cost that leaves the Inflection as the sole operation earning its semantic payoff.\n"
+      }
+    },
+    "target_glyphs": [
+      "F, O, U, R (Mutation)",
+      "F, O, U, R as a compound unit (Inflection)"
+    ],
+    "operation_description": "All four letterforms have been structurally modified through chamfered corners and stencil-style stroke breaks. Curved and sharp terminals replaced by angled cuts, strokes interrupted at intervals. The four letterforms are arranged in a 2x2 grid, with F and O occupying the top row and U and R occupying the bottom row. The whole word is rendered in pale grey. The O's chamfering produces a tail-like artifact that causes it to read as a Q. The F's fragmentation pushes it toward illegibility.",
+    "concept_encoded": "Intended: FOUR as a quantity, four units filling four cells. Achieved: a partially legible arrangement whose Mutation contributes visual complexity without semantic payoff.",
+    "semantic_mechanism": "The 2x2 grid is the design's one geometrically precise operation. This is a legitimate and discovered semantic connection. The word's own letter count matches the grid's cell count, and the arrangement makes that equivalence visible. The Mutation does not support this reading. Chamfered, stencil-broken letterforms carry no semantic relationship to the concept of four. Instead they introduce visual complexity that extracts legibility without encoding meaning. The pale grey also compounds the friction.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 2,
+    "curatorial_note": "A design with one precise semantic operation buried under two layers of counterproductive friction. The 2x2 grid is correct. Four letters, four cells, one per cell, the word enacting its own quantity. Everything else works against it. The chamfered stencil treatment adds no meaning while costing legibility. A strong version of this design would set four clean, legible letterforms in a 2x2 grid and stop there. The grid does all the semantic work. The Mutation is noise.",
+    "generative_principle": "When a word names a quantity and its letter count matches that quantity, a grid arrangement that gives each letter its own cell is a precise and sufficient semantic operation. Through this operation, the word enacts its own meaning through spatial organization alone. Additional structural modifications to the letterforms are justified only when they contribute to the concept.",
+    "image": "images/ET-048-four.jpg"
+  },
+  {
+    "entry_id": "ET-049",
+    "word": "below",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Extension",
+    "secondary_primitives": [
+      "Inflection"
+    ],
+    "primitive_relationship": {
+      "Inflection": {
+        "relationship": "enables",
+        "explanation": "Inflection enables Extension. The two-line stacking of \"be\" above and \"low\" below (Inflection) creates the spatial condition that the extended bar (Extension) divides and makes meaningful.\n"
+      }
+    },
+    "target_glyphs": [
+      "l (Extension)",
+      "b, e, l, o, w as a compound unit (Inflection)"
+    ],
+    "operation_description": "The l's upper terminal has been extended horizontally to the right, forming a ruled bar that spans the full width of the word. The bar sits between the two rows of the stacked layout, physically separating \"be\" above from \"low\" below. The l's geometry below the bar is intact. Only its upper terminal has been extended.",
+    "concept_encoded": "A spatial threshold. \"be\" above the line, \"low\" below it",
+    "semantic_mechanism": "Below names a positional relationship, which is the condition of being beneath a reference point. The l is the operative letterform because it sits at the word's midpoint. It is the junction between \"be\" and \"low\" and its upper terminal is the geometric site from which the dividing bar can extend. However, the upward extension produces a critical legibility failure. The extended terminal and the bar together form a Γ shape. This resembles the profile of an r with a very long arm, causing the word to read as \"berow\" instead of \"below\" on first encounter. The designer's choice of upward rather than downward extension is explicable by lowercase consistency: extending the lower terminal would have produced an uppercase L, breaking the word's consistent lowercase register. The upward extension preserves register at the cost of letterform identity. The spatial payoff is real and the concept is enacted precisely — but only after the misread resolves.",
+    "legibility_integrity": "Partial",
+    "surprise_legibility_ratio": 2,
+    "curatorial_note": "The most forensically instructive execution failure in the corpus because the designer's constraint is visible and their reasoning is recoverable. The lowercase-consistency requirement forced the extension upward rather than downward. It is a defensible decision but is still extracts too high a legibility cost. The l is both a letter and a divider, and the Γ it produces reads as an r before it reads as an l-plus-bar. The spatial payoff of \"be\" above the line, \"low\" below it is genuine and arrives within a beat or two of decoding. But the surprise can only arrive after the misread resolves. A correct execution would find a way to make the bar legible as a bar without making the l legible as an r.",
+    "generative_principle": "When a word names a spatial relationship and its syllables can be stacked to enact that relationship positionally, the dividing element between the two rows must be legible as both a line rather and a part of a letterform. A terminal extended to form a bar should read as part of the letterform before it reads as a bar unless the extension's geometry is sufficiently distinct from any existing letterform's arm or crossbar. The designer's constraint is a real design consideration, but it cannot be resolved at the cost of the operative letterform's identity. When the constraint cannot be satisfied without producing a misread, the design needs a different structural solution entirely.",
+    "image": "images/ET-049-below.jpg"
+  },
+  {
+    "entry_id": "ET-050",
+    "word": "pointless",
+    "designer": "Unknown",
+    "year": "Unknown",
+    "source": "Pinterest",
+    "primary_primitive": "Suppression",
+    "secondary_primitives": [],
+    "primitive_relationship": {},
+    "target_glyphs": [
+      "i"
+    ],
+    "operation_description": "The dot of the i has been removed entirely. The stem remains intact and standard. No other letterform has been altered. The absence of the dot is the sole operative event. The i's point is gone, leaving a stemless mark that is recoverable as an i through word context alone.",
+    "concept_encoded": "Pointlessness. The absence of a point enacted on the one letterform whose defining secondary feature is literally a point",
+    "semantic_mechanism": "The dot of the i is called a tittle. It is the only letterform in the Latin alphabet whose secondary feature carries that name. Pointless means without a point. Removing the i's dot suppresses the word's own point from within itself, with an anatomical precision that requires no inference. The word names the condition, and its most vulnerable letterform enacts it by losing the exact feature the word's meaning describes. The operation is irreducible. No simpler move could perform this concept more exactly.",
+    "legibility_integrity": "Full",
+    "surprise_legibility_ratio": 5,
+    "curatorial_note": "The most economical entry in the corpus. One dot removed. Nothing else changed. The word reads instantly and the operation lands at the same moment. The connection between the suppressed element and the word's meaning is definitional. The dot is a point, pointless removes it. Simplicity and precision arrive together without remainder. What makes this a 5 is exactly the quality that might seem to argue against it: the operation's transparency. The inevitability of this operation is the surprise. The viewer experiences recognition of something that could not have been otherwise. That quality of necessity is the highest register of expressive typography.",
+    "generative_principle": "The strongest Suppression instances remove the element whose absence is definitionally identical to the word's meaning. When a word names the absence of a specific feature and one of its letterforms possesses that exact feature, suppressing it requires no additional operation, no secondary primitive, no environmental effect. The absence is the concept, stated once, with nothing left over.",
+    "image": "images/ET-050-pointless.jpg"
+  }
+]
