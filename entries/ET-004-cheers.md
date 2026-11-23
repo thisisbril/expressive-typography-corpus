@@ -13,7 +13,10 @@ primitive_relationship:
     explanation: > 
       The 90-degree clockwise rotation and inward tilting of both E's (Inflection) positions each letterform so that its mutated geometry reads as a wine glass in the act of clinking. Without the rotation, the detached crossbar reads as a broken E. Without the detachment, the rotated E reads as a rotated E. The two operations are mutually dependent, but the Mutation creates the geometric condition that makes the glass reading available, and the Inflection then enacts the gesture.
 target_glyphs:
-  - E (all two instances)
+  - E (Mutation)
+  - E (Mutation)
+  - E (Inflection)
+  - E (Inflection)
 operation_description: >
   Both E's have had their crossbars detached from their stems. The horizontal stroke that normally connects to the vertical spine is separated, producing a bowl-like form floating above a stem-like base. Each E has then been rotated 90 degrees clockwise so that the detached crossbar of each E reads as a wine glass stem and base, and the stem of each E reads as a wine glass bowl. The first E is additionally tilted rightward and the second E leftward, so that their bowls meet and contact each other at the center, enacting the clinking gesture of a toast. The detached crossbars of both E's extend below the baseline as the glasses' bases. The remaining letterforms C, H, R, S are intact and standard.
 concept_encoded: Two wine glasses clinking in a toast. The gesture of cheering.
