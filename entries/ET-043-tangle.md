@@ -5,12 +5,19 @@ designer: Unknown
 year: Unknown
 source: AI-generated
 primary_primitive: Extension
-secondary_primitives: []
-primitive_relationship: {}
+secondary_primitives:
+  - Mutation
+primitive_relationship: 
+  Inflection:
+    relationship: amplifies
+    explanation: > 
+      Extension amplifies Mutation. The left stroke of n has been mutated to have slight openings at the top and bottom regions due to the twine of the extended a's tail. The bottom region of the l is mutated with slight openings due to the tail of the a extending across the l. The mutation of n and l amplifies the extension of a's tail.
 target_glyphs:
-  - a
-  - g
-  - e
+  - a (Extension)
+  - g (Extension)
+  - e (Extension)
+  - n (Mutation)
+  - l (Mutation)
 operation_description: >
   The terminals and strokes of multiple letterforms have been extended beyond their conventional typographic boundaries, their elongated ends curling and weaving over and under adjacent letterforms to produce the visual impression of entangled strokes. The g's descender extends and loops outward, curling inward without connecting to any adjacent letterform. The e's terminal curves dramatically downward and back, weaving through the word's lower zone. The a has an opening in its upper curve where an entanglement connection was attempted but not completed. The overall mass of the word reads as intertwined at the macro level while some individual connections fail at the micro level.
 concept_encoded: Entanglement; strands looping over and under each other in a system of mutual constraint
