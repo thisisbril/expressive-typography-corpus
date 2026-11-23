@@ -14,7 +14,14 @@ primitive_relationship:
       Inflection enables Suppression. The progressive opacity reduction across each successive letterform (Inflection) establishes the gradient logic that makes the E's complete absence (Suppression) read as the inevitable conclusion of the sequence and not an arbitrary omission.
 target_glyphs:
   - E (Suppression)
-  - I, N, V, I, S, I, B, L (Inflection)
+  - I (Inflection)
+  - N (Inflection)
+  - V (Inflection)
+  - I (Inflection)
+  - S (Inflection)
+  - I (Inflection)
+  - B (Inflection)
+  - L (Inflection)
 operation_description: >
   Each letterform from the first I onward is rendered at a progressively reduced opacity, beginning at full black and fading through successive grey values until the letterforms approach white against the white background. The final letterform, E, is absent entirely. Its position in the sequence is empty. The geometry of every letterform is intact. Only their opacity states and ultimate presence change across the word's length.
 concept_encoded: Invisibility. The progressive loss of visual presence until nothing remains.
