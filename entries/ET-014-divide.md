@@ -14,8 +14,11 @@ primitive_relationship:
       Inflection amplifies Extension. The V's strokes extended beyond all typographic boundaries physically cleave the word into two halves. The rotational displacement of the di and ide clusters outward from the point of division (Inflection) enacts the physical consequence of that cleaving. The two halves fall away from the blade. The Inflection makes the Extension's force felt as a dynamic event.
 target_glyphs:
   - V (primary)
-  - d, i (left cluster)
-  - i, d, e (right cluster)
+  - d (left cluster - Inflection)
+  - i (left cluster - Inflection)
+  - i (right cluster - Inflection)
+  - d (right cluster - Inflection)
+  - e (right cluster - Inflection)
 operation_description: >
   The V is scaled and extended so dramatically that its two strokes rise far above cap height and plunge below the baseline, occupying the full vertical space of the composition as a wedge driven through the word's center. The extended strokes physically separate "di" on the left from "ide" on the right. The letterform clusters on either side are rotationally displaced outward. They lean away from the V as if pushed apart by the force of the division. The V remains fully legible as a letterform while also operating as a dividing blade at architectural scale.
 concept_encoded: Division. A force that cleaves a whole into two separated parts
