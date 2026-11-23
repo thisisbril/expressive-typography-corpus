@@ -13,7 +13,8 @@ primitive_relationship:
     explanation: >
       Substitution amplifies Extension. The rectangular stroke extended rightward from the a (Extension) produces the search bar field. The magnifying glass icon placed at the a's left (Substitution) specifies the bar as a search interface, which completes the iconic reading. Without the Substitution, the Extension reads as an unspecified container.
 target_glyphs:
-  - a
+  - a (Extenstion)
+  - a (Substitution)
 operation_description: >
   The a's geometry is extended rightward beyond its conventional typographic boundary as a rectangular outline, spanning the space between the a and the r and forming the field of a search bar. The a's bowl sits at the left end of the rectangle, functioning simultaneously as the letterform's counter and as the circular left cap of the search bar. A magnifying glass icon is placed to the left of the bowl, occupying the space at the a's approach and substituting a non-typographic search icon into the typographic sequence. Together the extended rectangle, the bowl, and the magnifying glass form a complete search bar interface embedded in the word.
 concept_encoded: A search bar. The interface through which searching is performed
