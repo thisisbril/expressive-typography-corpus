@@ -8,8 +8,7 @@ primary_primitive: Inflection
 secondary_primitives: []
 primitive_relationship: {}
 target_glyphs:
-  - a
-  - a
+  - a (first a)
 operation_description: >
   The first a has been scaled significantly larger than the surrounding letterforms while the second a remains at standard size. No letterform's geometry has been structurally altered. Only the scale state of the first a has been changed. The size differential between the two a's produces a visible asymmetry across the word's body. All other letterforms (b, l, n, c, e) are intact and standard.
 concept_encoded: >
