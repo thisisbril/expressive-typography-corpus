@@ -13,7 +13,10 @@ primitive_relationship:
     explanation: >
       The knot terminals and descending strings added to each o (Substitution)complete the iconic balloon reading. The elevated position of both o's above the baseline (Inflection) creates the physical behavior of the object they have become. The balloons float upward, pulling their strings taut below them. The Inflection transforms the Substitution from a visual resemblance into a physical event.
 target_glyphs:
-  - o, o
+  - o (Substitution)
+  - o (Substitution)
+  - o (Inflection)
+  - o (Inflection)
 operation_description: >
   Each of the two o's has been given a tied knot terminal at its base and a thin string descending from that knot to below the baseline, transforming the circular letterforms into balloons. Both o's are elevated above the baseline and displaced upward to where balloons would float when held by their strings. The o's geometry is otherwise entirely intact. The knot, string, and elevated position together complete the iconic reading. Each o is both a letterform and a floating balloon.
 concept_encoded: Floating balloons. Objects that rise and pull their strings upward.
