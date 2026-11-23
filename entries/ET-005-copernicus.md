@@ -13,9 +13,9 @@ primitive_relationship:
     explanation: > 
       Inflection amplifies Extension. The C's extension into an orbital ring is the primary expressive act and is legible as a heliocentric diagram independently. The Inflection operations, which are o rendered in gold and the dot of i rendered in blue, amplify the diagram by assigning specific astronomical identities to two letterforms within the orbit. That is, the sun and a planet. With these secondary primitives of Inflection, the word becomes a complete cosmological model, with a star, a planetary body, and the orbital ring that governs their relationship all encoded simultaneously in a single typographic word. 
 target_glyphs:
-  - C
-  - o
-  - i (dot)
+  - c (Extension)
+  - o (Inflection)
+  - i (Inflection)
 operation_description: >
   The C of Copernicus is scaled to approximately ten times the cap height of the remaining letters and rendered as a thin circular arc. The remaining letters "opernicus" are set at normal scale along a baseline that intersects the interior of the C-ring at its rightmost opening, so the word sits inside the orbit. The C retains its identity as a C through the open arc gap at the right. Within the word, the o is rendered in yellow-gold and the dot of the i is rendered in blue. All three target glyphs retain their geometric integrity entirely.
 concept_encoded: The Copernican heliocentric model. The sun at the center of a planetary system, with bodies in orbital revolution around it.
