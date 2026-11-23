@@ -13,7 +13,8 @@ primitive_relationship:
     explanation: > 
       Substitution enables Extension. The central stroke added between the A's extended left and right diagonal stems (Substitution) establishes what the extended geometry is part of: a pencil. Without the central stroke completing the pencil's body and groove, the descending stems are legs without an instrument. The Substitution creates the condition that allows the Extension to perform its full semantic role.
 target_glyphs:
-  - A
+  - A (Extension)
+  - A (Substitution)
 operation_description: >
   The A's left and right stems extend dramatically downward beyond the baseline, descending far below the word's lower typographic boundary. They occupy more vertical space below the word than the word itself occupies above. Between the two extended stems, a third central vertical stroke descends to the same depth, representing the pencil's body and central groove. The diagonal orientation of left and right stems of the A form the sharpened tip of a pencil. Together the two extended stems and the central stroke produce a complete pencil silhouette emerging downward from the A's position in the word.
 concept_encoded: A pencil, the instrument of drawing.
