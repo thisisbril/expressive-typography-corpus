@@ -13,7 +13,8 @@ primitive_relationship:
     explanation: >
       Substitution enables Inflection. The hairline wire descending from above and connecting to the I's upper terminal (Substitution) establishes the causal reading that makes the I's elevated position (Inflection) meaningful.
 target_glyphs:
-  - I
+  - I (Inflection)
+  - I (Substitution)
 operation_description: >
   The I has been displaced upward from the baseline, its lower terminal sitting at approximately cap height of the surrounding letterforms while its upper terminal rises above them. The letterform's geometry is entirely intact. A hairline wire descends from beyond the upper frame of the composition, connecting to the I's upper terminal and suspending it above the baseline. The remaining letterforms L, F, T sit at their conventional baseline positions, unchanged.
 concept_encoded: An object suspended from above, the act of lifting by a line.
