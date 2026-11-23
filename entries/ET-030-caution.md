@@ -13,7 +13,8 @@ primitive_relationship:
     explanation: >
       Extension amplifies Inflection. The vertical inversion of the i (Inflection)transforms it into an exclamation mark through orientation alone. The inverted dot descending below the baseline (Extension) amplifies the warning reading by breaching the word's lower typographic boundary. This makes the exclamation mark assert its presence beyond the word's body the way a genuine alarm demands attention beyond its immediate context.
 target_glyphs:
-  - i
+  - i (Inflection)
+  - i (Extension)
 operation_description: >
   The i has been vertically inverted, flipped so that the dot sits below the stem. The stem remains upright and contained within the word's vertical boundaries. The inverted dot descends below the baseline, crossing the word's lower typographic boundary. The letterform's geometry is entirely intact. Only their positional relationship and the dot's terminal position have changed. Together the inversion and the descending dot produce an exclamation mark, which is the universal punctuation of warning and alarm.
 concept_encoded: An exclamation mark. The universal symbol of warning and alarm.
