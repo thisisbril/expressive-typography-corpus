@@ -115,7 +115,7 @@ Compound entries (with at least one secondary primitive): **21**. AI-generated e
 
 ## How to Use
 
-The machine-readable export is [`exports/corpus.json`](exports/corpus.json), an array with one object per entry. Fields include `entry_id`, `word`, `source`, `primary_primitive`, `secondary_primitives`, `primitive_relationship`, `target_glyphs`, `operation_description`, `concept_encoded`, `semantic_mechanism`, `legibility_integrity`, `surprise_legibility_ratio`, `curatorial_note`, `generative_principle`, and `image` (a relative path).
+The machine-readable export is [`exports/corpus.json`](exports/corpus.json), an array with one object per entry. Fields include `entry_id`, `word`, `source`, `primary_primitive`, `secondary_primitives`, `primitive_relationship`, `target_glyphs`, `operation_description`, `concept_encoded`, `semantic_mechanism`, `legibility_integrity`, `surprise_legibility_ratio`, `curatorial_note`, `generative_principle`, `image` (a relative path), and the bounding-box fields `target_union`, `target_boxes` and `target_absent`.
 
 ```python
 import json
@@ -127,14 +127,21 @@ failures = [e for e in corpus if e["surprise_legibility_ratio"] <= 2]
 suppression = [e for e in corpus if e["primary_primitive"] == "Suppression"]
 ```
 
-The Markdown files in `entries/` are the source of truth. To rebuild the export after editing an entry, run `python scripts/build_corpus.py` (requires `pyyaml`).
+Bounding boxes are normalized `[x1, y1, x2, y2]` coordinates (0 to 1, origin at the top-left) marking where each entry's operation acts. `target_union` is the overall box, `target_boxes` holds per-glyph boxes where entries have separate instances, and `target_absent` is `true` when the target is a missing letter. The drawing rules are in [SCHEMA.md](SCHEMA.md#bounding-box-rules).
+
+```python
+boxed = [e for e in corpus if e.get("target_union")]
+```
+
+The Markdown files in `entries/` and the bounding boxes in `boxes.json` are the source of truth. To rebuild the export after editing either, run `python scripts/build_corpus.py` (requires `pyyaml`). To redraw a box, run `python scripts/label_boxes.py --redo ET-001` (requires `opencv-python`).
 
 | Folder | Contents |
 |---|---|
 | `entries/` | One annotated Markdown file per entry |
 | `images/` | One image per entry, named to match |
 | `exports/` | Generated `corpus.json` |
-| `scripts/` | The export script |
+| `scripts/` | The export script and the box-labeling tool |
+| `boxes.json` | Bounding boxes, keyed by entry ID, merged into the export by the build script |
 
 ---
 
@@ -144,6 +151,7 @@ The Markdown files in `entries/` are the source of truth. To rebuild the export 
 - **Contemporary, web-sourced examples.** Most entries come from Pinterest. There are no historical examples (Dada, Futurist, Push Pin, Lubalin), so the universality claim has not been tested against them.
 - **AI-generated entries come from one model family and from prompts written to provoke failure.** They show failure modes, not the model's average output.
 - **Universality is argued, not proven.** The taxonomy was stress-tested against the examples collected here. Any example that resists the five primitives is a finding, and should be reported.
+- **Bounding boxes are one annotator's judgment.** Boxes for absent letters (Suppression) are approximate by nature, since a missing letter has no exact location.
 
 ---
 
