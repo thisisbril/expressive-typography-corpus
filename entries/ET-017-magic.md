@@ -13,7 +13,8 @@ primitive_relationship:
     explanation: > 
       Substitution amplifies Suppression. The absent stem (Suppression) enacts the disappearance. The sparkle stars replacing the dot (Substitution) specify that the disappearance was magical. The stars are the residue the trick leaves behind. The i has vanished, and only its enchanted trace remains above the gap where it stood.
 target_glyphs:
-  - i
+  - i (Suppression)
+  - i (Substitution for dot of i)
 operation_description: >
   The stem of the i has been removed entirely, which leaves a gap between the g and the c. The dot of the i has been replaced by two four-pointed star icons, floating above the position where the stem would stand. The i is inferrable from word context alone. Its body is gone. What remains above the gap is not a typographic mark but a sparkle motif. The sparkle is a conventional visual symbol for magic, glamour, and sudden appearance or disappearance.
 concept_encoded: A magical disappearance. The i has been made to vanish by magic. 
