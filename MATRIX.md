@@ -16,7 +16,7 @@ Target: 50 entries
 
 | Target | Current |
 |--------|---------|
-| 15+    | 21      |
+| 15+    | 20      |
 
 ## Surprise-Legibility Distribution
 
