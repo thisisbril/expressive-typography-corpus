@@ -71,6 +71,54 @@ def validate(entry, filename):
         problems.append("more than two secondary primitives")
     return [f"{filename}: {p}" for p in problems]
 
+BOXES_PATH = Path(__file__).resolve().parent.parent / "boxes.json"
+
+
+def merge_boxes(entries):
+    """Merge boxes.json (keyed by entry_id) into the entry dicts.
+    Adds target_union, target_boxes, target_absent. Fails loudly on bad boxes."""
+    if not BOXES_PATH.exists():
+        print("boxes.json not found: exporting without boxes")
+        return entries
+
+    boxes = json.loads(BOXES_PATH.read_text(encoding="utf-8"))
+    known = {e["entry_id"] for e in entries}
+    for stray in set(boxes) - known:
+        print(f"WARNING: boxes.json has {stray}, which matches no entry")
+
+    def check(box, label):
+        if len(box) != 4:
+            raise ValueError(f"{label}: expected 4 numbers, got {box}")
+        x1, y1, x2, y2 = box
+        if not (0 <= x1 < x2 <= 1 and 0 <= y1 < y2 <= 1):
+            raise ValueError(f"{label}: box out of range or inverted: {box}")
+
+    boxed = 0
+    for e in entries:
+        b = boxes.get(e["entry_id"])
+        if not b:
+            e["target_union"] = None
+            continue
+        check(b["target_union"], f'{e["entry_id"]} target_union')
+        e["target_union"] = b["target_union"]
+        if "target_boxes" in b:
+            for i, tb in enumerate(b["target_boxes"]):
+                check(tb, f'{e["entry_id"]} target_boxes[{i}]')
+            glyphs = e.get("target_glyphs") or []
+            if len(b["target_boxes"]) != len(glyphs):
+                raise ValueError(
+                    f'{e["entry_id"]}: {len(b["target_boxes"])} per-glyph boxes '
+                    f'but {len(glyphs)} target_glyphs'
+                )
+            e["target_boxes"] = b["target_boxes"]
+        if b.get("target_absent"):
+            e["target_absent"] = True
+        boxed += 1
+
+    missing = [e["entry_id"] for e in entries if e.get("target_union") is None]
+    print(f"Boxes merged: {boxed}/{len(entries)}" + (f"  (missing: {', '.join(missing)})" if missing else ""))
+    return entries
+
 
 def main():
     entries, problems = [], []
@@ -78,6 +126,8 @@ def main():
         entry = parse_entry(path)
         problems += validate(entry, path.name)
         entries.append(entry)
+
+    entries = merge_boxes(entries)
 
     OUTPUT.parent.mkdir(exist_ok=True)
     OUTPUT.write_text(
