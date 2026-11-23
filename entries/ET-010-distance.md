@@ -14,7 +14,8 @@ primitive_relationship:
       The T's crossbar, extended across the word, meets and joints with the S on its left and the A on its right. Those junctions alter the geometry of both letterforms at the point of contact, producing structural modifications in S and A that are a direct consequence of the Extension reaching them. The Mutation is the mark that Extension leaves on the letterforms it touches. So Extension amplifies Mutation.
 target_glyphs:
   - T (primary)
-  - S and A (sites of consequent Mutation)
+  - S (site of consequent Mutation)
+  - A (site of consequent Mutation)
 operation_description: >
   The T's crossbar is extended horizontally far beyond its conventional typographic boundary in both directions spanning the full interior of the word and physically separating DIS from ANCE. The stem of the T sits normally on the baseline alongside the other letterforms. At the endpoints of the extended crossbar, the stroke meets and joints with the terminal of the S on the left and the A on the right, producing geometric modifications to both letterforms at the point of contact.
 concept_encoded: Spatial separation. A measurable span between two points.
