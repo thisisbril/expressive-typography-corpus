@@ -13,7 +13,8 @@ primitive_relationship:
     explanation: > 
       Substitution amplifies Suppression. The absent o (Suppression) enacts the destruction because the letterform proximate to the word's center has been obliterated. The blast fragments radiating outward from the o's position (Substitution) specify the nature of that destruction is a violent dispersal. The fragments are the o, scattered. Together they convert an absence into an event.
 target_glyphs:
-  - o
+  - o (Suppression)
+  - o (Substitution)
 operation_description: >
   The o has been removed from its position between expl and de, leaving a gap. In and around the o's position, there are scattered blast fragments of shards and splinters of varying sizes. They radiate outward in all directions from the point of absence. The fragments are non-typographic elements occupying the space the o vacated and the surrounding area. The remaining letterforms e, x, p, l, d, e are intact and standard. The o's absence and its fragmented dispersal together constitute the operative event.
 concept_encoded: An explosion. The violent destruction of a thing and the dispersal of its remains.
