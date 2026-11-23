@@ -13,8 +13,13 @@ primitive_relationship:
     explanation: > 
       Inflection amplifies Substitution. The nn pair replaced by a tunnel structure(Substitution) produces the object. The diagonal orientation of the entire word (Inflection) transforms that object from a static icon into a spatial experience, which enacts the act of passing through.
 target_glyphs:
+  - t (Inflection)
+  - u (Inflection)
+  - n (Inflection)
+  - n (Inflection)
   - n, n (Substitution)
-  - t, u, n, n, e, l (Inflection)
+  - e (Inflection)
+  - l (Inflection)
 operation_description: >
   The nn pair has been replaced by a three-dimensional tunnel structure rendered in ochre. The arched tunnel mouth whose arch geometry is derived directly from the n's own arch form is scaled up and given depth and perspective. The tunnel structure sits where the nn pair would stand, inferrable as two n's through word context. The entire word is simultaneously rotated to a diagonal orientation, departing from a conventional horizontal baseline, so that the letterforms appear in an isometric perspective. Every letterform's orientation has been changed without altering any individual geometry.
 concept_encoded: A tunnel; the spatial experience of depth and passage through
