@@ -140,10 +140,40 @@ The Markdown files in `entries/` and the bounding boxes in `boxes.json` are the 
 | `entries/` | One annotated Markdown file per entry |
 | `images/` | One image per entry, named to match |
 | `exports/` | Generated `corpus.json` |
-| `scripts/` | The export script and the box-labeling tool |
+| `scripts/` | The export script, box-labeling tool and benchmark script |
 | `boxes.json` | Bounding boxes, keyed by entry ID, merged into the export by the build script |
+| `results/` | Per-entry benchmark predictions, one file per model |
 
 ---
+
+## Benchmark
+
+`scripts/eval.py` scores a vision model on three tasks using the bounding boxes and labels in `corpus.json`. The model sees only the image and the word, never the labels, scores or source.
+
+| Task | What the model does | Metric |
+|---|---|---|
+| Localization | Returns a box where the operation acts | Hit rate at IoU ≥ 0.5 (≥ 0.3 for absent letters), mean IoU |
+| Classification | Picks one of the five primitives | Accuracy |
+| Failure detection | Judges whether the design succeeds | Precision, recall, F1 on failures (score ≤ 2) |
+
+### Baselines
+
+| Baseline | Localization (hit rate / mean IoU) | Classification | Failure detection (recall / F1) |
+|---|---|---|---|
+| Random (seed 0) | 0% / 0.06 | 24% | 55% / 36% |
+| Trivial (whole-image box, always "Substitution", always "success") | 0% / 0.04 | 20% | 0% / n/a |
+
+Reference points: chance for classification is 20% (five primitives, 10 entries each), and 11 of 50 entries (22%) are failures. Neither baseline hits a single target at IoU ≥ 0.5, so localization has full headroom.
+
+These are floors, not model results. A model has to beat them to show any signal. No vision model has been scored yet. Results for a real model will be added to `results/`.
+
+```
+python scripts/eval.py --model random
+python scripts/eval.py --model trivial
+python scripts/eval.py --model anthropic --model-name <model id>   # needs ANTHROPIC_API_KEY
+```
+
+Per-entry predictions are saved to `results/<model>.json`. To score another model, add a class with `localize`, `classify` and `judge` methods to `scripts/eval.py`.
 
 ## Known Limitations
 
@@ -152,6 +182,8 @@ The Markdown files in `entries/` and the bounding boxes in `boxes.json` are the 
 - **AI-generated entries come from one model family and from prompts written to provoke failure.** They show failure modes, not the model's average output.
 - **Universality is argued, not proven.** The taxonomy was stress-tested against the examples collected here. Any example that resists the five primitives is a finding, and should be reported.
 - **Bounding boxes are one annotator's judgment.** Boxes for absent letters (Suppression) are approximate by nature, since a missing letter has no exact location.
+- **Failure detection can be confounded.** Most failures are AI-generated, so a model could score well by recognizing AI-generated style rather than by judging semantics.
+- **The benchmark is small.** At 50 entries, differences between models of a few points are within noise. Reported confidence intervals are wide.
 
 ---
 
