@@ -1,0 +1,1002 @@
+[
+  {
+    "entry_id": "ET-001",
+    "word": "grill",
+    "primary_primitive": "Substitution",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.12073099,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": true,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-002",
+    "word": "missing",
+    "primary_primitive": "Suppression",
+    "absent": true,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.0025619999999999987,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-003",
+    "word": "DROP",
+    "primary_primitive": "Inflection",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.03148825,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-004",
+    "word": "CHEERS",
+    "primary_primitive": "Mutation",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.09606540000000001,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-005",
+    "word": "Copernicus",
+    "primary_primitive": "Extension",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.14906100000000003,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-006",
+    "word": "Television",
+    "primary_primitive": "Substitution",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.04682615,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": true,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-007",
+    "word": "half",
+    "primary_primitive": "Suppression",
+    "absent": true,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.03238494000000001,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-008",
+    "word": "Slim",
+    "primary_primitive": "Mutation",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.009027110000000005,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-009",
+    "word": "kiss",
+    "primary_primitive": "Inflection",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.00466440000000001,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-010",
+    "word": "DISTANCE",
+    "primary_primitive": "Extension",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.012987280000000009,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-011",
+    "word": "egg",
+    "primary_primitive": "Substitution",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.014818560000000001,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": true,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-012",
+    "word": "connect",
+    "primary_primitive": "Mutation",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.005347890000000001,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-013",
+    "word": "hide",
+    "primary_primitive": "Suppression",
+    "absent": true,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.009150000000000002,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-014",
+    "word": "divide",
+    "primary_primitive": "Extension",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.38269000000000003,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-015",
+    "word": "blank",
+    "primary_primitive": "Inflection",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.001922039999999994,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-016",
+    "word": "hour",
+    "primary_primitive": "Substitution",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.04963234000000002,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": true,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-017",
+    "word": "magic",
+    "primary_primitive": "Suppression",
+    "absent": true,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.004800000000000005,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-018",
+    "word": "dots",
+    "primary_primitive": "Inflection",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.022949999999999998,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-019",
+    "word": "slide",
+    "primary_primitive": "Mutation",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.05555361,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-020",
+    "word": "CONDOM",
+    "primary_primitive": "Extension",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.05869073,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-021",
+    "word": "search",
+    "primary_primitive": "Extension",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.03921323999999997,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-022",
+    "word": "balloon",
+    "primary_primitive": "Substitution",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.024721839999999985,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": true,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-023",
+    "word": "CANDLE",
+    "primary_primitive": "Mutation",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.01858624,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-024",
+    "word": "INVISIBLE",
+    "primary_primitive": "Suppression",
+    "absent": true,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.01851485,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-025",
+    "word": "COLD",
+    "primary_primitive": "Inflection",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.0025401600000000005,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-026",
+    "word": "find",
+    "primary_primitive": "Substitution",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.03715728,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": true,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-027",
+    "word": "EXIT",
+    "primary_primitive": "Mutation",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.03782398,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-028",
+    "word": "space",
+    "primary_primitive": "Suppression",
+    "absent": true,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.004161180000000003,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-029",
+    "word": "DIG",
+    "primary_primitive": "Extension",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.06817447,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-030",
+    "word": "caution",
+    "primary_primitive": "Inflection",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.006722189999999993,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-031",
+    "word": "tunnel",
+    "primary_primitive": "Substitution",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.006074860000000003,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": true,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-032",
+    "word": "open",
+    "primary_primitive": "Mutation",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.013275599999999999,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-033",
+    "word": "explode",
+    "primary_primitive": "Suppression",
+    "absent": true,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.005077909999999997,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-034",
+    "word": "DRAW",
+    "primary_primitive": "Extension",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.05252568999999999,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-035",
+    "word": "LIFT",
+    "primary_primitive": "Inflection",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.0037434799999999987,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-036",
+    "word": "RECYCLE",
+    "primary_primitive": "Substitution",
+    "absent": false,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.016505999999999996,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": true,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-037",
+    "word": "APOSTROPHE",
+    "primary_primitive": "Inflection",
+    "absent": false,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.006075979999999993,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-038",
+    "word": "MOOD",
+    "primary_primitive": "Extension",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.04256968,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-039",
+    "word": "stolen",
+    "primary_primitive": "Suppression",
+    "absent": true,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.007012499999999999,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-040",
+    "word": "teller",
+    "primary_primitive": "Mutation",
+    "absent": false,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.02161599000000001,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-041",
+    "word": "read",
+    "primary_primitive": "Substitution",
+    "absent": false,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.059551499999999986,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": true,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-042",
+    "word": "hill",
+    "primary_primitive": "Mutation",
+    "absent": false,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.014949999999999984,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-043",
+    "word": "tangle",
+    "primary_primitive": "Extension",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.095886,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-044",
+    "word": "numb",
+    "primary_primitive": "Inflection",
+    "absent": false,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.017826750000000006,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-045",
+    "word": "RHYTHM",
+    "primary_primitive": "Suppression",
+    "absent": true,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.014928810000000006,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-046",
+    "word": "wire",
+    "primary_primitive": "Substitution",
+    "absent": false,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.07445100000000002,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": true,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-047",
+    "word": "balance",
+    "primary_primitive": "Inflection",
+    "absent": false,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.02275,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-048",
+    "word": "FOUR",
+    "primary_primitive": "Mutation",
+    "absent": false,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.026366740000000003,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-049",
+    "word": "below",
+    "primary_primitive": "Extension",
+    "absent": false,
+    "failure": true,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.04251950000000002,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  },
+  {
+    "entry_id": "ET-050",
+    "word": "pointless",
+    "primary_primitive": "Suppression",
+    "absent": true,
+    "failure": false,
+    "loc_pred": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "loc_valid": true,
+    "iou": 0.0035253899999999998,
+    "loc_hit": false,
+    "cls_pred": "Substitution",
+    "cls_correct": false,
+    "judge_success": true,
+    "pred_failure": false
+  }
+]
