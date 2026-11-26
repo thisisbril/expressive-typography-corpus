@@ -1,0 +1,1756 @@
+{
+  "rows": [
+    {
+      "entry_id": "ET-001",
+      "word": "grill",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.2639751552795031,
+        0.46598639455782315,
+        0.5124223602484472,
+        0.7465986394557823
+      ],
+      "loc_valid": true,
+      "iou": 0.004481322175578859,
+      "loc_hit": false,
+      "cls_pred": "Inflection",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-002",
+      "word": "missing",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.24319727891156462,
+        0.43907563025210083,
+        0.8027210884353742,
+        0.6008403361344538
+      ],
+      "loc_valid": true,
+      "iou": 0.020429664226026403,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-003",
+      "word": "DROP",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.5535714285714286,
+        0.7815934065934066,
+        0.6181318681318682,
+        0.8543956043956044
+      ],
+      "loc_valid": true,
+      "iou": 0.1492665324708726,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-004",
+      "word": "CHEERS",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.3551587301587302,
+        0.29017857142857145,
+        0.6746031746031746,
+        0.9464285714285714
+      ],
+      "loc_valid": true,
+      "iou": 0.40857020868818095,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-005",
+      "word": "Copernicus",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.4807692307692308,
+        0.4346938775510204,
+        0.521978021978022,
+        0.4663265306122449
+      ],
+      "loc_valid": true,
+      "iou": 0.008745033210431503,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-006",
+      "word": "Television",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.32142857142857145,
+        0.3625,
+        0.5535714285714286,
+        0.5517857142857143
+      ],
+      "loc_valid": true,
+      "iou": 0.9383928965036044,
+      "loc_hit": true,
+      "cls_pred": "Inflection",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-007",
+      "word": "half",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.20714285714285716,
+        0.43714285714285717,
+        0.8342857142857143,
+        0.6242857142857143
+      ],
+      "loc_valid": true,
+      "iou": 0.27585161627447785,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-008",
+      "word": "Slim",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.23299319727891157,
+        0.45068027210884354,
+        0.7653061224489796,
+        0.5969387755102041
+      ],
+      "loc_valid": true,
+      "iou": 0.08409666475810425,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-009",
+      "word": "kiss",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.387987012987013,
+        0.3977272727272727,
+        0.6103896103896104,
+        0.5162337662337663
+      ],
+      "loc_valid": true,
+      "iou": 0.1769757590640939,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-010",
+      "word": "DISTANCE",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.2077922077922078,
+        0.4375,
+        0.788961038961039,
+        0.49107142857142855
+      ],
+      "loc_valid": true,
+      "iou": 0.3975630864401471,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-011",
+      "word": "egg",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.31026785714285715,
+        0.4185267857142857,
+        0.6919642857142857,
+        0.5803571428571429
+      ],
+      "loc_valid": true,
+      "iou": 0.2277131594302071,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-012",
+      "word": "connect",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.2891156462585034,
+        0.4574829931972789,
+        0.7534013605442177,
+        0.5578231292517006
+      ],
+      "loc_valid": true,
+      "iou": 0.11401601616440764,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-013",
+      "word": "hide",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.26152073732718895,
+        0.3467741935483871,
+        0.7188940092165899,
+        0.543778801843318
+      ],
+      "loc_valid": true,
+      "iou": 0.10154859693313893,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-014",
+      "word": "divide",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.0,
+        0.28869047619047616,
+        1.0,
+        0.7559523809523809
+      ],
+      "loc_valid": true,
+      "iou": 0.26847877514159707,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-015",
+      "word": "blank",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.13857142857142857,
+        0.4,
+        0.8614285714285714,
+        0.5785714285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.014890112252964377,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-016",
+      "word": "hour",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.2888198757763975,
+        0.42701863354037267,
+        0.6521739130434783,
+        0.5729813664596274
+      ],
+      "loc_valid": true,
+      "iou": 0.16087075075814358,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-017",
+      "word": "magic",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.6361607142857143,
+        0.4564732142857143,
+        0.6953125,
+        0.5111607142857143
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Inflection",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-018",
+      "word": "dots",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.26785714285714285,
+        0.36688311688311687,
+        0.6989795918367347,
+        0.6688311688311688
+      ],
+      "loc_valid": true,
+      "iou": 0.17629898835655658,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-019",
+      "word": "slide",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.14697802197802198,
+        0.2781954887218045,
+        0.8557692307692307,
+        0.6578947368421053
+      ],
+      "loc_valid": true,
+      "iou": 0.20642116565507712,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-020",
+      "word": "CONDOM",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.3067226890756303,
+        0.42207792207792205,
+        0.6659663865546218,
+        0.6655844155844156
+      ],
+      "loc_valid": true,
+      "iou": 0.5783263415955654,
+      "loc_hit": true,
+      "cls_pred": "Extension",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-021",
+      "word": "search",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.11904761904761904,
+        0.46726190476190477,
+        1.0,
+        0.5892857142857143
+      ],
+      "loc_valid": true,
+      "iou": 0.36478394388925484,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-022",
+      "word": "balloon",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.1875,
+        0.4166666666666667,
+        0.9970238095238095,
+        0.5565476190476191
+      ],
+      "loc_valid": true,
+      "iou": 0.13121392778603003,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-023",
+      "word": "CANDLE",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.2125,
+        0.40535714285714286,
+        0.7857142857142857,
+        0.5982142857142857
+      ],
+      "loc_valid": true,
+      "iou": 0.16812752001846085,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-024",
+      "word": "INVISIBLE",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.10851648351648352,
+        0.390625,
+        0.8516483516483516,
+        0.5870535714285714
+      ],
+      "loc_valid": true,
+      "iou": 0.09809037115417295,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-025",
+      "word": "COLD",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.29017857142857145,
+        0.4523809523809524,
+        0.7083333333333334,
+        0.5669642857142857
+      ],
+      "loc_valid": true,
+      "iou": 0.011436304578994418,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-026",
+      "word": "find",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.23639455782312926,
+        0.3469387755102041,
+        0.7653061224489796,
+        0.6581632653061225
+      ],
+      "loc_valid": true,
+      "iou": 0.2182676558223869,
+      "loc_hit": false,
+      "cls_pred": "Inflection",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-027",
+      "word": "EXIT",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.21103896103896103,
+        0.38961038961038963,
+        0.8246753246753247,
+        0.5876623376623377
+      ],
+      "loc_valid": true,
+      "iou": 0.3112268226836673,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-028",
+      "word": "space",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.11607142857142858,
+        0.4375,
+        0.32142857142857145,
+        0.5238095238095238
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-029",
+      "word": "DIG",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.29428571428571426,
+        0.42857142857142855,
+        0.6828571428571428,
+        0.5985714285714285
+      ],
+      "loc_valid": true,
+      "iou": 0.2714108358309824,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-030",
+      "word": "caution",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.5915178571428571,
+        0.4564732142857143,
+        0.6328125,
+        0.6116071428571429
+      ],
+      "loc_valid": true,
+      "iou": 0.6638312770933797,
+      "loc_hit": true,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-031",
+      "word": "tunnel",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.3494897959183674,
+        0.43112244897959184,
+        0.673469387755102,
+        0.6071428571428571
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-032",
+      "word": "open",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.3625,
+        0.45,
+        0.6446428571428572,
+        0.6047619047619047
+      ],
+      "loc_valid": true,
+      "iou": 0.21347999636054435,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-033",
+      "word": "explode",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.28061224489795916,
+        0.453125,
+        0.717687074829932,
+        0.609375
+      ],
+      "loc_valid": true,
+      "iou": 0.07435482845136182,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-034",
+      "word": "DRAW",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.4799107142857143,
+        0.5546875,
+        0.6205357142857143,
+        0.9988839285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.42533315567703633,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-035",
+      "word": "LIFT",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.3434065934065934,
+        0.4230769230769231,
+        0.6538461538461539,
+        0.554945054945055
+      ],
+      "loc_valid": true,
+      "iou": 0.040242107102819995,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-036",
+      "word": "RECYCLE",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.391156462585034,
+        0.4421768707482993,
+        0.5051020408163265,
+        0.5612244897959183
+      ],
+      "loc_valid": true,
+      "iou": 0.8218193256657932,
+      "loc_hit": true,
+      "cls_pred": "Substitution",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-037",
+      "word": "APOSTROPHE",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.7909663865546218,
+        0.4142857142857143,
+        0.8550420168067226,
+        0.5142857142857142
+      ],
+      "loc_valid": true,
+      "iou": 0.8968311565717811,
+      "loc_hit": true,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-038",
+      "word": "MOOD",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.14583333333333334,
+        0.4255952380952381,
+        0.9375,
+        0.5297619047619048
+      ],
+      "loc_valid": true,
+      "iou": 0.39288062941578394,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-039",
+      "word": "stolen",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": true,
+      "loc_pred": [
+        0.5167410714285714,
+        0.4654017857142857,
+        0.7589285714285714,
+        0.5602678571428571
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-040",
+      "word": "teller",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.22420634920634921,
+        0.37962962962962965,
+        0.7738095238095238,
+        0.593915343915344
+      ],
+      "loc_valid": true,
+      "iou": 0.18258588539738427,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-041",
+      "word": "read",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.6796875,
+        0.3705357142857143,
+        0.8973214285714286,
+        0.6439732142857143
+      ],
+      "loc_valid": true,
+      "iou": 0.9951669976414269,
+      "loc_hit": true,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-042",
+      "word": "hill",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.23102678571428573,
+        0.36830357142857145,
+        0.7700892857142857,
+        0.6339285714285714
+      ],
+      "loc_valid": true,
+      "iou": 0.1044078431372548,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-043",
+      "word": "tangle",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.15290178571428573,
+        0.3392857142857143,
+        0.8482142857142857,
+        0.6584821428571429
+      ],
+      "loc_valid": true,
+      "iou": 0.4302208048133864,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-044",
+      "word": "numb",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.17745535714285715,
+        0.4017857142857143,
+        0.8236607142857143,
+        0.5959821428571429
+      ],
+      "loc_valid": true,
+      "iou": 0.1404305660128724,
+      "loc_hit": false,
+      "cls_pred": "Inflection",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-045",
+      "word": "RHYTHM",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": true,
+      "loc_pred": [
+        0.4765625,
+        0.43080357142857145,
+        0.9151785714285714,
+        0.5691964285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-046",
+      "word": "wire",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.42299107142857145,
+        0.32254464285714285,
+        0.625,
+        0.6774553571428571
+      ],
+      "loc_valid": true,
+      "iou": 0.9629841524140378,
+      "loc_hit": true,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-047",
+      "word": "balance",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.09598214285714286,
+        0.38504464285714285,
+        0.9006696428571429,
+        0.5904017857142857
+      ],
+      "loc_valid": true,
+      "iou": 0.13767159138877164,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-048",
+      "word": "FOUR",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.33482142857142855,
+        0.29017857142857145,
+        0.6607142857142857,
+        0.7232142857142857
+      ],
+      "loc_valid": true,
+      "iou": 0.18683484624205624,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-049",
+      "word": "below",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.3434065934065934,
+        0.5164835164835165,
+        0.6483516483516484,
+        0.6442307692307693
+      ],
+      "loc_valid": true,
+      "iou": 0.8424208083361164,
+      "loc_hit": true,
+      "cls_pred": "Extension",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-050",
+      "word": "pointless",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.011904761904761904,
+        0.26785714285714285,
+        1.0,
+        0.31547619047619047
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Extension",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    }
+  ],
+  "raw_replies": [
+    {
+      "task": "loc",
+      "word": "grill",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [170, 274, 330, 439] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "grill",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Inflection </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "grill",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "missing",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [143, 209, 472, 286] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "missing",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Suppression </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "missing",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "DROP",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [403, 569, 450, 622] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "DROP",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "DROP",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "CHEERS",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>  <|lvr_end|>\n<answer> [179, 65, 340, 212] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "CHEERS",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "CHEERS",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "Copernicus",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [350, 426, 380, 457] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "Copernicus",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "Copernicus",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "Television",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [180, 203, 310, 309] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "Television",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Inflection </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "Television",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "half",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [145, 306, 584, 437] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "half",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "half",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "Slim",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [137, 265, 450, 351] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "Slim",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "Slim",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "kiss",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [239, 245, 376, 318] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "kiss",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "kiss",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "DISTANCE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [64, 147, 243, 165] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "DISTANCE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "DISTANCE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "egg",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [278, 375, 620, 520] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "egg",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Mutation </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "egg",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "connect",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [170, 269, 443, 328] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "connect",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "connect",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "hide",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [227, 301, 624, 472] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "hide",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Suppression </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "hide",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "divide",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [0, 97, 392, 254] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "divide",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "divide",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "blank",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [97, 280, 603, 405] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "blank",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Suppression </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "blank",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "hour",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>  <|lvr_end|>\n<answer> [186, 275, 420, 369] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "hour",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "hour",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "magic",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [570, 409, 623, 458] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "magic",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Inflection </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "magic",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "dots",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>  <|lvr_end|>\n<answer> [105, 113, 274, 206] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "dots",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "dots",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "slide",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [107, 148, 623, 350] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "slide",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "slide",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "CONDOM",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>   <|lvr_end|>\n<answer> [146, 130, 317, 205] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "CONDOM",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "CONDOM",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "search",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [40, 157, 463, 198] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "search",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "search",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "balloon",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [63, 140, 335, 187] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "balloon",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "balloon",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "CANDLE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [119, 227, 440, 335] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "CANDLE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "CANDLE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "INVISIBLE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [79, 175, 620, 263] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "INVISIBLE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "INVISIBLE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "COLD",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [195, 304, 476, 381] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "COLD",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "COLD",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "find",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [139, 204, 450, 387] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "find",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Inflection </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "find",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "EXIT",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [130, 240, 508, 362] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "EXIT",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "EXIT",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "space",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [39, 147, 108, 176] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "space",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "space",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "DIG",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [206, 300, 478, 419] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "DIG",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "DIG",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "caution",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [530, 409, 567, 548] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "caution",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "caution",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "tunnel",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [137, 169, 264, 238] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "tunnel",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "tunnel",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "open",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>  <|lvr_end|>\n<answer> [203, 189, 361, 254] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "open",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "open",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "explode",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [165, 203, 422, 273] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "explode",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "explode",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "DRAW",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [430, 497, 556, 895] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "DRAW",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "DRAW",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "LIFT",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [250, 308, 476, 404] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "LIFT",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "LIFT",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "RECYCLE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [230, 260, 297, 330] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "RECYCLE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Substitution </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "RECYCLE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "APOSTROPHE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [753, 290, 814, 360] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "APOSTROPHE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "APOSTROPHE",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "MOOD",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [49, 143, 315, 178] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "MOOD",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "MOOD",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "stolen",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [463, 417, 680, 502] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "stolen",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "stolen",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "teller",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [226, 287, 780, 449] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "teller",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "teller",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "read",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [609, 332, 804, 577] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "read",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "read",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "hill",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [207, 330, 690, 568] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "hill",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "hill",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "tangle",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [137, 304, 760, 590] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "tangle",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "tangle",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "numb",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [159, 360, 738, 534] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "numb",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Inflection </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "numb",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "RHYTHM",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [427, 386, 820, 510] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "RHYTHM",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "RHYTHM",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "wire",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [379, 289, 560, 607] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "wire",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "wire",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "balance",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [86, 345, 807, 529] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "balance",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>:<|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "balance",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "FOUR",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>  <|lvr_end|>\n<answer> [150, 130, 296, 324] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "FOUR",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "FOUR",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "below",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> [250, 376, 472, 469] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "below",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "below",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    },
+    {
+      "task": "loc",
+      "word": "pointless",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|> <|lvr_end|>\n<answer> [4, 90, 387, 106] </answer>"
+    },
+    {
+      "task": "cls",
+      "word": "pointless",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> Extension </answer>"
+    },
+    {
+      "task": "fail",
+      "word": "pointless",
+      "reply": "<|lvr_start|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|><|lvr_end|>\n<answer> {\"success\": true} </answer>"
+    }
+  ]
+}
