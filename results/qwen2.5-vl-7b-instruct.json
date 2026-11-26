@@ -1,0 +1,1756 @@
+{
+  "rows": [
+    {
+      "entry_id": "ET-001",
+      "word": "grill",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.5077639751552795,
+        0.08503401360544217,
+        0.7204968944099379,
+        0.6547619047619048
+      ],
+      "loc_valid": true,
+      "iou": 0.983184755766185,
+      "loc_hit": true,
+      "cls_pred": "Substitution",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-002",
+      "word": "missing",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.6020408163265306,
+        0.39705882352941174,
+        0.6241496598639455,
+        0.43907563025210083
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-003",
+      "word": "DROP",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.5425824175824175,
+        0.44505494505494503,
+        0.6181318681318682,
+        0.8543956043956044
+      ],
+      "loc_valid": true,
+      "iou": 0.9602800466774558,
+      "loc_hit": true,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-004",
+      "word": "CHEERS",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.3551587301587302,
+        0.29017857142857145,
+        0.6746031746031746,
+        0.8258928571428571
+      ],
+      "loc_valid": true,
+      "iou": 0.49364720867597023,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-005",
+      "word": "Copernicus",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.4807692307692308,
+        0.4346938775510204,
+        0.521978021978022,
+        0.4663265306122449
+      ],
+      "loc_valid": true,
+      "iou": 0.008745033210431503,
+      "loc_hit": false,
+      "cls_pred": "Substitution",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-006",
+      "word": "Television",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.44285714285714284,
+        0.42678571428571427,
+        0.5535714285714286,
+        0.5482142857142858
+      ],
+      "loc_valid": true,
+      "iou": 0.2871019195688824,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-007",
+      "word": "half",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.20714285714285716,
+        0.4328571428571429,
+        0.8371428571428572,
+        0.6242857142857143
+      ],
+      "loc_valid": true,
+      "iou": 0.26853184079601994,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-008",
+      "word": "Slim",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.5561224489795918,
+        0.4489795918367347,
+        0.7653061224489796,
+        0.5935374149659864
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-009",
+      "word": "kiss",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.387987012987013,
+        0.3977272727272727,
+        0.6103896103896104,
+        0.5162337662337663
+      ],
+      "loc_valid": true,
+      "iou": 0.1769757590640939,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-010",
+      "word": "DISTANCE",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.21031746031746032,
+        0.44285714285714284,
+        0.7817460317460317,
+        0.4928571428571429
+      ],
+      "loc_valid": true,
+      "iou": 0.37132090090079045,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-011",
+      "word": "egg",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.31026785714285715,
+        0.41183035714285715,
+        0.6919642857142857,
+        0.5848214285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.21747053198444116,
+      "loc_hit": false,
+      "cls_pred": "Substitution",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-012",
+      "word": "connect",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.2891156462585034,
+        0.4574829931972789,
+        0.7534013605442177,
+        0.5578231292517006
+      ],
+      "loc_valid": true,
+      "iou": 0.11401601616440764,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-013",
+      "word": "hide",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.4017857142857143,
+        0.34598214285714285,
+        0.45200892857142855,
+        0.5435267857142857
+      ],
+      "loc_valid": true,
+      "iou": 0.5411299857035389,
+      "loc_hit": true,
+      "cls_pred": "Suppression",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-014",
+      "word": "divide",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.1989795918367347,
+        0.0,
+        0.5867346938775511,
+        1.0
+      ],
+      "loc_valid": true,
+      "iou": 0.9830469434307169,
+      "loc_hit": true,
+      "cls_pred": "Mutation",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-015",
+      "word": "blank",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.15428571428571428,
+        0.3985714285714286,
+        0.8485714285714285,
+        0.5657142857142857
+      ],
+      "loc_valid": true,
+      "iou": 0.01656289965178849,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-016",
+      "word": "hour",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.6304347826086957,
+        0.4580745341614907,
+        0.7096273291925466,
+        0.6009316770186336
+      ],
+      "loc_valid": true,
+      "iou": 0.22794051097631354,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-017",
+      "word": "magic",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.5881696428571429,
+        0.42410714285714285,
+        0.6796875,
+        0.5
+      ],
+      "loc_valid": true,
+      "iou": 0.22350715654718606,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-018",
+      "word": "dots",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.26785714285714285,
+        0.37012987012987014,
+        0.4744897959183674,
+        0.5941558441558441
+      ],
+      "loc_valid": true,
+      "iou": 0.31255706400400446,
+      "loc_hit": false,
+      "cls_pred": "Substitution",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-019",
+      "word": "slide",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.14697802197802198,
+        0.2781954887218045,
+        0.8557692307692307,
+        0.6484962406015038
+      ],
+      "loc_valid": true,
+      "iou": 0.21021598093363925,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-020",
+      "word": "CONDOM",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.30462184873949577,
+        0.4090909090909091,
+        0.6680672268907563,
+        0.5811688311688312
+      ],
+      "loc_valid": true,
+      "iou": 0.9253400208381469,
+      "loc_hit": true,
+      "cls_pred": "Mutation",
+      "cls_correct": false,
+      "judge_success": false,
+      "pred_failure": true
+    },
+    {
+      "entry_id": "ET-021",
+      "word": "search",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.39732142857142855,
+        0.46875,
+        0.45982142857142855,
+        0.5535714285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.12470580663983896,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-022",
+      "word": "balloon",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.75,
+        0.20089285714285715,
+        0.9330357142857143,
+        0.45982142857142855
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-023",
+      "word": "CANDLE",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.2125,
+        0.40714285714285714,
+        0.7857142857142857,
+        0.5982142857142857
+      ],
+      "loc_valid": true,
+      "iou": 0.16969880525227826,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-024",
+      "word": "INVISIBLE",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.10714285714285714,
+        0.390625,
+        0.8557692307692307,
+        0.5803571428571429
+      ],
+      "loc_valid": true,
+      "iou": 0.10625222816388075,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-025",
+      "word": "COLD",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.29017857142857145,
+        0.41369047619047616,
+        0.7083333333333334,
+        0.5699404761904762
+      ],
+      "loc_valid": true,
+      "iou": 0.038565182337507636,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-026",
+      "word": "find",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.23639455782312926,
+        0.3469387755102041,
+        0.7653061224489796,
+        0.6581632653061225
+      ],
+      "loc_valid": true,
+      "iou": 0.2182676558223869,
+      "loc_hit": false,
+      "cls_pred": "Substitution",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-027",
+      "word": "EXIT",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.21103896103896103,
+        0.38961038961038963,
+        0.823051948051948,
+        0.5844155844155844
+      ],
+      "loc_valid": true,
+      "iou": 0.31725323065605665,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-028",
+      "word": "space",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.29910714285714285,
+        0.4375,
+        0.45982142857142855,
+        0.5535714285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-029",
+      "word": "DIG",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.7257142857142858,
+        0.4942857142857143,
+        0.91,
+        0.5285714285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.09191058821146138,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-030",
+      "word": "caution",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.5915178571428571,
+        0.42857142857142855,
+        0.6283482142857143,
+        0.6104910714285714
+      ],
+      "loc_valid": true,
+      "iou": 0.8143056893942989,
+      "loc_hit": true,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-031",
+      "word": "tunnel",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.3826530612244898,
+        0.4260204081632653,
+        0.6709183673469388,
+        0.6122448979591837
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-032",
+      "word": "open",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.3625,
+        0.4166666666666667,
+        0.6446428571428572,
+        0.6047619047619047
+      ],
+      "loc_valid": true,
+      "iou": 0.22813211894440483,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-033",
+      "word": "explode",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.28061224489795916,
+        0.39955357142857145,
+        0.7193877551020408,
+        0.6116071428571429
+      ],
+      "loc_valid": true,
+      "iou": 0.054575412641370835,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-034",
+      "word": "DRAW",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.4765625,
+        0.5424107142857143,
+        0.6171875,
+        0.9988839285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.4616546582803696,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-035",
+      "word": "LIFT",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.3475274725274725,
+        0.4230769230769231,
+        0.42032967032967034,
+        0.5535714285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-036",
+      "word": "RECYCLE",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.391156462585034,
+        0.4421768707482993,
+        0.5017006802721088,
+        0.5612244897959183
+      ],
+      "loc_valid": true,
+      "iou": 0.797287405496665,
+      "loc_hit": true,
+      "cls_pred": "Substitution",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-037",
+      "word": "APOSTROPHE",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.792016806722689,
+        0.4142857142857143,
+        0.8539915966386554,
+        0.5142857142857142
+      ],
+      "loc_valid": true,
+      "iou": 0.8696158896338246,
+      "loc_hit": true,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-038",
+      "word": "MOOD",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.13392857142857142,
+        0.42857142857142855,
+        0.8571428571428571,
+        0.5535714285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.4605477724204848,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-039",
+      "word": "stolen",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": true,
+      "loc_pred": [
+        0.5133928571428571,
+        0.4341517857142857,
+        0.7533482142857143,
+        0.5647321428571429
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-040",
+      "word": "teller",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.222007722007722,
+        0.37566137566137564,
+        0.777027027027027,
+        0.5952380952380952
+      ],
+      "loc_valid": true,
+      "iou": 0.17737023807061295,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-041",
+      "word": "read",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.6785714285714286,
+        0.36941964285714285,
+        0.8984375,
+        0.6462053571428571
+      ],
+      "loc_valid": true,
+      "iou": 0.9785675663992142,
+      "loc_hit": true,
+      "cls_pred": "Substitution",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-042",
+      "word": "hill",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.546875,
+        0.36607142857142855,
+        0.7712053571428571,
+        0.6328125
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-043",
+      "word": "tangle",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.5089285714285714,
+        0.33816964285714285,
+        0.8504464285714286,
+        0.6674107142857143
+      ],
+      "loc_valid": true,
+      "iou": 0.34744914957421363,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-044",
+      "word": "numb",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.17745535714285715,
+        0.4017857142857143,
+        0.8236607142857143,
+        0.5959821428571429
+      ],
+      "loc_valid": true,
+      "iou": 0.1404305660128724,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-045",
+      "word": "RHYTHM",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": true,
+      "loc_pred": [
+        0.08147321428571429,
+        0.4296875,
+        0.33035714285714285,
+        0.5691964285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.0,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-046",
+      "word": "wire",
+      "primary_primitive": "Substitution",
+      "absent": false,
+      "failure": false,
+      "loc_pred": [
+        0.4497767857142857,
+        0.32254464285714285,
+        0.6272321428571429,
+        0.5546875
+      ],
+      "loc_valid": true,
+      "iou": 0.55331686105558,
+      "loc_hit": true,
+      "cls_pred": "Substitution",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-047",
+      "word": "balance",
+      "primary_primitive": "Inflection",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.09598214285714286,
+        0.38504464285714285,
+        0.9006696428571429,
+        0.5904017857142857
+      ],
+      "loc_valid": true,
+      "iou": 0.13767159138877164,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-048",
+      "word": "FOUR",
+      "primary_primitive": "Mutation",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.33482142857142855,
+        0.29017857142857145,
+        0.6607142857142857,
+        0.7098214285714286
+      ],
+      "loc_valid": true,
+      "iou": 0.19279766048382396,
+      "loc_hit": false,
+      "cls_pred": "Mutation",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-049",
+      "word": "below",
+      "primary_primitive": "Extension",
+      "absent": false,
+      "failure": true,
+      "loc_pred": [
+        0.3434065934065934,
+        0.36126373626373626,
+        0.6565934065934066,
+        0.6442307692307693
+      ],
+      "loc_valid": true,
+      "iou": 0.4797874018054847,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": false,
+      "judge_success": true,
+      "pred_failure": false
+    },
+    {
+      "entry_id": "ET-050",
+      "word": "pointless",
+      "primary_primitive": "Suppression",
+      "absent": true,
+      "failure": false,
+      "loc_pred": [
+        0.10714285714285714,
+        0.38839285714285715,
+        1.0,
+        0.5758928571428571
+      ],
+      "loc_valid": true,
+      "iou": 0.021058329600000005,
+      "loc_hit": false,
+      "cls_pred": "Suppression",
+      "cls_correct": true,
+      "judge_success": true,
+      "pred_failure": false
+    }
+  ],
+  "raw_replies": [
+    {
+      "task": "loc",
+      "word": "grill",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [327, 50, 464, 385], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "grill",
+      "reply": "{\"primitive\": \"Substitution\"}"
+    },
+    {
+      "task": "fail",
+      "word": "grill",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "missing",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [354, 189, 367, 209]}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "missing",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "missing",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "DROP",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [395, 324, 450, 622], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "DROP",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "DROP",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "CHEERS",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [179, 65, 340, 185], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "CHEERS",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "CHEERS",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "Copernicus",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [350, 426, 380, 457], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "Copernicus",
+      "reply": "{\"primitive\": \"Substitution\"}"
+    },
+    {
+      "task": "fail",
+      "word": "Copernicus",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "Television",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [248, 239, 310, 307], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "Television",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "Television",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "half",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [145, 303, 586, 437], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "half",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "half",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "Slim",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [327, 264, 450, 349], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "Slim",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "Slim",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "kiss",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [239, 245, 376, 318], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "kiss",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "kiss",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "DISTANCE",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [53, 124, 197, 138], \"label\": \"the operation that alters, removes or replaces one or more letterforms\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "DISTANCE",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "DISTANCE",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "egg",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [278, 369, 620, 524], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "egg",
+      "reply": "{\"primitive\": \"Substitution\"}"
+    },
+    {
+      "task": "fail",
+      "word": "egg",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "connect",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [170, 269, 443, 328], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "connect",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "connect",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "hide",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [360, 310, 405, 487], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "hide",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "hide",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "divide",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [78, 0, 230, 336]}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "divide",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "divide",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "blank",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [108, 279, 594, 396], \"label\": \"region where the operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "blank",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "blank",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "hour",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [406, 295, 457, 387], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "hour",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "hour",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "magic",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [527, 380, 609, 448], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "magic",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "magic",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "dots",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [105, 114, 186, 183], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "dots",
+      "reply": "{\"primitive\": \"Substitution\"}"
+    },
+    {
+      "task": "fail",
+      "word": "dots",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "slide",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [107, 148, 623, 345], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "slide",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "slide",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "CONDOM",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [145, 126, 318, 179], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "CONDOM",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "CONDOM",
+      "reply": "{\"success\": false}"
+    },
+    {
+      "task": "loc",
+      "word": "search",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [89, 105, 103, 124], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "search",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "search",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "balloon",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [168, 45, 209, 103], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "balloon",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "balloon",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "CANDLE",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [119, 228, 440, 335], \"label\": \"region where the operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "CANDLE",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "CANDLE",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "INVISIBLE",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [78, 175, 623, 260]}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "INVISIBLE",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "INVISIBLE",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "COLD",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [195, 278, 476, 383], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "COLD",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "COLD",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "find",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [139, 204, 450, 387], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "find",
+      "reply": "{\"primitive\": \"Substitution\"}"
+    },
+    {
+      "task": "fail",
+      "word": "find",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "EXIT",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [130, 240, 507, 360]}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "EXIT",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "EXIT",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "space",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [67, 98, 103, 124], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "space",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "space",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "DIG",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [508, 346, 637, 370], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "DIG",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "DIG",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "caution",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [530, 384, 563, 547], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "caution",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "caution",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "tunnel",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [150, 167, 263, 240]}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "tunnel",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "tunnel",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "open",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [203, 175, 361, 254], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "open",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "open",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "explode",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [165, 179, 423, 274]}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "explode",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "explode",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "DRAW",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [427, 486, 553, 895], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "DRAW",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "DRAW",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "LIFT",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [253, 308, 306, 403], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "LIFT",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "LIFT",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "RECYCLE",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [230, 260, 295, 330], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "RECYCLE",
+      "reply": "{\"primitive\": \"Substitution\"}"
+    },
+    {
+      "task": "fail",
+      "word": "RECYCLE",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "APOSTROPHE",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [754, 290, 813, 360]}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "APOSTROPHE",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "APOSTROPHE",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "MOOD",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [30, 96, 192, 124], \"label\": \"region where the operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "MOOD",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "MOOD",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "stolen",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [460, 389, 675, 506], \"label\": \"region where the operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "stolen",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "stolen",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "teller",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [230, 284, 805, 450], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "teller",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "teller",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "read",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [608, 331, 805, 579], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "read",
+      "reply": "{\"primitive\": \"Substitution\"}"
+    },
+    {
+      "task": "fail",
+      "word": "read",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "hill",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [490, 328, 691, 567], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "hill",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "hill",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "tangle",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [456, 303, 762, 598], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "tangle",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "tangle",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "numb",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [159, 360, 738, 534], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "numb",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "numb",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "RHYTHM",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [73, 385, 296, 510], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "RHYTHM",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "RHYTHM",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "wire",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [403, 289, 562, 497], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "wire",
+      "reply": "{\"primitive\": \"Substitution\"}"
+    },
+    {
+      "task": "fail",
+      "word": "wire",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "balance",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [86, 345, 807, 529], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "balance",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "balance",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "FOUR",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [150, 130, 296, 318], \"label\": \"region where the operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "FOUR",
+      "reply": "{\"primitive\": \"Mutation\"}"
+    },
+    {
+      "task": "fail",
+      "word": "FOUR",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "below",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [250, 263, 478, 469], \"label\": \"region where this operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "below",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "below",
+      "reply": "{\"success\": true}"
+    },
+    {
+      "task": "loc",
+      "word": "pointless",
+      "reply": "```json\n[\n\t{\"bbox_2d\": [24, 87, 226, 129], \"label\": \"region where the operation acts\"}\n]\n```"
+    },
+    {
+      "task": "cls",
+      "word": "pointless",
+      "reply": "{\"primitive\": \"Suppression\"}"
+    },
+    {
+      "task": "fail",
+      "word": "pointless",
+      "reply": "{\"success\": true}"
+    }
+  ]
+}
