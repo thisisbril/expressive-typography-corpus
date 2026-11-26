@@ -165,7 +165,7 @@ The Markdown files in `entries/` and the bounding boxes in `boxes.json` are the 
 
 Reference points: chance for classification is 20% (five primitives, 10 entries each), and 11 of 50 entries (22%) are failures. Neither baseline hits a single target at IoU ≥ 0.5, so localization has full headroom.
 
-These are floors, not model results. A model has to beat them to show any signal. No vision model has been scored yet. Results for a real model will be added to `results/`.
+These are floors, not model results. A model has to beat them to show any signal. Results for a real model will be added to `results/`.
 
 ```
 python scripts/eval.py --model random
@@ -174,6 +174,23 @@ python scripts/eval.py --model anthropic --model-name <model id>   # needs ANTHR
 ```
 
 Per-entry predictions are saved to `results/<model>.json`. To score another model, add a class with `localize`, `classify` and `judge` methods to `scripts/eval.py`.
+
+### Model results
+
+| Model | Localization (hit rate / mean IoU) | Classification | Failure detection (recall) |
+|---|---|---|---|
+| Qwen2.5-VL-7B-Instruct (base) | 20% / 0.30 | 42% | 0% |
+| V-Reflection 7B (latent visual reasoning, 8 latent steps) | 16% / 0.27 | 28% | 0% |
+
+Both models ran on the same 50 entries with identical prompts, in fp16 on two T4 GPUs, with `transformers` 4.54.0. V-Reflection is a latent-visual-reasoning checkpoint built on Qwen2.5-VL-7B, so Qwen is its direct control.
+
+**Findings**
+- **Latent reasoning did not help here.** V-Reflection scored slightly lower on every task, but the 95% confidence intervals overlap, so the data show neither a gain nor a loss.
+- **Neither model detects semantic failure.** Both answered "success" for all 11 failure entries, including *numb*.
+- **Both are biased toward certain primitives.** Qwen never predicted Extension or Inflection (0% on both). V-Reflection scored 100% on Extension and near 0% on most others, consistent with defaulting to one label.
+- **Qwen names Suppression but can't find it.** It classified Suppression correctly 80% of the time but localized it at only 0.12 mean IoU.
+
+Per-entry predictions and raw model replies are in `results/`.
 
 ## Known Limitations
 
@@ -184,6 +201,7 @@ Per-entry predictions are saved to `results/<model>.json`. To score another mode
 - **Bounding boxes are one annotator's judgment.** Boxes for absent letters (Suppression) are approximate by nature, since a missing letter has no exact location.
 - **Failure detection can be confounded.** Most failures are AI-generated, so a model could score well by recognizing AI-generated style rather than by judging semantics.
 - **The benchmark is small.** At 50 entries, differences between models of a few points are within noise. Reported confidence intervals are wide.
+- **Model results use one prompt per task.** The prompts were not tuned to either model, and V-Reflection's prompts were not adapted to its training format. Treat per-primitive differences as leads, not conclusions.
 
 ---
 
